@@ -30,7 +30,6 @@ def parallel_arct(arg):
         id.value += 1
     newarticle = NewsArticle(local_id, arcticle[0], arcticle[1], arcticle[2], arcticle[3], arcticle[4], countries)
     newarticle.extract_metadata()
-    print local_id
     return newarticle
     
     
@@ -57,39 +56,52 @@ for filename in xmlfiles:
     #for arcticle in larct:
         #newarticle = NewsArticle(id, arcticle[0], arcticle[1], arcticle[2], arcticle[3], arcticle[4], countries)
         #newarticle.extract_metadata()
-    
+        
     try:
         newsarticles = proc_pool.map_async(parallel_arct, larct).get(9999999999)
+               
+        for newarticle in newsarticles:
+            aggr.add_article(newarticle)
+		    		
+        print filename + " Done."
+        print aggr.topics
+        for topic in aggr.topics:
+            if len(aggr.topics[topic]) > 1:
+                print "---------------------------------------------------------"
+                for id in aggr.topics[topic]:
+                    print aggr.articles[id].url
+                print "---------------------------------------------------------"
     except KeyboardInterrupt:
-
         proc_pool.terminate()
         print "Program Closed Successfully!"
         sys.exit(1)
     except Exception:
         print "Exception occurred!"
-        
-    for newarticle in newsarticles:
-        aggr.add_article(newarticle)
-        
-    print filename + " done"
-    print aggr.topics
-    for topic in aggr.topics:
-        if len(aggr.topics[topic]) > 1:
-            print "---------------------------------------------------------"
-            print "MATCH FOUND"
-            for id in aggr.topics[topic]:
-                print aggr.articles[id].url
-            print "---------------------------------------------------------"
 
-print "done"
+#    newsarticles = proc_pool.map(parallel_arct, larct)
+#    
+#    for newarticle in newsarticles:
+#        aggr.add_article(newarticle)
+#        
+#    print filename + " done"
+#    print aggr.topics
+#    for topic in aggr.topics:
+#        if len(aggr.topics[topic]) > 1:
+#            print "---------------------------------------------------------"
+#            print "MATCH FOUND"
+#            for id in aggr.topics[topic]:
+#                print aggr.articles[id].url
+#            print "---------------------------------------------------------"
+
+print "All filenames Completed."
 
 for topic in aggr.topics:
     if len(aggr.topics[topic]) > 1:
-        print "---------------------------------------------------------"
+        print "###########################################################"
         print "MATCH FOUND"
         for id in aggr.topics[topic]:
             print aggr.articles[id].url
-        print "---------------------------------------------------------"
+        print "###########################################################"
         
 
 
