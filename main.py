@@ -66,7 +66,7 @@ for filename in xmlfiles:
 		
         progressBar.update()
         debug.write(filename + " Done.\n")
-        debug.write("\n".join(aggr.topics) + "\n")
+        #debug.write("\n".join(aggr.topics) + "\n")
         for topic in aggr.topics:
             if len(aggr.topics[topic]) > 1:
                 debug.write("---------------------------------------------------------\n")
