@@ -6,7 +6,10 @@ from multiprocessing import Pool, Process, Value, Lock
 import multiprocessing
 import signal
 import sys,os
+from os import listdir
+from os.path import isfile, join
 from time import sleep
+from ProgressBar import ProgressBar
 
 #Handle CTR+C
 #def signal_handler(signal, frame):
@@ -39,15 +42,13 @@ aggr = NewsAggregator(0.40)
 #Number of Pools
 proc_pool = Pool(processes = 2*multiprocessing.cpu_count())
 
+#Read all files from folder
+xmlfiles = [ f for f in listdir("filesXml") if isfile(join("filesXml",f)) ]
+progressBar = ProgressBar(int(len(xmlfiles)))
 
-xmlfiles = ["cbsnews.xml", "Global News.xml", "chathamdailynews.xml", "Sky-News.xml", "npr.xml",
-            "whittierdailynews.xml", "dailynews.xml", "galvestondailynews.xml", "cbc.xml", "metro.xml", "Latimes.xml",
-            "thestar.xml", "Huffingtonpost.xml", "express.xml", "rte.xml", "nwfdailynews.xml", "irishtimes.xml",
-            "zeenews-india.xml", "scrippsobfeeds.xml", "Breaking News.xml", "abcnews.xml", "Independent.xml",
-            "Yahoo.xml", "Telegraph.xml", "FOX News.xml", "nbcnews.xml", "news24.xml", "Reuters.xml", "Google.xml",
-            "caribbeannewsnow.xml", "The Guardian.xml", "BBC.xml", "CNN.xml", "dailymail.xml", "sciencedaily.xml",
-            "tvnz.xml"]
-
+#create file for results
+results = open('results.txt', 'w+')
+debug = open('debug.txt', 'w+')
 
 
 
@@ -62,15 +63,17 @@ for filename in xmlfiles:
                
         for newarticle in newsarticles:
             aggr.add_article(newarticle)
-		    		
-        print filename + " Done."
-        print aggr.topics
+		
+        progressBar.update()
+        debug.write(filename + " Done.\n")
+        debug.write("\n".join(aggr.topics) + "\n")
         for topic in aggr.topics:
             if len(aggr.topics[topic]) > 1:
-                print "---------------------------------------------------------"
+                debug.write("---------------------------------------------------------\n")
                 for id in aggr.topics[topic]:
-                    print aggr.articles[id].url
-                print "---------------------------------------------------------"
+                    debug.write(aggr.articles[id].url + "\n")
+                debug.write("---------------------------------------------------------\n")
+        debug.flush()
     except KeyboardInterrupt:
         proc_pool.terminate()
         print "Program Closed Successfully!"
@@ -93,16 +96,16 @@ for filename in xmlfiles:
 #                print aggr.articles[id].url
 #            print "---------------------------------------------------------"
 
-print "All filenames Completed."
+#print "All filenames Completed."
 
 for topic in aggr.topics:
     if len(aggr.topics[topic]) > 1:
-        print "###########################################################"
-        print "MATCH FOUND"
+        results.write("---------------------------------------------------------\n")
+        results.write("MATCH FOUND\n")
         for id in aggr.topics[topic]:
-            print aggr.articles[id].url
-        print "###########################################################"
-        
+            results.write(aggr.articles[id].url + "\n")
+        results.write("---------------------------------------------------------\n")
+        results.flush()
 
 
 
