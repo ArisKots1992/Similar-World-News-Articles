@@ -36,4 +36,3 @@ def getCountry(query):
 
     return result
 
-print getCountry("kalithea")

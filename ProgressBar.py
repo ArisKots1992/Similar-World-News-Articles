@@ -38,3 +38,16 @@ class ProgressBar:
         sys.stdout.flush()
         return
 
+class SupportBar:
+    
+    def __init__(self):
+        SupportBar.counter = 0
+        
+    def increase(self):
+        SupportBar.counter += 1
+        
+    def init(self):
+        SupportBar.counter = 0
+        
+    def get(self):
+        return SupportBar.counter

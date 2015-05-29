@@ -10,6 +10,7 @@ from os import listdir
 from os.path import isfile, join
 from time import sleep
 from ProgressBar import ProgressBar
+from ProgressBar import SupportBar
 
 #Handle CTR+C
 #def signal_handler(signal, frame):
@@ -22,6 +23,10 @@ from ProgressBar import ProgressBar
 id = Value('i',0)
 lock = Lock()
 
+#only for prints
+##supplock = Lock()
+##supportBar = SupportBar()
+
 #some Countries
 countries = ["Greece"]
 
@@ -33,14 +38,20 @@ def parallel_arct(arg):
         id.value += 1
     newarticle = NewsArticle(local_id, arcticle[0], arcticle[1], arcticle[2], arcticle[3], arcticle[4], countries)
     newarticle.extract_metadata()
+##    with supplock:
+##        supportBar.increase()
+##        size = len(str(supportBar.get()))
+##        spaces = ' ' * (5 - size)
+##        sys.stdout.write("{0}{1}\b\b\b\b\b".format(supportBar.get(), spaces))
+##        sys.stdout.flush()
     return newarticle
     
     
 #set 40% similarity
-aggr = NewsAggregator(0.40)
+aggr = NewsAggregator(0.30)
 
 #Number of Pools
-proc_pool = Pool(processes = 2*multiprocessing.cpu_count())
+proc_pool = Pool(processes = 3*multiprocessing.cpu_count())
 
 #Read all files from folder
 xmlfiles = [ f for f in listdir("filesXml") if isfile(join("filesXml",f)) ]
@@ -50,20 +61,22 @@ progressBar = ProgressBar(int(len(xmlfiles)))
 results = open('results.txt', 'w+')
 debug = open('debug.txt', 'w+')
 
-
-
+   
 for filename in xmlfiles:
     larct = parse("filesXml/" + filename)
     #for arcticle in larct:
         #newarticle = NewsArticle(id, arcticle[0], arcticle[1], arcticle[2], arcticle[3], arcticle[4], countries)
         #newarticle.extract_metadata()
-        
+
     try:
+        ##sys.stdout.write("(" + str(len(larct)) + "/" )
+        ##sys.stdout.flush()
         newsarticles = proc_pool.map_async(parallel_arct, larct).get(9999999999)
-               
+        
         for newarticle in newsarticles:
             aggr.add_article(newarticle)
-		
+
+        ##supportBar.init()
         progressBar.update()
         debug.write(filename + " Done.\n")
         #debug.write("\n".join(aggr.topics) + "\n")
@@ -78,8 +91,8 @@ for filename in xmlfiles:
         proc_pool.terminate()
         print "Program Closed Successfully!"
         sys.exit(1)
-    except Exception:
-        print "Exception occurred!"
+##    except Exception:
+##        print "Exception occurred!"
 
 #    newsarticles = proc_pool.map(parallel_arct, larct)
 #    
