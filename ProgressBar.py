@@ -3,7 +3,7 @@ import time
 import sys
 import math
 
-#HOMEMADE WITHOUT READY CODE by Aris
+#HOMEMADE WITHOUT ONLINE CODE by Aris
 #LIENCE BY ARIS
 class ProgressBar:
 
