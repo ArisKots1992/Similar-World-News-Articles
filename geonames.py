@@ -12,27 +12,32 @@ def geo_search(query):
 import urllib2
 from bs4 import BeautifulSoup
 
+Cache = dict()
 def getCountry(query):
-
-    url = "http://api.geonames.org/search?q=" + query.replace(" ","%20") + "&maxRows=1&username=project0&password=jasonaris"
-    response = urllib2.urlopen(url)
-    page_source = response.read()
-
-    soup = BeautifulSoup(page_source)
-    countryname = str(soup.find('countryname'))
     
-    result = dict()
-    if countryname is None:
-        result["country"] = ""
+    if query in Cache:
+        return Cache[query]
     else:
-        result["country"] = countryname.replace("<countryname>","").replace("</countryname>","")
+        url = "http://api.geonames.org/search?q=" + query.replace(" ","%20") + "&maxRows=1&username=project0&password=jasonaris"
+        response = urllib2.urlopen(url)
+        page_source = response.read()
 
-    name = str(soup.find('name'))
-    if name is None:
-        result["place"] = ""
-    else:
-        result["place"] = name.replace("<name>","").replace("</name>","")
+        soup = BeautifulSoup(page_source)
+        countryname = str(soup.find('countryname'))
         
+        result = dict()
+        if countryname is None:
+            result["country"] = ""
+        else:
+            result["country"] = countryname.replace("<countryname>","").replace("</countryname>","")
 
-    return result
+        name = str(soup.find('name'))
+        if name is None:
+            result["place"] = ""
+        else:
+            result["place"] = name.replace("<name>","").replace("</name>","")
+        
+        Cache[query] = result
+    
+        return result
 
