@@ -16,8 +16,8 @@ from ProgressBar import SupportBar
 #some Countries
 countries = ["Greece"]
 
-#set 40% similarity
-aggr = NewsAggregator(0.35)
+#set 50% similarity
+aggr = NewsAggregator(0.50)
 
 #Read all files from folder
 xmlfiles = [ f for f in listdir("filesXml") if isfile(join("filesXml",f)) ]
@@ -61,8 +61,8 @@ for filename in xmlfiles:
     for topic in aggr.topics:
         if len(aggr.topics[topic]) > 1:
             debug.write("---------------------------------------------------------\n")
-            for id in aggr.topics[topic]:
-                debug.write(aggr.articles[id].url + "\n")
+            for idx in aggr.topics[topic]:
+                debug.write(aggr.articles[idx].url + "\n")
             debug.write("---------------------------------------------------------\n")
             debug.flush()
     

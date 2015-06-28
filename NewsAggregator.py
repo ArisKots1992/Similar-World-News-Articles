@@ -70,6 +70,10 @@ class NewsAggregator:
         maximum_score = 0
         topic_id = -1
         for topic in topics_score:
+            #print "score of topic: "    #debug
+            #print topic                 #debug
+            #print "is "                 #debug
+            #print topics_score[topic]   #debug
             if topics_score[topic] > maximum_score:
                 maximum_score = topics_score[topic]
                 topic_id = topic
