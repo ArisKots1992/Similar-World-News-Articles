@@ -3,7 +3,8 @@ from Classifier import *
 
 
 class NewsAggregator:
-    def __init__(self, similarity_threshold):
+    def __init__(self, similarity_threshold, weights):
+        NewsAggregator.weights = weights
         self.articles = dict()      # key: article id, value: NewsArticle instance
         self.topics = dict()        # key: topic id , value: list of article ids
         self.classifiers = dict()   # key: classified variable (string), value: list of tuples (topic_id, classifier)
@@ -87,31 +88,31 @@ class NewsAggregator:
         weight = 1
         
         if var_type == "noun_phrases":
-            weight = 1
+            weight = NewsAggregator.weights[0]
         elif var_type == "hashtags":
-            weight = 2
+            weight = NewsAggregator.weights[1]
         elif var_type == "title":
-            weight = 1
+            weight = NewsAggregator.weights[2]
         elif var_type == "persons":
-            weight = 4
+            weight = NewsAggregator.weights[3]
         elif var_type == "organizations":
-            weight = 1
+            weight = NewsAggregator.weights[4]
         elif var_type == "locations":
-            weight = 0
+            weight = NewsAggregator.weights[5]
         elif var_type == "countries":
-            weight = 3
+            weight = NewsAggregator.weights[6]
         elif var_type == "places":
-            weight = 5
+            weight = NewsAggregator.weights[7]
         elif var_type == "plaintext":
-            weight = 4
+            weight = NewsAggregator.weights[8]
         elif var_type == "description":
-            weight = 2
+            weight = NewsAggregator.weights[9]
         
         #print var_type
         """if var_type == "plaintext":
             weight = 17
         """
-        sum_of_weights = 23
+        sum_of_weights = sum(NewsAggregator.weights)
 
         return (score * weight) / sum_of_weights
 

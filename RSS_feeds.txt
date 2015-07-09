@@ -1,0 +1,46 @@
+Google,http://news.google.com/?output=rss
+CNN,http://rss.cnn.com/rss/edition_world.rss
+BBC,http://feeds.bbci.co.uk/news/world/rss.xml
+Huffingtonpost,http://www.huffingtonpost.com/feeds/verticals/world/index.xml
+Yahoo,http://news.yahoo.com/rss/
+FOX News,http://feeds.foxnews.com/foxnews/world
+nbcnews,http://feeds.nbcnews.com/feeds/topstories
+dailymail,http://www.dailymail.co.uk/news/index.rss
+abcnews,http://feeds.abcnews.com/abcnews/internationalheadlines
+Latimes,http://www.latimes.com/world/rss2.0.xml
+The Guardian,http://www.theguardian.com/world/rss
+Reuters,http://feeds.reuters.com/Reuters/worldNews
+Sky-News,http://feeds.skynews.com/feeds/rss/world.xml
+Telegraph,http://www.telegraph.co.uk/news/worldnews/rss 
+cbc,http://www.cbc.ca/cmlink/rss-world
+rte,http://www.rte.ie/news/rss/news-headlines.xml
+Global News,http://globalnews.ca/feed/
+cbsnews,http://www.cbsnews.com/latest/rss/world
+irishtimes,https://www.irishtimes.com/cmlink/news-1.1319192
+tvnz,http://tvnz.co.nz/content/ta_tvnz_world_headlines_auto_group/rss_20_skin.xml
+npr,http://www.npr.org/rss/rss.php?id=1004
+metro,http://metro.co.uk/news/world/feed/
+express,http://feeds.feedburner.com/daily-express-world-news
+news24,http://feeds.news24.com/articles/News24/World/rss
+Breaking News,http://api.breakingnews.com/api/v1/item/?format=rss
+thestar,http://www.thestar.com.my/RSS/News/World/
+caribbeannewsnow,http://www.caribbeannewsnow.com/news/_files/rss/news/Caribbean-News-Now!-Daily-Headlines.xml
+dailynews,http://www.dailynews.com/section?template=RSS&profile=4000032&mime=xml
+chathamdailynews,http://www.chathamdailynews.ca/news/world/rss.xml
+sciencedaily,http://feeds.sciencedaily.com/sciencedaily
+nwfdailynews,http://www.nwfdailynews.com/cmlink/news-rss-1.2266
+scrippsobfeeds,http://scrippsobfeeds.endplay.com/content-syndication-portlet/feedServlet?obfType=RSS_FEED&siteId=100108&categoryId=10001
+AP,http://hosted2.ap.org/atom/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5
+sbs Asia Pacific News,http://sbs.feedsportal.com/c/34692/f/637529/index.rss
+sbs Europe News,http://sbs.feedsportal.com/c/34692/f/637531/index.rss
+sbs North America News,http://sbs.feedsportal.com/c/34692/f/637533/index.rss
+sbs South America News,http://sbs.feedsportal.com/c/34692/f/637534/index.rss
+sbs Africa News,http://sbs.feedsportal.com/c/34692/f/637532/index.rss
+sbs Middle East News,http://sbs.feedsportal.com/c/34692/f/637530/index.rss
+UPI,http://rss.upi.com/news/tn_int.rss
+USATODAY,http://rssfeeds.usatoday.com/usatodaycomworld-topstories&x=1
+NEWS,http://feeds.news.com.au/public/rss/2.0/news_theworld_3356.xml
+SMH,http://www.smh.com.au/rssheadlines/world/article/rss.xml
+Washington Post,http://feeds.washingtonpost.com/rss/rss_blogpost
+Times of India,http://timesofindia.feedsportal.com/c/33039/f/533917/index.rss
+canada,http://rss.canada.com/get/?F7432
