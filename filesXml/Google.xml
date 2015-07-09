@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <site name="Google">
     <Article id="0">
+<<<<<<< HEAD
         <date>Fri Jun 26 15:00:32 EEST 2015</date>
         <title>Attacker Storms Factory Near Lyon, France, Beheading One - New York Times</title>
         <Link>http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNFr54And1aifiIN0pt0OiQqgRnBvQ&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52778888740792&amp;ei=UEmNVcjfAt7baar8rJAO&amp;url=http://www.nytimes.com/2015/06/27/world/europe/french-factory-lyon-attack-isis.html</Link>
@@ -11,6 +12,50 @@
         <date>Fri Jun 26 15:13:22 EEST 2015</date>
         <title>Tunisia attack: '19 killed' in Sousse hotel - BBC News</title>
         <Link>http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNFu9fAeGKKmvf2WXET9sKtCIArI6g&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52778888824887&amp;ei=UEmNVcjfAt7baar8rJAO&amp;url=http://www.bbc.co.uk/news/world-africa-33287978</Link>
+=======
+        <date>Sun Jun 28 16:41:00 EEST 2015</date>
+        <title>Taiwan probes water park fire as tally of injured put at 498 - Reuters</title>
+        <Link>http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNFFTYPT95IDiBi0_cMLC8p5VW8i_Q&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52778888991832&amp;ei=7ACQVYjuEoqpaJfek9AK&amp;url=http://www.reuters.com/article/2015/06/28/us-taiwan-fire-idUSKBN0P70TC20150628</Link>
+        <Description/>
+        <MainBody>Taiwan probes water park fire as tally of injured put at 498
+TAIPEI | By J.R. Wu and Pichi Chuang
+TAIPEI The number of party revelers injured in a fire at a Taiwan water park was put at 498 on Sunday as authorities began investigating the cause, suspected to be a sudden explosion of a colored powder thrown on those attending the party.
+Six foreigners and seven visitors from Hong Kong, mainland China and Macau were among those injured after about 1,000 people dancing at Saturday's event were sprayed with the powder, as a special feature of a festival also held in previous years.
+The figure released late Sunday by local authorities was lower than an earlier estimate of 519 injured due to patients being transferred between hospitals and being double-counted, a government official said.
+The blaze, which broke out at around 8.30 p.m. at the Formosa Fun Coast water park on the outskirts of the capital, Taipei, is suspected to have been caused by an explosion of the colored powder, local government official Lin Chieh-yu told Reuters.
+"It remains under investigation as to what made the powder explode," he said.
+Authorities have banned the use of the powder until the investigation is completed and its safety can be assured.
+"The next few days will be a critical time for the injured," Taiwan Premier Mao Chi-kuo told reporters. All of the 498 injured were still being treated in 43 hospitals across the island, according to the latest figures provided by the New Taipei City government.
+In the immediate aftermath of the explosion, rescuers treated hundreds of people, most of them aged between 20 and 30, who wore wet swimsuits and lay on inflatable plastic doughnuts.
+A video posted online by Apple Daily showed dancers in front of the stage engulfed in clouds of colored powder a moment before a fireball erupted, followed by pockets of flame, triggering panic and screams.
+"There was blood and people were on fire," one injured man  said.
+No death has yet been reported, but victims suffered burns on limbs and torsos, with some passing out from the pain while others had burned clothes stuck to their skin, media reports and pictures showed.
+"Her whole life is ruined," sobbed the father of Chu Li, an 18-year-old girl with burns on 80 percent of her body, during a visit by President Ma Ying-jeou to victims in a Taipei hospital.
+Soldiers, army vehicles and medical services joined the rescue effort, while hospitals in four municipal precincts, along with Taipei, are treating sufferers.
+The amusement park has been closed temporarily, it said on its website on Sunday.
+Taipei has sweltered in temperatures exceeding 30 degrees Celsius (86 degrees Fahrenheit) in recent weeks.
+(Additional reporting by Faith Hung; Editing by Clarence Fernandez and Digby Lidstone)
+A person helps an injured victim from an accidental explosion during a music concert at the Formosa Water Park in New Taipei City, Taiwan, June 27, 2015.
+Reuters/Wang Wei
+1 of 4
+right
+People carry an injured victim from an accidental explosion during a music concert at the Formosa Water Park in New Taipei City, Taiwan, June 27, 2015.
+Reuters/Chen Bo
+2 of 4
+right
+Injured victims from an accidental explosion during a music concert lie on the ground at the Formosa Water Park in New Taipei City, Taiwan, June 27, 2015.
+Reuters/Wang Wei
+3 of 4
+right
+People carry an injured victim from an accidental explosion during a music concert at the Formosa Water Park in New Taipei City, Taiwan, June 27, 2015.
+Reuters/Wu Chia
+</MainBody>
+    </Article>
+    <Article id="1">
+        <date>Sun Jun 28 16:02:48 EEST 2015</date>
+        <title>European Central Bank Limits Aid to Greek Banks Amid Debt Crisis - New York Times</title>
+        <Link>http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNGDJggksB8zhQhc98QJfLgFtnGIMg&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52778890235863&amp;ei=7ACQVYjuEoqpaJfek9AK&amp;url=http://www.nytimes.com/2015/06/29/business/greeces-financial-lifeline-is-now-up-to-european-central-bank.html</Link>
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f
         <Description/>
         <MainBody>Tunisia attack on Sousse beach 'kills 27'
 26 June 2015
@@ -28,6 +73,7 @@ One image circulating on social media appeared to show a man lying face down in 
 </MainBody>
     </Article>
     <Article id="2">
+<<<<<<< HEAD
         <date>Fri Jun 26 15:15:15 EEST 2015</date>
         <title>Islamic State Claims Responsibility for Kuwait Mosque Blast - Wall Street Journal</title>
         <Link>http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNE0Dlw0a0LxRLXk8yBEdWfnikFSqw&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52778888791661&amp;ei=UEmNVcjfAt7baar8rJAO&amp;url=http://www.wsj.com/articles/deadly-blast-hits-kuwait-mosque-1435319403</Link>
@@ -358,6 +404,199 @@ The State Department informed the Select Benghazi Committee on Thursday that the
 As for 46 other, previously unreleased Libya-related Blumenthal emails published by the committee, officials said all are in the department's records. They weren't handed over to congressional investigators because they had no relevance to events in Benghazi and did not correspond to the committee's request, the officials said. The officials added that they are willing to provide emails outside the committee's initial request, but warned that doing so would require more time.
 The emails missing from the State Department's records include missives from Blumenthal in which he sends media accounts about the killing of one of Libyan dictator Moammar Gadhafi's sons, various reports on internal politics among Libya's rebels and news of the assassination of a former Gadhafi minister in Vienna. The last email was sent Aug. 28, 2012, two weeks before the Benghazi attack, and none focus particularly on the eastern Libyan city.
 Page
+=======
+        <date>Sun Jun 28 16:55:00 EEST 2015</date>
+        <title>Heritage or hate: The history of the Confederate Flag - Hindustan Times</title>
+        <Link>http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNFYjLRAdR05lyfHOK2Sy5tK3q_2kA&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52778889459940&amp;ei=7ACQVYjuEoqpaJfek9AK&amp;url=http://www.hindustantimes.com/world-news/heritage-or-hate-the-history-of-the-confederate-flag/article1-1363799.aspx</Link>
+        <Description/>
+        <MainBody>|
+Updated: Jun 28, 2015 19:27 IST
+A Confederate flag is held up by a man at a rally outside the State House to get the Confederate flag removed from the grounds in Columbia, South Carolina (Reuters Photo)
+The recent shootings at Charleston which saw nine African-Americans gunned down at a church have brought racism and lax gun control legislation to the forefront of political debate in the US once again.
+As more and more people express outrage in the aftermath of Dylann Roof's attack, one symbol has come to define the racism that is believed to have motivated the shooter: The Confederate flag.
+But why does a relic from the US Civil War of 1861-65 still provoke such strong feelings among all classes, political or otherwise?
+Its a rather strange quirk of history that the Confederate flag  which rouses such passionate debate, both in condemnation and in support of it  was never officially sanctioned.
+Instead, the so-called "Southern Cross" that Roof was seen posing with , and that an activist was arrested for taking down in Columbia on Saturday, was the battle flag of the southern states of the US during the Civil War.
+The original flag for the Confederate was meant to, in the words of its designer William T Thompson, symbolise the Heaven-ordained supremacy of the white man over the inferior or coloured race.
+Civil war shook the United States with the South rebelling against Abraham Lincoln's decision to abolish slavery. In its aftermath, with the slave-owning landlords of the southern states shattered and brought to heel under Washington, the flag one sees today became embraced as a way of expressing regional pride. And therein lies the crux of the matter.
+Jon Stewart explains the hypocrisy surrounding the defense of the Confederate battle-flag
+Some have argued, and continue to do so, that the flag which Gen Robert E Lee most notably fought under is an important expression of the independent culture of the southern portion of the US, hence its presence over official public buildings and certain monuments.
+Others, however, claim this representation is merely whitewashing history; as President Barack Obama himself said while delivering the eulogy for the victims of Charleston on Saturday, the flag was a reminder of systematic oppression and racial subjugation.
+If u recognize the Confederate flag as part of your heritage, you're no different than Nazis! Hate is Hate. #FreeBree pic.twitter.com/wqtws5JhJm
+ Benny (@BRios82) June 27, 2015
+It is precisely for this reason that the Confederate flag continues to garner sharp criticism, and remains a contentious symbol for a country that has been confronted by the ugly spectre of racism in the recent past.
+Slavery, or rather the Union's distaste for it, was after all a significant reason why the southern states wished to secede in the first place. But how exactly did the flag re-emerge as a potent political symbol?
+It began, perhaps counter-intuitively, with the rise of the Civil Rights movement in the 20th century. As African-Americans began to articulate their political desires and push for an end to discrimination, those who opposed them sought a potent symbol to mobilise against them.
+Arguably, the first use of the Southern Cross in this manner was in 1948, when Strom Thurmond ran for president under the newly founded States Right Democratic Party, also known as the Dixiecrats.
+And while desegregation progressed, the battle flag cropped up with more and more frequency; a sign perhaps, that this reminder of the divisive and unhappy past of the US had acquired a new political presence.
+After 45 min down, the Confederate flag was back up in S. Carolina. Who's going to be the next person to #takeitdown ? http://t.co/eXBDHmeboA
+ Michael Moore (@MMFlint) June 27, 2015
+This, then, is the legacy of the battle flag of the southern states; a sharp reminder of the racism that has been an indelible part of America's socio-political conscience since its formation, and the reason why it has been under fire in the wake of Charleston and other racial attacks.
+With the President calling for the flag to be taken down permanently from public places, and widespread condemnation of it, it looks like the Southern Cross' days might be finally numbered.
+Tags
+</MainBody>
+    </Article>
+    <Article id="3">
+        <date>Sun Jun 28 16:17:13 EEST 2015</date>
+        <title>Manhunt for David Sweat Continues - ABC News</title>
+        <Link>http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNHqvkFRjbP3_JVZUdwMxJTcc4R3xA&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52778887494852&amp;ei=7ACQVYjuEoqpaJfek9AK&amp;url=http://abcnews.go.com/GMA/video/manhunt-david-sweat-continues-32081334</Link>
+        <Description/>
+        <MainBody>Video Transcript
+Transcript for Manhunt for David Sweat Continues
+Now, though, as promised that massive manhunt for escaped prisoner David sweat, it's all playing out near his accomplice Richard Matt. He's been on the run for more than three weeks now and ABC's Phillip Mena is in Malone, new York, where officials are making some bold predictions. Reporter: Danger, good morning. We spoke with the sheriff late last night, he believes there's going to be a major break in this manhunt very soon. He's not getting regular meals, regular sleep, I think he's getting desperate. Reporter: One of the men leading the hunt the local, state and federal officers pouring into the rural area believe they have sweat inside of a tight perimeter. A good or solid lead from a resident that someone has been near a cabin. Reporter: Fellow escapee Richard sweat was spotted and taken down. Calling police after discovering items missing Friday. Two pairs of boots. Reporter: He also saw a bottle of gin spill. Matt appeared to be acting intoxicating at the time he was shot. Reported in bad health with that unconer the with S.W.A.T. Team. U.s. Border patrol agent fired his weapon. Reporter: Police believe sweat was still traveling with Matt up until his death Friday and it's a matter of when, not if, the fugitive is captured or killed. Sweat has been out of prison now for three weeks, he's going to make a mistake. Reporter: And Paula, it's pouring out here, it's expected to stay this way all day. That will slow down the search, but it's going to be even harder on sweat who has no protection from the rain. Police sound pretty confident they're going to get their guy.
+This transcript has been automatically generated and may not be 100% accurate.
+</MainBody>
+    </Article>
+    <Article id="4">
+        <date>Sun Jun 28 16:07:30 EEST 2015</date>
+        <title>Nuke Talks to Miss Target; Iran Foreign Minister Heads Home - New York Times</title>
+        <Link>http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNHLawTactSh5IRhrviqLuQb062mvQ&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52778887910240&amp;ei=7ACQVYjuEoqpaJfek9AK&amp;url=http://www.nytimes.com/aponline/2015/06/28/world/middleeast/ap-iran-nuclear-talks-.html</Link>
+        <Description/>
+        <MainBody/>
+    </Article>
+    <Article id="5">
+        <date>Sun Jun 28 16:02:52 EEST 2015</date>
+        <title>Watch live: SpaceX launch Sunday morning - Los Angeles Times</title>
+        <Link>http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNG7EM8VCSf1gyRWPYZ4aeza3NU1lw&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52778887325257&amp;ei=7ACQVYjuEoqpaJfek9AK&amp;url=http://www.latimes.com/business/la-fi-spacex-launch-20150628-htmlstory.html</Link>
+        <Description/>
+        <MainBody>Broadcast live streaming video on Ustream
+Early Sunday morning, entrepreneur Elon Musks SpaceX will make its third attempt to land a rocket on an ocean barge  a feat that if successful would be historic.
+The landing would happen minutes after the companys Falcon 9 rocket blasts off carrying cargo to the International Space Station.  The rocket is programmed to turn itself around after it separates from the capsule and a second-stage engine, which will continue to orbit.
+The Hawthorne-based company is trying to land its 13-story unmanned rocket in the hope that it could be used again. Such reusable rockets have long been a goal in the industry because they could sharply reduce the cost of space travel.
+This will be the seventh time SpaceX has carried cargo to the International Space Station under a contract with NASA.
+The launch from Florida's Cape Canaveral is scheduled for 7:21 a.m. PDT. Coverage of the event by NASAs television station begins at 6 a.m.
+Follow me on Twitter @MelodyPetersen
+</MainBody>
+    </Article>
+    <Article id="6">
+        <date>Sun Jun 28 16:13:44 EEST 2015</date>
+        <title>Man, 64, shot near San Francisco Pride Parade, several detained - New York Daily News</title>
+        <Link>http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNEscURUuBKdr2REpGnZCRUaCMR9KA&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52778889238035&amp;ei=7ACQVYjuEoqpaJfek9AK&amp;url=http://www.nydailynews.com/news/national/man-shot-san-francisco-pride-parade-detained-article-1.2274005</Link>
+        <Description/>
+        <MainBody>Share this URL
+Jeff Chiu/AP
+Police say a bystander was shot at a gay pride event in San Francisco's Civic Center when an argument between several young men turned violent.
+CNN
+People scatter after a shooting at a gay pride event in San Francisco.
+Sean-Franc Strang/AP
+Police arrived at the scene after shots were fired at a gay pride event in San Francisco, Saturday.
+Previous Next
+Enlarge
+A man was shot in the arm Saturday near the San Francisco Pride Parade after an argument broke out and shots were fired.
+The shooting was unrelated to Pride events, police said, and stemmed from an argument between two groups of young men. The argument escalated and one of the men pulled out a gun and fired four shots.
+The 64-year-old man who was shot was nearby watching the parade. He was taken to San Francisco General Hospital for treatment and was reported to be in stable condition.
+Another man near the scene of the shooting was able to film the moment the shots rang out with his cellphone. In the video, people are seen screaming and running for cover.
+Police arrived at the scene around 6 p.m. and were able to detain several suspects.
+</MainBody>
+    </Article>
+    <Article id="7">
+        <date>Sun Jun 28 16:23:00 EEST 2015</date>
+        <title>​Same-sex marriage: A matter of dignity - CBS News</title>
+        <Link>http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNHvBl2yL3GWtzIeA1p437T4jCpICA&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52778885692391&amp;ei=7ACQVYjuEoqpaJfek9AK&amp;url=http://www.cbsnews.com/news/same-sex-marriage-a-matter-of-dignity/</Link>
+        <Description/>
+        <MainBody>"The thing about the same-sex marriage issue is, it wasn't started by the big gay groups -- they hated this issue," said Andy Humm, a long-time gay activist and journalist in New York.
+"The big gay groups thought it was a big loser, and they were right in the beginning."
+What changed so quickly? Because, he said, same-sex marriage in a few states happened, "and the sky didn't fall. The law changed, and what changed for people in their lives?  Well, they just saw happiness for gay couples."
+Gloria and Linda Bailey-Davies were married on May 17, 2004, the first day same-sex marriage licenses were issued in Massachusetts, the first state to legalize gay marriage.
+Since then, how much the landscape has changed is remarkable, and how fast -- over the last two years especially, the number of states has accelerated, reaching 37  -- before the Supreme Court guaranteed the right to same-sex marriage nationwide.
+In 1996, fewer than 3 in 10 Americans (27 percent) thought same-sex marriage should be legal. Now, nearly 6 in 10 (57 percent) do .
+Among those who do not: 55 percent of Republicans.
+"I don't think most of us who have ever read the scripture would believe that there is a division over what marriage means," said former Arkansas Governor Mike Huckabee. "It's still one man, one woman, life partners, and the courts can no more suspend the law of marriage any more than it can suspend the law of gravity."
+Like Huckabee, every Republican presidential candidate has lined up against the Supreme Court ruling .
+Democratic presidential candidate Hillary Clinton's response? "Amen, thank you!"
+Chief Justice John Roberts argued in his dissent that the issue should have been left to states -- voted on, not decreed by the court. "Just who do we think we are?" he wrote.
+"We have to go, obviously, by what the courts say, but I certainly can disagree with them, and I do," said Alabama Governor Robert Bentley. He's willing to comply with the ruling, but there is resistance..
+When Michael Robinson and his partner, Earl Benjamin, tried to get a marriage license in New Orleans after the court ruled on Friday, they were told they would have to wait. Louisiana and Mississippi claimed "legal technicalities."
+"It's disappointing that Louisiana will not be following the movement that is happening around the country today," said Robinson.
+And in Texas, Reverend Dave Welch of the Houston Area Pastor Council vowed disobedience. "A law that violates the law of God is no law at all," he said. "There is no question: it is by the thousands and tens of thousands and the hundreds of thousands that will not bend the knee and we will not kiss the ring. We will not bow to the god of political correctness that seems to be dominating much of our court system today."
+Andy Humm said in response, "This is your homophobia. This is your fear. This is your hatred of gay people, and you gotta get over it."
+Immediately after the Supreme Court decision, 85-year-old Jack Evans and 82-year-old George Harris, partners for more than 50 years, were the first gays to tie the knot legally in Dallas. An estimated 390,000 same-sex couples had already beaten them to it in the United States, raising this question: A generation from now, will gay marriage be a non-issue?
+For more info:
+ 2015 CBS Interactive Inc. All Rights Reserved.
+Shares
+</MainBody>
+    </Article>
+    <Article id="8">
+        <date>Sun Jun 28 15:17:00 EEST 2015</date>
+        <title>Kuwait government says mosque suicide bomber was Saudi national - CNN</title>
+        <Link>http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNHE7lnXWBXOc0aGU_mBgkMk2mCZrw&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52778888791661&amp;ei=7ACQVYjuEoqpaJfek9AK&amp;url=http://www.cnn.com/2015/06/28/middleeast/kuwait-mosque-suicide-bombing/</Link>
+        <Description/>
+        <MainBody>Driver's landlord, bearer of 'deviant ideology' arrested
+Kuwait government says bomber's driver was illegal immigrant.
+Worst attack in Kuwait in years
+(CNN)
+Kuwait's Interior Ministry said Sunday that it had identified the suicide bomber who blew himself up at a mosque as a Saudi citizen, according to the official Kuwait News Agency.
+The Ministry named the attacker as Fahad Suleiman Abdulmohsen Al-Gabbaa.
+The terrorist group ISIS, which claimed responsibility for the attack, had identified the bomber as Abu Sulieman al Muwahid -- probably the man's nom de guerre.
+The bomb ripped through the Al-Sadiq mosque during Friday prayers -- a time when, more than other, mosques are packed with worshipers.
+It was the worst terrorist attack Kuwait had seen in years, and one of three that took place on three different continents Friday.
+Kuwaiti emergency personnel pull stretchers past security forces outside the Shiite Al-Imam al-Sadeq mosque after it was targeted by a suicide bombing during Friday prayers on June 26, 2015, in Kuwait City.
+Kuwaiti police said they had arrested the man who drove the bomber to the mosque, the country's state-run Kuwait News Agency reported early Sunday. They identified him as Abdulrahman Sabah Eidan Saud, whom they said was as an "illegal resident" born in 1989.
+In addition, police said they had arrested the driver's landlord, whom who they said was the "bearer of fundamentalist and deviant ideology."
+A message of unity
+Beyond the immediate investigation looms the issue of preventing such attacks in the future and ensuring that ISIS, which is wreaking havoc in neighboring Iraq and also has claimed attacks in Saudi Arabia, cannot do the same in Kuwait.
+Kuwaiti newspapers Saturday carried messages of unity in this emirate, where Shias are one-third of the population.
+JUST WATCHED
+</MainBody>
+    </Article>
+    <Article id="9">
+        <date>Sun Jun 28 16:35:36 EEST 2015</date>
+        <title>Tunisia attack: No 10 flags to be flown at half-mast - BBC News</title>
+        <Link>http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNEQtS9oluSmsw10BxXepkyrFIiDBA&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52778888824887&amp;ei=7ACQVYjuEoqpaJfek9AK&amp;url=http://www.bbc.co.uk/news/uk-33304310</Link>
+        <Description/>
+        <MainBody>Tunisia attack: No 10 flags to be flown at half-mast
+28 June 2015
+From the section UK
+The beach area where the attack happened reopened on Sunday
+Downing Street's flags will be flown at half-mast in memory of the British victims of the Tunisian beach attack.
+Officials fear the UK death toll from Friday's gun attack is likely to be in the mid to high 20s, out of a total of 38 victims.
+Relatives of others still missing are anxiously awaiting any news of their loved ones.
+Daniel Welch, who has not heard from his grandfather John since the attack, said "we can only expect the worst".
+Simon Boon is another Briton desperately seeking information.
+He says he saw his sister Allison Heathcote on news channels being stretchered off the beach on a sunbed, but had very little information from the Foreign Office, and had to rely on news websites and phoning hospitals in Sousse to find out what happened.
+She had received two gunshot wounds, had undergone surgery and was now critical, he said.
+"My brother-in-law - we still have no information. Originally the Foreign Office said he was with his wife but no hospitals have any records," he said.
+"Nearly 48 hours on, we're none the wiser."
+The Foreign Office flag was lowered to half-mast in memory of the victims of Friday's gun attack
+A total of 38 people were killed in the attack at a beach resort in Sousse on Friday, and an unspecified number have been injured.
+Other countries affected by the shooting carried out by 23-year-old Seifeddine Rezgui, who had links with Islamic State, include Belgium, Germany and Ukraine. Three people from Ireland were also killed.
+The Foreign Office has updated its travel advice to warn that further terrorist attacks in Tunisia are possible, and urged people to be vigilant.
+'Won't have had phones'
+Speaking after she chaired a meeting of the government's emergency Cobra committee, Home Secretary Theresa May said Foreign Office staff were working round the clock in Tunisia and a 24-hour crisis centre was up and running in the UK.
+She added that she had seen no evidence to indicate the beach was targeted because of the high number of British holidaymakers.
+Armed police are now patrolling the beach where the gun attack took place
+The home secretary suggested officials were having difficulty identifying the British victims as many were not carrying identification.
+Ms May said many would not have had passports with them on the beach and some victims were being moved between hospitals in the country.
+"What's important is that the information is absolutely 100% correct when it is given to a family," she told  BBC One's Andrew Marr Show.
+"If you can imagine, because of the circumstances of the attack, people won't have had documents with them, they won't necessarily have had phones."
+No British victims have been officially identified but the names of some have been confirmed by friends and family :
+Carly Lovett, 24, a beauty blogger and photographer from Gainsborough in Lincolnshire who was first to be named
+Sue Davey and her partner Scott Chalkley, both in their 40s, whose deaths were confirmed by their respective sons
+Adrian Evans, his father, 78-year-old Patrick Evans and nephew Joel Richards, 19, from Wednesbury.
+Bruce Wilkinson, 72, from Goole in Yorkshire
+Lisa Burbidge, in her 60s, from Whickham, Gateshead
+Claire Windass, 54, from Hull, was on the beach with her husband, who survived.
+Carly Lovett, Adrian Evans and Joel Richards, left to right
+Sue Davey and Scott Chalkley
+Mr Welch, from Swindon in Wiltshire, says he is at a "bit of a loss" about his grandfather John Welch, 74, and his partner Eileen Swannack, 70.
+He said the hardest thing was "not knowing".
+John Welch and his partner Eileen Swannack
+The family of Denis and Elaine Thwaites, from Blackpool, Lancashire, are appealing for information about their whereabouts.
+The retired couple, aged 70 and 69, arrived in Sousse on Wednesday and had been staying at the Marhaba.
+Their son-in-law Danny Clifford said news the family had received telling them Mr and Mrs Thwaites were in hospital was proved to be misinformation. "We are absolutely frantic," he added.
+Denis and Elaine Thwaites
+The beach area at Sousse where the attack took place has now reopened.
+Rezgui, a Tunisian student who was not previously known to the authorities, began his attack on tourists at noon on Friday. He had been posing as a swimmer but carrying a rifle under a parasol.
+Rezgui shot at people on the beach near the Imperial Marhaba and Bellevue hotels. He then entered one of the hotel lobbies, where explosives were also detonated.
+He then walked through the streets of Sousse where he was reportedly chased by local Tunisians, firing shots at them.
+It has also been reported that local builders threw rubble down at him from rooftops as he passed by in the street. The attack eventually ended when he was shot dead by police.
+His parents, sister and close friends have been detained by the Tunisian authorities.
+Were you in Sousse in Tunisia when the attacks happened? Do you have friends or family affected? Please share your stories.
+You can share your experiences by emailing haveyoursay@bbc.co.uk . If you are happy to speak to a BBC journalist, please leave a contact number.
+Or WhatsApp us on+44 7525 900971.
+Or you can comment here:
+Required field
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f
 </MainBody>
     </Article>
 </site>

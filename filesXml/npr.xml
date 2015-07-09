@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <site name="npr">
     <Article id="0">
+<<<<<<< HEAD
         <date>Fri Jun 26 15:29:00 EEST 2015</date>
         <title>At Least 27 Dead After Attack On Hotel At Tunisian Beach Resort</title>
         <Link>http://www.npr.org/sections/thetwo-way/2015/06/26/417704593/19-dead-after-gunman-attacks-hotel-at-tunisian-beach-resort?utm_medium=RSS&amp;utm_campaign=world</Link>
@@ -73,23 +74,104 @@ Speaking about the attack, Hollande said, "Our answer is prevention, deterrence 
         <MainBody>Migrants In French Camp Near English Channel Attempt To Get Into Britain
 June 26, 2015 5:04 AM ET
 
+=======
+        <date>Sun Jun 28 16:22:00 EEST 2015</date>
+        <title>Kuwait Says Saudi Responsible For Mosque Suicide Bombing</title>
+        <Link>http://www.npr.org/sections/thetwo-way/2015/06/28/418279847/kuwait-fingers-saudi-in-mosque-suicide-bombing?utm_medium=RSS&amp;utm_campaign=world</Link>
+        <Description>Officials say the Saudi national flew into the neighboring Gulf nation hours before launching the attack that killed 27 worshipers.</Description>
+        <MainBody>Kuwait Says Saudi Responsible For Mosque Suicide Bombing
+June 28, 2015 9:22 AM ET
+People gather near flag-draped coffins of Kuwaiti Shiite victims from Friday's suicide bombing at a mosque in the capital. Khider Abbas/EPA/Landov hide caption
+itoggle caption Khider Abbas/EPA/Landov
+People gather near flag-draped coffins of Kuwaiti Shiite victims from Friday's suicide bombing at a mosque in the capital.
+Khider Abbas/EPA/Landov
+The suicide bomber who attacked a Shiite mosque in Kuwait last week , killing 27 people, was a Saudi national who flew into the neighboring Gulf nation hours before carrying out his deadly mission, Kuwaiti officials say. The self-declared Islamic State later claimed responsibility for the attack.
+The Associated Press reports that Kuwait police have started making arrests in connection with the bombing during Friday midday prayers at the Imam Sadiq Mosque in Kuwait City.
+The AP reports:
+"The Interior Ministry named the bomber as Fahad Suleiman Abdulmohsen al-Gabbaa and said he was born in 1992, making him 22 or 23 years old. It said in a statement carried by the official Kuwait News Agency that he arrived on a flight to Kuwait International Airport at dawn Friday.
+"Authorities also said they arrested a 25-year-old from Kuwait's 'bidoon'  or desert nomad  community, identified as Abdulrahman Sabah Eidan Saud, who they say drove the car that brought the bomber to the mosque."
+The Interior Ministry described Abdulrahman as a follower of "fundamentalist and deviant ideology."
+Reuters says:
+"Officials said the bombing was clearly meant to stir enmity between majority Sunnis and minority Shiites and harm the comparatively harmonious ties between the sects in Kuwait.
+"Shiites are between 15 and 30 percent of the population of Kuwait, a mostly Sunni country where members of both communities live side by side with little apparent friction."
+</MainBody>
+    </Article>
+    <Article id="1">
+        <date>Sun Jun 28 15:41:00 EEST 2015</date>
+        <title>Greece Tries To Stanch Bank Run Ahead Of Looming Default</title>
+        <Link>http://www.npr.org/sections/thetwo-way/2015/06/28/418276486/greece-tries-to-stanch-bank-run-ahead-of-looming-default?utm_medium=RSS&amp;utm_campaign=world</Link>
+        <Description>The country's finance minister tells the BBC that the option for a Monday bank holiday was under discussion.</Description>
+        <MainBody>Greece Tries To Stanch Bank Run Ahead Of Looming Default
+June 28, 2015 8:41 AM ET
+A security worker brings money to a National Bank branch in Athens, Greece, on Sunday. Greeks have been withdrawing euros in anticipation of a possible default on the country's debt payments early next week. Marko Djurica/Reuters/Landov hide caption
+itoggle caption Marko Djurica/Reuters/Landov
+A security worker brings money to a National Bank branch in Athens, Greece, on Sunday. Greeks have been withdrawing euros in anticipation of a possible default on the country's debt payments early next week.
+Marko Djurica/Reuters/Landov
+As Greeks rush to withdraw cash ahead of a looming default on the country's international debt payments and a possible exit from the Eurozone, Greece is considering closing its banks on Monday in an effort to stave off a total financial collapse.
+Finance Minister Yanis Varoufakis tells the BBC that his government is weighing the option at an emergency meeting today.
+. @yanisvaroufakis tells @BBCMarkMardell : Greek Govt will be looking overnight at imposing capital controls &amp; closing banks on Monday. #tw2
+ Nick Sutton (@suttonnick) June 28, 2015
+Meanwhile, Germany's Foreign Ministry has advised travelers to Greece to make sure they have enough euros on hand before they arrive in the country.
+The drama comes as the European Central Bank is in heated discussions about whether to extend Greece's financial lifeline.
+As Joanna Kakissis reports from Athens for NPR, "Some European leaders say the Greek government closed the door on negotiations by calling a referendum. Others are pushing for a compromise to preserve the euro."
+As The New York Times reports:
+"The central bank's 25-member governing council, convened by conference call, was discussing how and whether to extend an emergency line of credit  currently worth more than 85 billion euros, or $95 billion  that in recent weeks has kept Greek banks from collapsing.
+"Analysts say that without these funds, Greek banks would not have sufficient money to provide to panicky savers if they opened on Monday. Without a continued flow of money to consumers and businesses, Greece's struggling economy would probably lapse deeper into recession."
+Greeks began lining up at ATM machines on Saturday, after Prime Minister Alexis Tsipras announced a nationwide referendum for July 5 on an international bailout for Athens  a move roundly criticized by Greece's creditors as a delay tactic. The deadline for a 1.6 billion euro ($1.9 billion) payment to the International Monetary Fund is Tuesday. But Greece and its lenders have already walked away from the bargaining table.
+Reuters says that while some ATMs in Greece were spitting out their last euros, other machines were being replenished. It says a top Greek financial official urged people on Sunday to remain calm and not withdraw all their savings.
+Civil engineer Dimitris Kostoulas says he fears bank withdrawals will be limited on Monday. "I believe that everyone is nervous. Not only us. We'll see what happens," he tells NPR.
+"We are very very close to the edge. What was sometimes seen as scaremongering is something that could happen over the next few days," economist Platon Tinios says.
+If Athens misses its payment, it would likely be forced out of the Eurozone and revert to its previous currency, the drachma. High inflation and years of financial instability would result.
+</MainBody>
+    </Article>
+    <Article id="2">
+        <date>Sun Jun 28 14:48:45 EEST 2015</date>
+        <title>In Viennese Media Center, Iranian Journalists Dance Delicately Around Pitfalls</title>
+        <Link>http://www.npr.org/2015/06/28/418261979/in-viennese-media-center-iranian-journalists-dance-delicately-around-pitfalls?utm_medium=RSS&amp;utm_campaign=world</Link>
+        <Description>Western reporters are working alongside Iranian media during numerous rounds of nuclear talks — the latest of which are taking place this week. What does their work tells us about Iran's culture?</Description>
+        <MainBody>In Viennese Media Center, Iranian Journalists Dance Delicately Around Pitfalls
+June 28, 2015 7:48 AM ET
+
+You must be signed in to leave a comment. Sign In / Register
+Please keep your community civil. All comments must follow the NPR.org Community rules and terms of use , and will be moderated prior to posting. NPR reserves the right to use the comments we receive, in whole or in part, and to use the commenter's name and location, in any medium. See also the Terms of Use , Privacy Policy and Community FAQ .
+NPR thanks our sponsors
+</MainBody>
+    </Article>
+    <Article id="3">
+        <date>Sun Jun 28 14:48:00 EEST 2015</date>
+        <title>Ukraine's Double Woes: War And Runaway Inflation</title>
+        <Link>http://www.npr.org/2015/06/28/418262045/ukraines-double-woes-war-and-runaway-inflation?utm_medium=RSS&amp;utm_campaign=world</Link>
+        <Description>Beyond the battlefront in the east, the Ukrainian government is fighting a war to reform a monumentally corrupt, dysfunctional economy. For now, Ukrainians seem willing to weather 60 percent inflation.</Description>
+        <MainBody>
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f
 You must be signed in to leave a comment. Sign In / Register
 Please keep your community civil. All comments must follow the NPR.org Community rules and terms of use , and will be moderated prior to posting. NPR reserves the right to use the comments we receive, in whole or in part, and to use the commenter's name and location, in any medium. See also the Terms of Use , Privacy Policy and Community FAQ .
 NPR thanks our sponsors
 </MainBody>
     </Article>
     <Article id="4">
+<<<<<<< HEAD
         <date>Fri Jun 26 12:04:13 EEST 2015</date>
         <title>Kosovo: The Pros And Cons Of Being Europe's Newest Country</title>
         <Link>http://www.npr.org/2015/06/26/417675810/kosovo-the-pros-and-cons-of-being-europe-s-newest-country?utm_medium=RSS&amp;utm_campaign=world</Link>
         <Description>America played a major role in Kosovo's fight for independence. Now, seven years after its emergence as a country, Kosovo suffers growing pains with more than half the young people unemployed.</Description>
         <MainBody>
+=======
+        <date>Sun Jun 28 14:48:00 EEST 2015</date>
+        <title>7 Years After Kosovo's Independence, A Border Still Fraught With Tension</title>
+        <Link>http://www.npr.org/2015/06/28/418261966/7-years-after-kosovos-independence-a-border-still-fraught-with-tension?utm_medium=RSS&amp;utm_campaign=world</Link>
+        <Description>Kosovo gained independence from Serbia less than a decade ago. The two have not yet reconciled, which is apparent when crossing the border between the countries.</Description>
+        <MainBody>7 Years After Kosovo's Independence, A Border Still Fraught With Tension
+June 28, 2015 7:48 AM ET
+
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f
 You must be signed in to leave a comment. Sign In / Register
 Please keep your community civil. All comments must follow the NPR.org Community rules and terms of use , and will be moderated prior to posting. NPR reserves the right to use the comments we receive, in whole or in part, and to use the commenter's name and location, in any medium. See also the Terms of Use , Privacy Policy and Community FAQ .
 NPR thanks our sponsors
 </MainBody>
     </Article>
     <Article id="5">
+<<<<<<< HEAD
         <date>Fri Jun 26 12:00:00 EEST 2015</date>
         <title>A Showdown Looms At South Korea's Gay Pride Parade</title>
         <Link>http://www.npr.org/sections/parallels/2015/06/26/417310709/a-showdown-looms-at-south-koreas-gay-pride-parade?utm_medium=RSS&amp;utm_campaign=world</Link>
@@ -349,6 +431,214 @@ This latest attack comes as ISIS had lost ground due to the Kurdish militia back
 The Associated Press says that "in Kobani ... an activist group said 10 people died in fighting Thursday  the first time in six months the [Islamic State] had managed to enter the town along the Syria-Turkey border." The BBC put the number of dead at 30 and says that ISIS militants killed another 20 in a nearby village.
 Meanwhile, "in the city of Hassakeh, Redur Khalil, a spokesman for the Kurdish People's Protection Units, or YPG, said [ISIS] militants attacked government-held neighborhoods on the southern edge of the city, and captured some areas. Hassakeh is divided between Syrian President Bashar Assad's forces and Kurdish fighters," the AP says.
 According to the BBC: "The apparent two-pronged IS offensive came as Kurdish fighters from the Popular Protection Units (YPG) cut a major supply line for IS near [Ar] Raqqa."
+=======
+        <date>Sun Jun 28 14:48:00 EEST 2015</date>
+        <title>Will Greece Stay In The Eurozone? Citizens Set To Vote On Bailout Deal</title>
+        <Link>http://www.npr.org/2015/06/28/418261952/will-greece-stay-in-the-eurozone-citizens-set-to-vote-on-bailout-deal?utm_medium=RSS&amp;utm_campaign=world</Link>
+        <Description>Greeks react to their Prime Minister's announcement of a snap referendum to be held on July 5 on the bailout deal offered by European leaders.</Description>
+        <MainBody>Will Greece Stay In The Eurozone? Citizens Set To Vote On Bailout Deal
+June 28, 2015 7:48 AM ET
+Joanna Kakissis
+
+You must be signed in to leave a comment. Sign In / Register
+Please keep your community civil. All comments must follow the NPR.org Community rules and terms of use , and will be moderated prior to posting. NPR reserves the right to use the comments we receive, in whole or in part, and to use the commenter's name and location, in any medium. See also the Terms of Use , Privacy Policy and Community FAQ .
+NPR thanks our sponsors
+</MainBody>
+    </Article>
+    <Article id="6">
+        <date>Sun Jun 28 14:03:15 EEST 2015</date>
+        <title>It Turns Out We Really Didn't Know What People Are Dying From</title>
+        <Link>http://www.npr.org/sections/goatsandsoda/2015/06/28/417706669/it-turns-out-we-really-didnt-know-what-people-are-dying-from?utm_medium=RSS&amp;utm_campaign=world</Link>
+        <Description>Christopher Murray, a medical doctor and economist, is changing that. A new book looks at his efforts — and why advocacy groups initially were upset by his findings.</Description>
+        <MainBody>It Turns Out We Really Didn't Know What People Are Dying From
+June 28, 2015 7:03 AM ET
+Amy Costello
+Dr. Christopher Murray in Tanzania on his quest to find out causes of death around the world. His chief collaborator Alan Lopez, is seated behind him. Courtesy of Institute for Health Metrics and Evaluation hide caption
+itoggle caption Courtesy of Institute for Health Metrics and Evaluation
+Dr. Christopher Murray in Tanzania on his quest to find out causes of death around the world. His chief collaborator Alan Lopez, is seated behind him.
+Courtesy of Institute for Health Metrics and Evaluation
+Jeremy Smith has written a new book called Epic Measures: One Doctor. Seven Billion Patients . It profiles the work of Christopher Murray , a Harvard-trained doctor and health economist who looked at a lot of numbers about how people live and die around the world and found that it's all a guess. Murray and his global team of computer scientists, number crunchers and medical specialists have devoted themselves to his "Global Burden of Disease" study, which traces and compares the sources of human death and suffering. The goal was to help channel aid dollars based on facts, not hunches.
+How hard was it to figure out what people are dying from?
+Most people, in most countries, and this is true today, don't have death records.
+Jeremy Smith, author of Epic Measures. Crackle Bingham/Courtesy of HarperCollins hide caption
+itoggle caption Crackle Bingham/Courtesy of HarperCollins
+Jeremy Smith, author of Epic Measures.
+Crackle Bingham/Courtesy of HarperCollins
+But many charities weren't happy with Murray's efforts.
+When he tried to fill in the numbers he found that they contradicted basically all the figures produced by all the advocacy groups. [And] these are the numbers that ultimately determine how people spend their time and money.
+Is there an example of the pushback?
+A famous case, in that it got to the front page of The New York Times, was when they estimated the number of women dying every year in childbirth. For decades, this number was thought to be about 500,000 women a year. What the Global Burden of Disease Study analysis suggested was that, in fact, numbers had fallen quite a bit. A third fewer women were dying than authorities had said.
+The initial response from some advocates for mothers was panic. They felt this meant they would have a third less funding, a third less attention. They called the editor of The Lancet, Richard Horton, and asked him not to publish this scientific analysis [of deaths in childbirth]. Not because it was necessarily wrong, but because it would threaten their funding. Time passed; those groups, and other agencies which advocate for them as well as evaluate them, came to embrace the new numbers. And you know, Chris Murray's argument was they should! This shows what they're doing is working.
+But there is this scarcity mentality. The fighting for funding is quite fierce.
+What does this mean for people on the ground?
+The status quo  prior to the Global Burden of Disease Study  was if Angelina Jolie or Bono shows up in your village or recognizes your cause, then funding is going to follow. If a wealthy person has an issue in his or her family, funding is going to follow. And meanwhile, there's going to be billions suffering conditions that just don't have advocates. For me, a big take away from this research was we need to be advocating for patients, not for diseases, and what [people are] suffering from is going to change over time.
+The Millennium Development Goals, developed back in 2000, called for the eradication of extreme poverty and hunger, HIV/AIDS and malaria, childhood mortality. What did the Global Burden of Disease tell us about these goals?
+They told us that those goals were worthy and important but woefully incomplete. We've succeeded in making a lot of progress against HIV, against malaria, against child mortality. When children aren't dying before their fifth birthday, that's wonderful. But that means then that they're susceptible to all these other causes of death. They can die in a road accident when they're 15. They can get ovarian cancer or heart disease when they're in their 30s and so on. And these are just not covered at all.
+How do Chris Murray and his team accurately assess what's going on in the world if there's so little reliable data?
+They've got a team of people that just goes to, say, Nigeria and looks at police records, looks at cemetery plots. They've got people in three dozen countries that go door-to-door in villages, basically knocking on doors saying, "Did anybody die here in the past six months, and if so, could you answer a few questions about what conditions you saw in that person?"
+Those surveys then get sent to teams of physicians around the world, and they try to diagnose what people are dying from. They also hire top math and computer science people for this team. And they use their fancy math and a supercomputer to make mathematically reliable estimates of what people are dying from.
+This interview, which has been edited for length and clarity, was produced by the podcast Tiny Spark , which is hosted by Amy Costello. Tiny Spark is made possible by a grant from the William and Flora Hewlett Foundation.
+Click here for the full interview with Jeremy Smith.
+</MainBody>
+    </Article>
+    <Article id="7">
+        <date>Sun Jun 28 12:35:00 EEST 2015</date>
+        <title>Hundreds Burned In Taiwan As Fire Erupts In Water Park</title>
+        <Link>http://www.npr.org/sections/thetwo-way/2015/06/28/418242817/hundreds-burned-in-taiwan-as-fire-erupts-in-water-park?utm_medium=RSS&amp;utm_campaign=world</Link>
+        <Description>The fire started during a musical performance, NPR's Frank Langfitt reports, after colored powder shot out from the stage over the audience — and ignited.</Description>
+        <MainBody>Hundreds Burned In Taiwan As Fire Erupts In Water Park
+June 28, 2015 5:35 AM ET
+Police investigators inspect the stage area after an accidental explosion during a music concert at the Formosa Water Park in New Taipei City, Taiwan, early Sunday. The resulting fire injured more than 500 concert-goers. AP hide caption
+itoggle caption AP
+Police investigators inspect the stage area after an accidental explosion during a music concert at the Formosa Water Park in New Taipei City, Taiwan, early Sunday. The resulting fire injured more than 500 concert-goers.
+AP
+More than 500 people were injured at a water park in Taiwan after an accidental explosion at a musical event caused fire to break out Saturday night.
+The fire started during an evening rap performance in New Taipei City, NPR's Frank Langfitt, reporting from Shanghai, tells our Newscast unit. The accident at Formosa Fun Coast was caught on cell phone video.
+"At one point, green powder shot out from the stage over the audience," Frank says. "The powder quickly ignited, enveloping fans. Some people staggered around on fire, while others collapsed to the ground."
+Many of the concert attendees were wearing swim suits and t-shirts; according to fire officials, the victims have burns on their lower bodies.
+More than 180 people are in intensive care, the Associated Press reports. The wire service continues:
+In the immediate aftermath of the explosion, rescuers treated hundreds of people, most of them aged between 20 and 30, wearing wet swimsuits and lying on inflatable plastic doughnuts. Television showed images of people running from sky-high flames.
+"There was blood and people were on fire," one injured man said.
+The water park has been closed, and the fire is under investigation.
+</MainBody>
+    </Article>
+    <Article id="8">
+        <date>Sun Jun 28 00:06:00 EEST 2015</date>
+        <title>No Easy Answers At Nairobi Summit On Countering Extremism</title>
+        <Link>http://www.npr.org/2015/06/27/418098750/no-easy-answers-at-nairobi-summit-on-countering-extremism?utm_medium=RSS&amp;utm_campaign=world</Link>
+        <Description>Researchers at the international meeting shared some surprising responses from militants who were surveyed about their motivations for embracing terrorism.</Description>
+        <MainBody>No Easy Answers At Nairobi Summit On Countering Extremism
+June 27, 2015 5:06 PM ET
+
+You must be signed in to leave a comment. Sign In / Register
+Please keep your community civil. All comments must follow the NPR.org Community rules and terms of use , and will be moderated prior to posting. NPR reserves the right to use the comments we receive, in whole or in part, and to use the commenter's name and location, in any medium. See also the Terms of Use , Privacy Policy and Community FAQ .
+NPR thanks our sponsors
+</MainBody>
+    </Article>
+    <Article id="9">
+        <date>Sun Jun 28 00:06:00 EEST 2015</date>
+        <title>After Tunisia Attack, Tourists Leave — And Locals Worry</title>
+        <Link>http://www.npr.org/2015/06/27/418098743/after-tunisia-attack-tourists-leave-and-locals-worry?utm_medium=RSS&amp;utm_campaign=world</Link>
+        <Description>The self-declared Islamic State claimed responsibility for Friday's attack, which killed 38 people at a beach resort in Tunisia. Most of the victims were foreigners, many of them British tourists.</Description>
+        <MainBody>After Tunisia Attack, Tourists Leave  And Locals Worry
+June 27, 2015 5:06 PM ET
+
+You must be signed in to leave a comment. Sign In / Register
+Please keep your community civil. All comments must follow the NPR.org Community rules and terms of use , and will be moderated prior to posting. NPR reserves the right to use the comments we receive, in whole or in part, and to use the commenter's name and location, in any medium. See also the Terms of Use , Privacy Policy and Community FAQ .
+NPR thanks our sponsors
+</MainBody>
+    </Article>
+    <Article id="10">
+        <date>Sat Jun 27 23:28:00 EEST 2015</date>
+        <title>Police Question Suspect In Lyon Factory Beheading</title>
+        <Link>http://www.npr.org/sections/thetwo-way/2015/06/27/418093847/police-question-suspect-in-lyon-factory-beheading-attack?utm_medium=RSS&amp;utm_campaign=world</Link>
+        <Description>The man, identified as a 35-year-old truck driver at the plant, reportedly took a "selfie" with the victim's body and sent it to an unidentified mobile phone number in Canada.</Description>
+        <MainBody>Police Question Suspect In Lyon Factory Beheading
+June 27, 2015 4:28 PM ET
+The Air Products industrial gas factory in Saint-Quentin Fallavier, France, shown on Saturday, a day after the attack. Marius Becker/DPA/Landov hide caption
+itoggle caption Marius Becker/DPA/Landov
+The Air Products industrial gas factory in Saint-Quentin Fallavier, France, shown on Saturday, a day after the attack.
+Marius Becker/DPA/Landov
+Police in France are questioning a suspect they believe was responsible for an explosion and the beheading of a man at a factory near Lyon on Friday. Officials reportedly say he took a "selfie" with the slain victim  his boss at the plant  and sent it to an unidentified Canadian mobile phone number.
+The suspect, Yassine Salhi, 35, is a truck driver "with a history of radical Islamic ties," according to Reuters. Authorities believe he caused an explosion by ramming his vehicle into an area at the plant containing flammable chemicals. He then allegedly placed his employer's severed head on the factory gate along with Arabic inscriptions, Reuters says.
+The factory is owned by Air Products, an American company headquartered in Pennsylvania.
+Meanwhile, French investigators were trying to pin down the identity of the recipient of the photo sent by phone. Reuters quotes unnamed security officials as saying they believe it to be "an unspecified person now in Syria."
+The BBC says that Salhi was arrested at the Air Products factory in Lyon on Friday morning:
+"Later, anti-terror police searched the apartment of Mr Salhi, a father-of-three, in the Moines neighbourhood of the town.
+"They took his wife and sister into custody. Another man was arrested but released without charge.
+"Agnes Thibault-Lecuivre, spokeswoman for the Paris prosecutor's office, has said police have so far not found any motive or possible foreign connection, and that Mr Salhi is not speaking to investigators."
+</MainBody>
+    </Article>
+    <Article id="11">
+        <date>Sat Jun 27 19:34:00 EEST 2015</date>
+        <title>Kurds Reportedly Retake Kobani From ISIS Fighters</title>
+        <Link>http://www.npr.org/sections/thetwo-way/2015/06/27/418075535/kurds-reportedly-retake-kobani-from-islamic-state-fighters?utm_medium=RSS&amp;utm_campaign=world</Link>
+        <Description>Mere days ago, militants with the self-declared Islamic State had captured the town for the second time this year.</Description>
+        <MainBody>Kurds Reportedly Retake Kobani From ISIS Fighters
+June 27, 201512:34 PM ET
+Turkish Kurds watch from the Turkish side of the border Friday as smoke rises in Kobani, Syria. Since last year, the town has seen control seesaw between Kurds and Islamic State militants. AP hide caption
+itoggle caption AP
+Turkish Kurds watch from the Turkish side of the border Friday as smoke rises in Kobani, Syria. Since last year, the town has seen control seesaw between Kurds and Islamic State militants.
+AP
+Kurdish forces have retaken the key border town of Kobani from militants with the self-declared Islamic State, the second time the Islamist extremists have been ousted from the region this year, according to a British-based monitoring group.
+Farther east, ISIS fighters had also attacked the government-held Syrian city of Hasaka.
+The Syrian Observatory for Human Rights, which keeps close tabs on the situation on the ground, says that ISIS fighters, who are said to have captured the town mere days ago, have been forced to withdraw.
+Al-Jazeera quotes an unnamed activist from Kobani as saying that Kurdish forces recaptured the city "and are battling any [ISIS] fighters left inside the town. Mashta Nour hospital has been recaptured."
+The unnamed source said that aid, especially water, was urgently needed in Kobani. The activist said, according to Al-Jazeera, that Islamic State militants had killed a total of 300 civilians in the past 24 hours.
+It is not known if that number included the scores reportedly killed in a house-to-house massacre of civilians .
+As the BBC writes:
+"[The Islamic State] launched a surprise assault on the long-contested town on Thursday, reportedly massacring civilians, including women and children.
+"The [Syrian Observatory] says 206 bodies were found, most with bullet wounds."
+</MainBody>
+    </Article>
+    <Article id="12">
+        <date>Sat Jun 27 18:25:00 EEST 2015</date>
+        <title>Greece Slouches Toward Default As Germany Rules Out Further Debt Talks</title>
+        <Link>http://www.npr.org/sections/thetwo-way/2015/06/27/418039269/greece-slouches-toward-default-as-germany-rules-out-further-debt-talks?utm_medium=RSS&amp;utm_campaign=world</Link>
+        <Description>Germany says that there will be no more negotiations after the Greek premier called for a nationwide referendum on a bailout plan. Meanwhile, fearful Greeks are withdrawing their euros.</Description>
+        <MainBody>Greece Slouches Toward Default As Germany Rules Out Further Debt Talks
+June 27, 201511:25 AM ET
+i
+People stand in a line to use the ATMs of a bank in the northern Greek city of Thessaloniki on Saturday after the country's prime minister announced a snap referendum on an international bailout  pushing Athens toward a Tuesday deadline for a plan to prevent default on its IMF debt. Giannis Papanikos/AP hide caption
+itoggle caption Giannis Papanikos/AP
+People stand in a line to use the ATMs of a bank in the northern Greek city of Thessaloniki on Saturday after the country's prime minister announced a snap referendum on an international bailout  pushing Athens toward a Tuesday deadline for a plan to prevent default on its IMF debt.
+Giannis Papanikos/AP
+Updated at 3:05 p.m. ET
+Across Greece, people lined up outside banks and at ATMs to withdraw euros today after their prime minister called for a surprise referendum on a proposed international bailout for the troubled country  a move that has pushed Athens to the brink of default and an exit from the eurozone.
+With no solid agreement, the Greek government is set to default on 1.6 billion euros ($1.8 billion) owed to the International Monetary Fund on Tuesday. As Reuters notes: "Its stricken banks have depended on emergency liquidity from the European Central Bank to stay open, and the banking system faces at the very least a further flood of withdrawals after billions have left in recent weeks."
+The news agency reported that a third of Greek ATMs ran out of cash to dispense on Saturday.
+"We have no basis for further negotiations," German Finance Minister Wolfgang Schaeuble said Saturday, following the announcement of the referendum on nationwide television by Greek Prime Minister Alexis Tsipras.
+"Clearly we can never rule out surprises with Greece, so there can always be hope. But none of my colleagues with whom I've already spoken see any possibilities for what we can now do," he said, adding that "there are no more negotiations."
+Germany, home to the European Central Bank and the eurozone's strongest economy, has led the negotiations, insisting that Athens slash its bloated social welfare net and crackdown on tax cheats.
+The Eurogroup issued a statement saying that Athens broke off negotiations "unilaterally." The ministers said they had taken note of the call for a referendum, but noted it would come too late, as the current arrangement would expire on June 30.
+Joanna Kakissis , reporting for NPR from Athens, says that the decision to call a popular referendum came as a surprise. Tsipras, who leads a leftist, anti-austerity party, called for the vote after an emergency cabinet meeting.
+"We are facing a historic responsibility to not let the struggles and sacrifices of the Greek people be in vain, and to strengthen democracy and our national sovereignty  and this responsibility weighs upon us," he said, adding that the proposed bailout is recessionary and would force the country to remain "a debt colony"  forever unable to pay off billions in loans to international lenders.
+He set the referendum date for July 5.
+But as Joanna reports on Weekend Edition Saturday: "The prime minister didn't seem to want to take responsibility of rejecting the lenders' offer and sending Greece into default, so he asked the Greeks to speak."
+As The Associated Press notes: "The call for a vote has strained relations to a near breaking point between Greece and its creditors, some of which say there may be little left to do to save Greece after five months of fruitless and frustrating talks. The sides are haggling over the reforms the country needs to make in exchange for more financial aid but have managed to only increase uncertainty over the country's future."
+A default and exit from the eurozone would cause the country to revert to its previous currency, the drachma, almost certainly entailing years of instability, extremely high inflation and poverty.
+"And, of course, there will be isolation from Europe, and I think that's what Greeks fear most," Joanna says.
+It's not the first time that a Greek premier has proposed a high-stakes referendum seeking political cover for an unpopular bailout. In 2011, Prime Minister George Papandreou called for a similar vote but quickly backed off, yielding to international pressure.
+</MainBody>
+    </Article>
+    <Article id="13">
+        <date>Sat Jun 27 15:51:00 EEST 2015</date>
+        <title>Tunisia IDs Beach Resort Assailant As 23-Year-Old Aviation Student</title>
+        <Link>http://www.npr.org/sections/thetwo-way/2015/06/27/418027296/tunisia-ids-beach-resort-assailant-as-23-year-old-aviation-student?utm_medium=RSS&amp;utm_campaign=world</Link>
+        <Description>Prime Minister Habib Essid also said that most of the tourists killed at the Imperial Marhaba Hotel in Sousse were British tourists.</Description>
+        <MainBody>Tunisia IDs Beach Resort Assailant As 23-Year-Old Aviation Student
+June 27, 2015 8:51 AM ET
+This image, which is taken from a website associated with the self-declared Islamic State, purports to show Tunisian gunman Seifeddine Rezgui. AP hide caption
+itoggle caption AP
+This image, which is taken from a website associated with the self-declared Islamic State, purports to show Tunisian gunman Seifeddine Rezgui.
+AP
+Updated at 1:05 p.m. ET
+The man who opened fire on tourists at a Tunisian beach resort , killing 39 and wounding 36 others, has been identified by the country's prime minister as a 23-year-old aviation student studying at the nearby University of Kairouan.
+Premier Habib Essid also said that he believed most of the tourists killed in Friday's attack at the Imperial Marhaba Hotel in Sousse , a popular beach resort on Tunisia's Mediterranean coast, were British.
+Tobias Ellwood, the junior foreign office minister of U.K., said Saturday that 15 British nationals were confirmed to be among the dead. Tunisian officials said that German, Belgian and Irish tourists were also among the 39 killed on Friday.
+Hours after the massacre, the self-declared Islamic State claimed responsibility for the attack. The gunman, later killed by police, reportedly carried a Kalashnikov rifle concealed in a beach umbrella into the midst of sunbathers before opening fire.
+Essid identified the assailant as Seifeddine Rezgui from the town of Gaafour in northern Tunisia, which is located about 85 miles northwest of the scene of Friday's attack. The Site Intelligence group , which monitors Islamist extremist activity, said the Islamic State had used a Twitter account to claim responsibility for the deadly attack, identifying the attacker by his jihadi pseudonym, Abu Yahya al-Qayrawani.
+Sky News has a photo of what it claims to be him, dressed in a wetsuit and nonchalantly carrying an Kalashnikov by his side, immediately after the deadly rampage.
+The attack in Tunisia came on the same day that extremists were blamed for attacks on a gas factory in France and a suicide bombing at a Shiite mosque in Kuwait that killed at least 27. It is unclear whether the three incidents were related.
+British Prime Minister David Cameron spoke of what he described as the "savage" attacks and vowed that "terrorists will not succeed." He said they were "a brutal and tragic reminder of the threat faced around the world from these evil terrorists." He said many of those killed in Tunisia were British.
+The Guardian quotes Briton Tom Richards, a 22-year-old who was at the Tunisian beach resort along with this mother and brother at the time of the attack.
+He said that hotel staff tried to lead them to safety inside the building, but the three were followed upstairs by the gunman who "shot two people, through the head" in front of them.
+"Then Tom found himself face to face with the gunman, who was pointing a Kalashnikov assault rifle at him. 'He looked right at me  I thought I was dead,' said Tom. 'He was maybe 20 or 25, he had long black hair and a beard.'
+"Then the gunman squeezed the trigger, and there was the shattering sound of bullets. The shots hit the marble floor, spraying Tom and his mother with shards of marble, wounding her in the ankle and catching Tom in the wrist."
+</MainBody>
+    </Article>
+    <Article id="14">
+        <date>Sat Jun 27 15:09:00 EEST 2015</date>
+        <title>Success For U.S.-Backed Fighters In Syria Leads To Political Complications</title>
+        <Link>http://www.npr.org/2015/06/27/418011765/success-for-u-s-backed-fighters-in-syria-leads-to-political-complications?utm_medium=RSS&amp;utm_campaign=world</Link>
+        <Description>U.S. air strikes helped Kurdish fighters take ground from ISIS along the Syria-Turkey border. But Kurds used the advance to displace thousands and upset U.S. ally Turkey, wary of Kurdish ambitions.</Description>
+        <MainBody>Success For U.S.-Backed Fighters In Syria Leads To Political Complications
+June 27, 2015 8:09 AM ET
+
+You must be signed in to leave a comment. Sign In / Register
+Please keep your community civil. All comments must follow the NPR.org Community rules and terms of use , and will be moderated prior to posting. NPR reserves the right to use the comments we receive, in whole or in part, and to use the commenter's name and location, in any medium. See also the Terms of Use , Privacy Policy and Community FAQ .
+NPR thanks our sponsors
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f
 </MainBody>
     </Article>
 </site>

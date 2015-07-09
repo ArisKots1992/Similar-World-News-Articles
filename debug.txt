@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 chathamdailynews.xml
 ######################## Done.
 irishtimes.xml
@@ -14,3 +15,5 @@ BBC.xml
 http://www.chathamdailynews.ca/2015/06/26/france-factory-attack-severed-head-left-near-arabic-banners
 http://abcnews.go.com/International/wireStory/beheaded-attack-explosion-french-gas-factory-32044065
 ---------------------------------------------------------
+=======
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f

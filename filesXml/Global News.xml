@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <site name="Global News">
     <Article id="0">
+<<<<<<< HEAD
         <date>Fri Jun 26 15:34:16 EEST 2015</date>
         <title>Google’s new pod-like self-driving cars hit streets of California</title>
         <Link>http://globalnews.ca/news/2077146/googles-new-pod-like-self-driving-cars-hit-streets-of-california/</Link>
@@ -40,11 +41,76 @@ Portage Avenue fire forces ladder rescue of elderly Winnipeg man
 By Lara Schroeder Web Producer Global News
 A fire at the Park West Apartments caused $1 million damage, fire officials say.
 Rudi Pawlychyn / Global News
+=======
+        <date>Sun Jun 28 17:10:11 EEST 2015</date>
+        <title>WATCH: SpaceX to launch supplies to space station</title>
+        <Link>http://globalnews.ca/news/2080270/watch-spacex-to-launch-supplies-to-space-station/</Link>
+        <Description>Astronauts aboard the International Space Station are getting ready to receive more supplies.</Description>
+        <MainBody>X
+What is this?
+Sponsored content is written by Global News' without any editorial influence by the sponsor. If you'd like to learn more...
+TORONTO  Astronauts aboard the International Space Station are getting ready to receive more supplies.
+SpaceX is scheduled to launch its Dragon spacecraft aboard its Falcon 9 rocket at 10:21 a.m. Sunday morning.
+Story continues below
+Aside from launching supplies to the space station, this will be SpaceXs third attempt at landing the first stage of its Falcon 9 rocket back on a floating ocean platform. So far, the rocket has been able to reach the platform, but has been lost twice after tipping over or running out of fuel.
+SpaceX is aiming to reduce the cost of launching rockets into space by having reusable rockets.
+You can watch the launch on NASA TV .
+The capsule will return on Aug. 5.
+</MainBody>
+    </Article>
+    <Article id="1">
+        <date>Sun Jun 28 17:04:17 EEST 2015</date>
+        <title>Tama, Japan’s railway stationmaster cat, elevated as goddess at funeral</title>
+        <Link>http://globalnews.ca/news/2080269/tama-japans-railway-stationmaster-cat-elevated-as-goddess-at-funeral/</Link>
+        <Description> Tama the stationmaster, Japan's feline star of a struggling local railway, was mourned by company officials and fans and elevated into a goddess at a funeral Sunday.</Description>
+        <MainBody>June 28, 2015 10:04 am
+Tama, Japans railway stationmaster cat, elevated as goddess at funeral
+By Global News
+In this April 29, 2015 photo, Tama, a cat stationmaster, Japans feline star of a struggling local railway, receives a birthday cake on her 16th birthday in Kinokawa, Wakayama Prefecture, western Japan. Tama was mourned by company officials and fans and elevated into a goddess at a funeral Sunday, June 28, 2015. Tama died of heart failure on June 22.
+Kyodo News via AP
 What is this?
 Sponsored content is written by Global News' editorial staff without any editorial influence by the sponsor. If you'd like to learn more...
 X
 What is this?
 Sponsored content is written by Global News' without any editorial influence by the sponsor. If you'd like to learn more...
+TOKYO  Tama the stationmaster, Japans feline star of a struggling local railway, was mourned by company officials and fans and elevated into a goddess at a funeral Sunday.
+The calico cat was appointed stationmaster at the Kishi station in western Japan in 2007. Donning her custom-made stationmasters cap, Tama quietly sat at the ticket gate welcoming and seeing off passengers. The cat quickly attracted tourists and became world-famous, contributing to the railway company and local economy.
+Tama, who had turned 16 in April, died of a heart failure on June 22. During Sundays Shinto-style funeral at the station where she served, Tama became a goddess. The Shinto religion, indigenous to Japan and practiced by many Japanese, has a variety of gods including animals.
+People pray in front of an altar especially set up for the funeral of Tama, a cat stationmaster, in Kinokawa City, Wakayama Prefecture, western Japan, Sunday, June 28, 2015.
+Chika Oshima/Kyodo News via AP
+Story continues below
+In one of several portraits decorating the altar, Tama posed in a stationmasters hat and a dark blue cape. Sake, as well as watermelon, apples, cabbage and other fruits and vegetables were presented to the cat. A stand outside the station was heaped with bouquets, canned tuna and other gifts left by thousands of Tama fans who came to pray from around the country.
+Wakayama Electric Railway President Mitsunobu Kojima thanked the cat for her achievement, and said Tama will be enshrined at a nearby cat shrine next month.
+Before Tamas arrival, the local Kishigawa Line was near-bankrupt; and the station was unmanned as it had lost its last staff.
+Kojima said appointing Tama as stationmaster was initially an excuse to keep the cat at the station.
+But she was really doing her job, he said. The rest was a miracle, and his companys success story also gave hope for dozens of other struggling tiny local train lines, he said.
+Tama-chan really emerged like a saviour, a goddess. It was truly my honour to have been able to work with her, Kojima said in his speech.
+During her tenure, Tama had contributed an estimated 1.1 billion yen ($8.9 million) to the local economy, Kojima said.
+Kojima said that when he visited Tama at an animal hospital the day before she died, the cat woke up and reached out to him with her paws, as if asking for a hug, and looked straight into his eyes. He said he told Tama to get well so they can celebrate the cats upcoming 10th anniversary as a stationmaster, and said the cat responded with a meow.
+Tama is a popular name for cats in Japan, where they are considered spiritual animals. The word could translate as treasure, ball or spirit.
+The cat had climbed the corporate ladder from stationmaster to ultra-stationmaster and vice-president of the company before receiving the additional title Sunday of honourable eternal stationmaster.
+Tama will be succeeded by another calico cat, Nitama, now an apprentice stationmaster.
+
+</MainBody>
+    </Article>
+    <Article id="2">
+        <date>Sun Jun 28 16:42:43 EEST 2015</date>
+        <title>Officers hunt for escaped NY prisoner near Quebec border</title>
+        <Link>http://globalnews.ca/news/2080259/officers-hunt-for-escaped-ny-prisoner-near-quebec-border/</Link>
+        <Description>Police hope the solo escapee will finally succumb to the stress of little sleep, scant food and biting bugs.</Description>
+        <MainBody>June 28, 2015 9:42 am
+Updated: June 28, 2015 9:50 am
+Officers hunt for escaped NY prisoner near Quebec border
+By   Michael Balsamo And John Kekis The Associated Press
+A New York State Police trooper stands in the rain at a roadblock on Sunday, June 28, 2015, in Malone, N.Y.
+AP Photo/Mike Groll
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f
+What is this?
+Sponsored content is written by Global News' editorial staff without any editorial influence by the sponsor. If you'd like to learn more...
+X
+What is this?
+Sponsored content is written by Global News' without any editorial influence by the sponsor. If you'd like to learn more...
+<<<<<<< HEAD
 WINNIPEG  Firefighters used a ladder truck to rescue an elderly man from a St. James apartment block during a blaze Thursday night, a witness says.
 Firefighters evacuated the Park West Apartments after they were called to fight a blaze in a seventh-floor suite at about 11 p.m.
 Flames shot out of the back windows of the building at 2366 Portage Ave., a resident told Global News.
@@ -114,11 +180,63 @@ Updated: June 26, 2015 8:44 am
 Gunmen kill 19 in attack on Tunisian coastal resort
 By Staff The Associated Press/Global News
 Global News
+=======
+MALONE, N.Y.  Officers scouring dense and boggy woods for a surviving escaped killer took floodlights into the search area overnight, and others carrying rifles manned checkpoints and examined vehicles, opening trunks and peering into windows.
+Franklin County Sheriff Kevin Mulverhill said late Saturday tips continued to pour in and he was optimistic David Sweat would be captured, perhaps within 48 hours.
+Its going to be one of those phone calls that turns this case around, he said.
+READ MORE: 1 of 2 escaped inmates killed by law enforcement, other on the run
+Richard Matt  who once vowed never to be taken alive  was fatally shot Friday during an encounter with border patrol agents about 30 miles west of the prison he escaped from with Sweat on June 6. Sweat remained on the lam early Sunday, and about 1,200 searchers focused intensely on 22 square miles encompassing thick forests and heavy brush around where Matt was killed.
+Police hoped the solo escapee would finally succumb to the stress of little sleep, scant food and biting bugs.
+Anyone in the woods and on the run from the law so to speak is not getting a full eight hours sleep, theyre not eating well and they have to keep moving, Mulverhill said. Hes fatigued, tired, and hes going to make a mistake.
+Sweat could have an even tougher time now without someone to take turns resting with and to watch his back, Clinton County Sheriff David Favro said.
+Now its a one-man show and it makes it more difficult for him, Favro said. And Im sure fatigue is setting in for him as well, knowing the guy he was with has already been shot.
+The manhunt broke open Friday afternoon when a person towing a camper heard a loud noise and thought a tire had blown. Finding there was no flat, the driver drove eight miles before looking again and finding a bullet hole in the trailer. A tactical team responding to the scene of the shot smelled gunpowder inside a cabin and saw evidence that someone had fled out the back door.
+A noise  perhaps a cough  ultimately did Matt in. A border patrol team discovered Matt, who was shot after failing to heed a command to raise his hands.
+Matt had a 20-gauge shotgun that was believed to have been taken from another cabin. The pair had apparently been relying on the remote regions many hunting camps and seasonal dwellings for supplies.
+Matt, who turned 49 the day before he died, was serving 25 years to life at Clinton Correctional Facility for the killing and dismemberment of his former boss. Local residents were relieved that one killer was no longer roaming the woods, but the constant commotion of speeding police cruisers and helicopters pointed to the continued danger.
+Half the threat is taken care of, but obviously David Sweat is on the loose, said Matt Maguire, who was waiting for a police escort to pick up some clothes from his house inside the search area. Maguire and his fiancee decided a week ago to stay with nearby relatives.
+Sweat, 35, was serving a sentence of life without parole in the killing of a sheriffs deputy in Broome County in 2002. Mulverhill said investigators believe he may be armed.
+Matt and Sweat used power tools to saw through a steel cell wall and several steel steam pipes, bashed a hole through a 2-foot-thick brick wall, squirmed through pipes and emerged from a manhole outside the prison.
+While there have been no confirmed sightings of Sweat, police said investigators saw a second set of tracks near where Matt was shot.
+Ultimately, how the chase ends is up to Sweat, Mulverhill said.
+If hes willing to surrender to law enforcement then well place him in handcuffs and well bring him back into custody, he said.
+If he chooses to resist or he chooses not to comply, then the results are his.
+Associated Press writers Jim Fitzgerald in New York City and Michael Hill in Albany, New York, contributed to this report.
+The Canadian Press, 2015
+</MainBody>
+    </Article>
+    <Article id="3">
+        <date>Sun Jun 28 16:16:30 EEST 2015</date>
+        <title>ISIS now present in 3 Afghan provinces: official</title>
+        <Link>http://globalnews.ca/news/2080252/isis-now-present-in-3-afghan-provinces-official/</Link>
+        <Description>The Taliban, which have been at war with the government for nearly 14 years and are also active in the three provinces, have warned the IS group to stay out of the country.</Description>
+        <MainBody>X
+What is this?
+Sponsored content is written by Global News' without any editorial influence by the sponsor. If you'd like to learn more...
+KABUL  An Afghan official says the Islamic State group now has a presence in three provinces but that the government is determined to drive it out.
+Zafar Hashimi, the Afghan presidents deputy spokesman, said Sunday that the group  which controls large areas of Iraq and Syria  is active in the eastern Nangarhar, western Farah and southern Helmand provinces.
+Hashimi says security forces have launched successful operations against the IS group but gave no further details.
+The Taliban, which have been at war with the government for nearly 14 years and are also active in the three provinces, have warned the IS group to stay out of the country. Both groups want Islamic rule but the Taliban do not recognize the IS groups self-styled caliphate.
+The Canadian Press, 2015
+</MainBody>
+    </Article>
+    <Article id="4">
+        <date>Sun Jun 28 15:59:30 EEST 2015</date>
+        <title>France beheading suspect sent gruesome ‘selfie’ to Canadian phone number</title>
+        <Link>http://globalnews.ca/news/2080244/france-beheading-suspect-sent-gruesome-selfie-to-canadian-phone-number/</Link>
+        <Description>Canadian authorities are now involved in the case.</Description>
+        <MainBody>June 28, 2015 8:59 am
+France beheading suspect sent gruesome selfie to Canadian phone number
+By   Jamey Keaten The Associated Press
+Guards stand at the entrance of a street where criminal investigation police carried out a search at the home of a suspect in the Moines neighborhood of Saint-Quentin-Fallavier, near Lyon, France, on June 26, 2015.
+JEAN-PHILIPPE KSIAZEK/AFP/Getty Images
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f
 What is this?
 Sponsored content is written by Global News' editorial staff without any editorial influence by the sponsor. If you'd like to learn more...
 X
 What is this?
 Sponsored content is written by Global News' without any editorial influence by the sponsor. If you'd like to learn more...
+<<<<<<< HEAD
 Gunmen opened fire on a beach near two hotels in the coastal resort city of Sousse, Tunisia, killing at least 19 people.
 Tunisia state television said 19 people were killed Friday during the attack on the hotels.
 Tunisias Interior Ministry Spokesman Mohammed Ali Aroui said that one of the gunmen was killed and police are pursuing the other, the Associated Press reported.
@@ -141,11 +259,34 @@ Verdict expected in 2009 deadly scaffolding collapse
 By   Staff The Canadian Press
 FIL
 (AP Photo/Nikolas Giakoumidis)
+=======
+PARIS  French officials say the main suspect in the beheading of a French transportation company manager has admitted to police he carried out the killing that authorities have called a terror attack.
+Yassine Salhi, a deliveryman with a history of ties to Islamic extremists, remained in custody Sunday along with his wife and sister.
+READ MORE: Suspect in French terror attack took selfie with beheading victim
+Security officials say investigators have found no links to any international terror group in the attack Friday. They spoke on condition of anonymity because the investigation is continuing.
+Salhi, arrested Friday, was to be transferred to counterterrorism police headquarters outside Paris. He allegedly crashed a truck into a U.S.-owned chemical warehouse and hung his employers head on the factorys gate. Officials say he sent a selfie of himself and the victim to a Canadian mobile phone number.
+A spokesman for Public Safety Minister Steven Blaney confirmsCanadian authorities are involved in the case.
+The Canadian Press, 2015
+</MainBody>
+    </Article>
+    <Article id="5">
+        <date>Sun Jun 28 15:12:06 EEST 2015</date>
+        <title>Two people dead after shooting near Queen and Dovercourt</title>
+        <Link>http://globalnews.ca/news/2080213/two-people-shot-in-torontos-west-end-possibly-fatal/</Link>
+        <Description>Global News is on the scene and hearing reports that two people have died following a shooting at a condo in the West Queen West area.</Description>
+        <MainBody>June 28, 2015 8:12 am
+Updated: June 28, 2015 8:37 am
+Two people dead after shooting near Queen and Dovercourt
+By Tania Kohut Web Writer Global News
+The scene of a shooting in Toronto's West Queen West area.
+Jeremy Cohn / Global News
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f
 What is this?
 Sponsored content is written by Global News' editorial staff without any editorial influence by the sponsor. If you'd like to learn more...
 X
 What is this?
 Sponsored content is written by Global News' without any editorial influence by the sponsor. If you'd like to learn more...
+<<<<<<< HEAD
 TORONTO  A Toronto judge is expected to rule today in the case of a project manager who oversaw a construction crew involved in a deadly scaffolding collapse in 2009.
 Vadim Kazenelson faces four counts of criminal negligence causing death and one count of criminal negligence causing bodily harm. He has maintained his innocence.
 </MainBody>
@@ -161,11 +302,37 @@ Motorcyclist killed in parking lot crash on Stampede grounds
 By Erika Tucker and Melissa Ramsay Global News
 Emergency crews respond to a fatal crash in the city's southeast on Thursday, June 25, 2015.
 Global News
+=======
+TORONTO  Police are on the scene of a shooting in the Queen Street and Dovercourt Road area of Toronto.
+Police are responding to a shooting in the area of Queen and Dovercourt, anyone w/info please call 14 Division at 416-808-1400^cf
+ Toronto Police OPS (@TPSOperations) June 28, 2015
+Global News hasheard multiple reports that two people have died and another person has been seriously injured. Police have not confirmed that information.
+The shooting occurred Sunday morning in a high rise building on Lisgar Street, where there are a number of newer condominiums.
+On scene @ double fatal shooting on Lisgar St near Dufferin &amp; Queen Sts. 2 people dead in a condo building. #Toronto pic.twitter.com/pHcOfJLv4I
+ Jeremy Cohn (@JeremyGlobalTV) June 28, 2015
+West Queen West is a popular, high-density area with shops, art spaces, restaurant and bars.
+Police are asking anyone with information to call416-808-1400.
+More to come.
+</MainBody>
+    </Article>
+    <Article id="6">
+        <date>Sun Jun 28 14:25:59 EEST 2015</date>
+        <title>Some Canadian towns giving away land to attract new residents</title>
+        <Link>http://globalnews.ca/news/2080205/some-canadian-towns-giving-away-land-to-attract-new-residents/</Link>
+        <Description>Small communities have to compete for residents by offering something special.</Description>
+        <MainBody>June 28, 2015 7:25 am
+Updated: June 28, 2015 7:35 am
+Some Canadian towns giving away land to attract new residents
+By   Morgan Lowrie The Canadian Press
+Some small towns are giving their land away for free in order to attract new residents.
+File / Global News
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f
 What is this?
 Sponsored content is written by Global News' editorial staff without any editorial influence by the sponsor. If you'd like to learn more...
 X
 What is this?
 Sponsored content is written by Global News' without any editorial influence by the sponsor. If you'd like to learn more...
+<<<<<<< HEAD
 CALGARY  A 53-year-old motorcyclist was killed in a crash in a southeast parking lot on Thursday.
 Police say the driver was approaching a pay booth when he lost control of his bike and fell over, crashing into a concrete barrier.
 It happened just before 6 p.m. in a lot on the Stampede grounds.
@@ -202,11 +369,75 @@ Deadly explosion at Shiite mosque in Kuwaits capital
 By   Hussain Al-Qatari The Associated Press
 Security forces, officials and civilians gather outside of the Imam Sadiq Mosque after a deadly blast struck after Friday prayers in Kuwait City, Kuwait, Friday, June 26, 2015.
 AP Photo
+=======
+MONTREAL  Large parts of Canada were settled thanks to a government policy of giving out free land to anyone willing to show up and farm it.
+And although the federal government largely stopped giving out Crown land in the 1930s, some small towns are continuing the tradition by giving their land away for free.
+Story continues below
+Saint-Louis-de-Blandford, a 900-resident community about an hour southwest of Quebec City, decided to take a creative approach to increasing its population. The town purchased a large tract of land and subdivided it into 40 lots which they gave away for free, beginning in 2013, to anyone willing to move there and build a house.
+The problem faced by towns of our size is devitalization that happens quietly as young people move to cities, Mayor Gilles Marchand said in an interview. We figure this will be an incentive for the young and the less young who want to put their money toward home-building.
+The towns policy requires buyers to put a $1,000 down payment on a lot and commit to building a house worth $125,000 within a year. The municipality then refunds the down payment.
+Saint-Louis-de-Blandford isnt alone with the idea.
+Reston, Man., implemented a similar plan a few years ago to give away land for $10.
+Tanis Chalmers, the economic development manager for the Rural Municipality of Pipestone, which includes Reston, says the program has been a success.
+Of the 24 available lots, 19 have been given away and the municipality has expanded the program to the neighbouring towns of Pipestone and Sinclair. Chalmers says about 20 homes have been built in the last two years in Reston. This represents a population increase of 50 people  not bad for a town of 500.
+Chalmers says small communities have to compete for residents by offering something special.
+The towns that surround us are larger centres, she adds. They may not be able to offer the same incentives we can. But they have their size and the services they offer. This is our way of competing with these communities.
+Both Chalmers and Marchand believe their towns will profit in the long run by collecting property taxes on the homes. They say a larger population also reduces the cost of services, per capita, and hopefully leads to increased commercial development.
+Several small towns in Saskatchewan have experimented with a $1 lot policy in recent years, while Kings Point, N.L., posted on social media earlier this year that it was considering a land giveaway as well.
+Each town does things a little differently. Some offer lots that are hooked up to sewer and water, while others are on unserviced land. Some also have conditions on the type of construction.
+There is also still a little free Crown land available  mostly in the Yukon for people who are tough enough to develop Arctic lands for agricultural purposes through the territorys Agricultural Lands Program.
+Giving away free land may not pay off for small towns in the long run, cautions Concordia University professor Bill Reimer, who specializes in rural issues. He said the property tax revenues generated by new residences often arent enough to cover the costs of roads, city staff and services.
+Most research examining the long-term returns for various community land-use strategies indicates that residential land use ends up costing communities more than it provides returns, he said by email.
+The key, he said, is to attract businesses as well.
+Both Reston and Saint-Louis-de-Blandford offer incentives ranging from tax breaks to cash grants to attract new commerces  something Marchand and Chalmers admit is a little more difficult than luring residents.
+READ MORE: New population record for Saskatchewan
+Despite the note of caution, they both say their programs have helped their towns as well as residents such as Christian Martin, who recently moved back to the Saint-Louis-de-Blandford region after 10 years away.
+He received a free 5,500 square-foot (510 square metres) lot  big enough that he was able to dig a lake on his property in addition to building himself a spacious home.
+In a city, just the land would have cost as much as the entire house, said Martin, 51.
+Marchand said the program has been an unexpected success. All of his towns original 40 free lots have been spoken for and the town is currently planning another phase of giveaways.
+By offering lots big enough for a home with a backyard, hes managed to attract several young families, a prize demographic he hopes will ensure his towns future.
+The young population has gone up so much, he says, that the town is looking at bringing in a subsided daycare in the coming months.
+We took a guess, a chance that it might work, he said. So far, its exceeded our expectations.
+</MainBody>
+    </Article>
+    <Article id="7">
+        <date>Sun Jun 28 13:57:08 EEST 2015</date>
+        <title>Tragedy strikes along CTrain tracks at Southland station</title>
+        <Link>http://globalnews.ca/news/2080202/tragedy-strikes-along-ctrain-tracks-at-southland-station/</Link>
+        <Description>One man is dead after being hit by a northbound CTrain near the Southland station just before midnight Saturday. Police say the train was just south of the station and about to pull in when the pedestrian was struck. Investigators have closed CTrain service in both directions until further notice. The circumstances around the fatal...</Description>
+        <MainBody>June 28, 2015 6:57 am
+Tragedy strikes along CTrain tracks at Southland station
+By Stefan Keyes Reporter &amp; Anchor Global News
+Calgary LRT
+Getty Images
 What is this?
 Sponsored content is written by Global News' editorial staff without any editorial influence by the sponsor. If you'd like to learn more...
 X
 What is this?
 Sponsored content is written by Global News' without any editorial influence by the sponsor. If you'd like to learn more...
+One man is dead after being hit by a northbound CTrain near the Southland station just before midnight Saturday.
+Police say the train was just south of the station and about to pull in when the pedestrian was struck.
+Investigators have closed CTrain service in both directions until further notice.
+The circumstances around the fatal collision are unknown at this time.
+</MainBody>
+    </Article>
+    <Article id="8">
+        <date>Sun Jun 28 07:46:34 EEST 2015</date>
+        <title>36 daily temperature records set in B.C. as campfire ban begins on South Coast</title>
+        <Link>http://globalnews.ca/news/2080070/36-daily-temperature-records-set-in-b-c-as-campfire-ban-begins/</Link>
+        <Description>It was hard to ignore British Columbia's historic heat wave today.
+</Description>
+        <MainBody>June 28, 2015 12:46 am
+Updated: June 28, 2015 12:49 am
+36 daily temperature records set in B.C. as campfire ban begins on South Coast
+By Justin McElroy Web Producer Global News
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f
+What is this?
+Sponsored content is written by Global News' editorial staff without any editorial influence by the sponsor. If you'd like to learn more...
+X
+What is this?
+Sponsored content is written by Global News' without any editorial influence by the sponsor. If you'd like to learn more...
+<<<<<<< HEAD
 KUWAIT CITY  A deadly explosion ripped through a Shiite mosque in a busy neighbourhood of Kuwaits capital after Friday prayers, witnesses said.
 Mohammed al-Faili, 32, told The Associated Press that his 70 year-old father was killed in what appeared to be a bombing attack. Two of his brothers were also wounded by the explosion. Speaking to the AP by telephone, he said he was not at the mosque at the time of the explosion but was heading to the morgue to identify his fathers body.
 Story continues below
@@ -245,6 +476,36 @@ Rowling said she thought that once audiences saw Harry Potter and the Cursed Chi
 Rowlings seven Harry Potter novels have sold more than 450 million copies around the world and been made into eight successful films.
 Tickets for Harry Potter and the Cursed Child will go on sale this fall.
 The Canadian Press, 2015
+=======
+It was hard to ignore British Columbias historic heat wave today.
+In total, 36 communities across the province hit record highs for June 27, including a blistering 40.4 degrees Celsius in Osoyoos.
+Here are the 36 places in B.C. where record high temperatures were hit today. pic.twitter.com/BTGtkI2JWe
+ Global BC (@GlobalBC) June 28, 2015
+Were basically on target right now to be the second warmest June in the history of record keeping [in B.C.], which started back in 1937, says Global News weather anchor Kate Gajdosik.
+Story continues below
+The record highs came on the same day that a campfire ban went into effect for much of the south coast.
+It made for a melancholy Friday night for campers at Alice Lake Provincial Park in the north end of Squamish, who knew they were putting out campfires for likely the final time this summer.
+I wouldnt be surprised if it was on all summer. Id be shocked. The only way theyre taking it off is if we get any major amounts of precipitation, which doesnt look like its going to [happen], said Matt Vandenraadt.
+WATCH: Julia Foy speaks to Vancouverites who found ways to beat the heat on Saturday
+The hot, dry weather continues to be a concern for plenty of people , including firefighters.
+Squamish to Whistler is an extreme [zone]. Theres a large area expanding just to the east of Chilliwack. With these high temperatures and the dry weather we expect those areas to expand even further, says Marg Drysdale, Fire Information Officer for the South Coast.
+More than $62 million has already been spent on fires so far this year  and Drysdale wants people to remember that individuals can be found liable if theyre found responsible for any themselves.
+If it cause a wildfire, and contributes to a wildfire, the person responsible may be ordered to pay all the firefighting and associated costs of that wildfire.
+</MainBody>
+    </Article>
+    <Article id="9">
+        <date>Sun Jun 28 06:50:41 EEST 2015</date>
+        <title>WATCH: News Hour – June 27</title>
+        <Link>http://globalnews.ca/news/1149299/watch-news-hour/</Link>
+        <Description>Watch the Global BC News Hour with  Randene Neill on Saturday, June 27.
+</Description>
+        <MainBody>X
+What is this?
+Sponsored content is written by Global News' without any editorial influence by the sponsor. If you'd like to learn more...
+Watch the online edition of the Global BC News Hour with Randene Neillon Saturday, June 27.
+View more Global BC videos by clicking here .
+Shaw Media, 2015
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f
 </MainBody>
     </Article>
 </site>

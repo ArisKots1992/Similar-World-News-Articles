@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <site name="sciencedaily">
     <Article id="0">
+<<<<<<< HEAD
         <date>Thu Jun 25 23:18:45 EEST 2015</date>
         <title>Multiple pathways progressing to Alzheimer's disease</title>
         <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/hqrouZfQmVQ/150625161845.htm</Link>
@@ -418,6 +419,425 @@
         <title>Writing program with student interaction creates sense of purpose for seniors</title>
         <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/BvwLzPLniaM/150625091153.htm</Link>
         <Description>A unique program combining a life review writing workshop with conversations between seniors and college students enhances the sense of meaning in life for older adults living independently, finds a new study.</Description>
+=======
+        <date>Sat Jun 27 15:12:38 EEST 2015</date>
+        <title>Orange is the new red</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/YxaL9vQqFsY/150627081238.htm</Link>
+        <Description>A photoprotective mechanism in cyanobacteria is triggered by an unprecedented, large-scale movement from one location to another of the carotenoid pigment within the Orange Carotenoid Protein, researchers have discovered.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="1">
+        <date>Sat Jun 27 15:12:26 EEST 2015</date>
+        <title>Opening a new route to photonics</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/61AMNyp9gRM/150627081226.htm</Link>
+        <Description>A technique for effectively controlling pulses of light in closely packed nanoscale waveguides -- an essential requirement for ultrahigh density, ultracompact integrated photonic circuitry -- has been developed by a group of researchers.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="2">
+        <date>Sat Jun 27 15:12:24 EEST 2015</date>
+        <title>Why June 30 will get an extra second</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/GqNqNbo6NoA/150627081224.htm</Link>
+        <Description>The day will officially be a bit longer than usual on Tuesday, June 30, 2015, because an extra second, or 'leap' second, will be added.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="3">
+        <date>Sat Jun 27 15:12:22 EEST 2015</date>
+        <title>Natural wilderness areas need buffer zones to protect from human development</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/aPXw9nE-bFs/150627081222.htm</Link>
+        <Description>Despite heavy development, the United States still has millions of acres of pristine wild lands. Coveted for their beauty, these wilderness areas draw innumerable outdoor enthusiasts eager for a taste of primitive nature. But researchers say these federally protected nature areas have a problem: Their boundaries have become prime real estate.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="4">
+        <date>Sat Jun 27 15:12:20 EEST 2015</date>
+        <title>Building a better semiconductor</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/s7TGzc-g2kQ/150627081220.htm</Link>
+        <Description>Research could someday lead to the development of new and improved semiconductors. Scientists detail how they developed a method to change the electronic properties of materials in a way that will more easily allow an electrical current to pass through.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="5">
+        <date>Sat Jun 27 15:12:18 EEST 2015</date>
+        <title>New strategies, solutions to fight pediatric asthma</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/KgqR0yMbYoM/150627081218.htm</Link>
+        <Description>Low flu vaccination rates, medication compliance and limited access to primary care providers have contributed to the high pediatric asthma rates in California, researchers conclude. This new study details several issues affecting asthma care and offers a number of public policy strategies that could help remedy these shortcomings.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="6">
+        <date>Sat Jun 27 15:12:16 EEST 2015</date>
+        <title>Potential new class of cancer drugs developed in lab</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/t1e-XTKbi48/150627081216.htm</Link>
+        <Description>A new class of drug developed targets the Warburg effect to cut off cancer's energy supply, and researchers say that it has the potential to stop most kinds of cancer in its tracks.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="7">
+        <date>Sat Jun 27 15:12:14 EEST 2015</date>
+        <title>Calcium channel essential for deep sleep identified</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/rrjMAdqYC4E/150627081214.htm</Link>
+        <Description>A specific calcium channel plays a crucial role in deep, slow-wave sleep, scientists have discovered. This is a key step toward understanding both normal and abnormal waking brain functions.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="8">
+        <date>Sat Jun 27 15:12:12 EEST 2015</date>
+        <title>Eco-friendly oil spill solution developed</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/DUkWApYIEkE/150627081212.htm</Link>
+        <Description>An eco-friendly biodegradable green 'herding' agent that can be used to clean up light crude oil spills on water has been developed by researchers. Derived from the plant-based small molecule phytol abundant in the marine environment, the new substance would potentially replace chemical herders currently in use, they say.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="9">
+        <date>Sat Jun 27 15:12:10 EEST 2015</date>
+        <title>Children with asthma likely born in area with high air pollution</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/5eUPRK-5Ay4/150627081210.htm</Link>
+        <Description>Children who develop asthma in Toronto are more likely to have been born in a neighborhood that has a high level of traffic-related air pollution, new research suggests.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="10">
+        <date>Sat Jun 27 15:12:08 EEST 2015</date>
+        <title>Why are seabirds abandoning their ancestral nesting grounds in the Gulf of California?</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/ACppKLqO3tQ/150627081208.htm</Link>
+        <Description>Warming oceanographic conditions and fishing pressure are driving nesting seabirds away from their ancestral breeding ground in Mexico into California harbors, a group of researchers has found.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="11">
+        <date>Sat Jun 27 15:10:55 EEST 2015</date>
+        <title>Fewer tiger subspecies, better protection?</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/HBrTSjMlKjU/150627081055.htm</Link>
+        <Description>New scientific research could help to protect tigers (Panthera tigris) from extinction. The findings indicate that tigers should be classified as only two subspecies – up to now nine subspecies were previously recognized. This will have a significant impact on species conservation since management efforts and breeding programs can now be organized in a simpler, more flexible and effective way.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="12">
+        <date>Sat Jun 27 15:10:26 EEST 2015</date>
+        <title>Coil for the next upgrade of the Large Hadron Collider passes tests</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/4sQyMY9zDY8/150627081026.htm</Link>
+        <Description>A group collaborating across four American laboratories completed the first successful tests of a superconducting coil in preparation for the future high-luminosity upgrade of the Large Hadron Collider, or HL-LHC. These tests indicate that the magnet design may be adequate for its intended use.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="13">
+        <date>Sat Jun 27 15:10:22 EEST 2015</date>
+        <title>Fatalistic beliefs may prevent Appalachian women from completing HPV vaccination series</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/DOT3zaHJ1V0/150627081022.htm</Link>
+        <Description>Could a fatalistic attitude toward cervical cancer serve as a barrier to prevention of the disease? A recent study suggests a link between fatalistic beliefs and completion of the human papillomavirus (HPV) vaccine series among a sample of young Appalachian Kentucky women.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="14">
+        <date>Fri Jun 26 20:07:16 EEST 2015</date>
+        <title>Better heat exchangers using garbage bags</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/Z5vTKLa5nHQ/150626130716.htm</Link>
+        <Description>Researchers are making better heat exchangers for industrial use using the same plastic as in garbage bags.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="15">
+        <date>Fri Jun 26 20:06:51 EEST 2015</date>
+        <title>The peaks and valleys of silicon</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/OOc7JUwhTV0/150626130651.htm</Link>
+        <Description>Scientists have created a new method for generating a 2D semiconducting material that could one day replace silicon in electronics. The demand for a silicon material aided the discovery of graphene, a single layer of graphite -- which won the Nobel Prize in Physics in 2010. Since this time, scientists and engineers have developed many two-dimensional (2D) material innovations -- layered materials with the thickness of only one atom or a few atoms. One such layered 2D material is black arsenic phosphorus.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="16">
+        <date>Fri Jun 26 20:06:49 EEST 2015</date>
+        <title>Scientists identify 'decoy' molecule that may sharply reduce risk of flu death</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/febxzrVAtiQ/150626130649.htm</Link>
+        <Description>The flu virus can be lethal. But what is often just as dangerous is the body's own reaction to the invader. The immune counterattack can end up harming the body's own tissues, causing deadly damage. Now, a researcher has, for the first time, uncovered new details about how this response plays out. And he has identified a 'decoy' molecule that can rein in this runaway inflammatory response.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="17">
+        <date>Fri Jun 26 19:57:25 EEST 2015</date>
+        <title>Having a stroke? Where you are makes a huge difference in your treatment</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/aH3n8aExkQo/150626125725.htm</Link>
+        <Description>It looks like a crazy quilt spread over the continent. But a new map of emergency stroke care in America shows just how much of a patchwork system we still have for delivering the most effective stroke treatment. And thousands of people a year may end up unnecessarily disabled as a result.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="18">
+        <date>Fri Jun 26 17:56:51 EEST 2015</date>
+        <title>Helium ‘balloons’ offer new path to control complex materials</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/3g8QigeSawc/150626105651.htm</Link>
+        <Description>Researchers have developed a new method to manipulate a wide range of materials and their behavior using only a handful of helium ions.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="19">
+        <date>Fri Jun 26 17:56:27 EEST 2015</date>
+        <title>Light fixture kills bacteria safely, continuously</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/Q6tuTr0MI8I/150626105627.htm</Link>
+        <Description>A new light fixture uses Continuous Environmental Disinfection technology to continuously kill harmful bacteria linked to hospital acquired infections (HAIs). The technology behind the Indigo-Clean™ inactivates a wide range of micro-organisms that are known causes of HAIs, including MRSA (Methicillin-resistant Staphylococcus aureus), C.difficile and VRE (Vancomycin-resistant Enterococcus).</Description>
+        <MainBody/>
+    </Article>
+    <Article id="20">
+        <date>Fri Jun 26 17:51:41 EEST 2015</date>
+        <title>Analysis shows increased carbon intensity from Canadian oil sands</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/Q8CLrYubmjs/150626105141.htm</Link>
+        <Description>Gasoline and diesel refined from Canadian oil sands has a higher carbon impact than fuels derived from conventional domestic crude sources, a new study concludes.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="21">
+        <date>Fri Jun 26 17:51:39 EEST 2015</date>
+        <title>Pet owners reluctant to face up to their cats' kill count</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/9v9ehLibRuA/150626105139.htm</Link>
+        <Description>Pet owners are reluctant to face up to their cats' kill count, a new study suggests. Cat owners fail to realize the impact of their cat on wildlife according to new research.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="22">
+        <date>Fri Jun 26 17:51:37 EEST 2015</date>
+        <title>Most of amateur athletes undergoing hypoxic training are not advised by specialists</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/MGQ1kUk5ezw/150626105137.htm</Link>
+        <Description>Physical performance after periods of hypoxic training -- in low-oxygen conditions -- has become a matter of growing controversy within the scientific community. An international study compared professional and amateur athletes' knowledge and understanding of this type of training According to the results, just 25 percent of amateurs are assessed and monitored by specialists.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="23">
+        <date>Fri Jun 26 16:57:05 EEST 2015</date>
+        <title>Solving Saturn’s 2-billion-year age problem</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/_lLPdaX1J04/150626095705.htm</Link>
+        <Description>Experiments at Sandia's Z machine have provided data may help explain why Saturn is two billion years younger than Jupiter on some computer simulations, supporting a prediction first made in 1935.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="24">
+        <date>Fri Jun 26 16:56:04 EEST 2015</date>
+        <title>Project to 3-D print houses begun</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/53b7uwybrEY/150626095604.htm</Link>
+        <Description>Scientists are developing a technology to make full-scale 3D prints of cellulose based material. It is not a matter of small prints – the objective is to make houses.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="25">
+        <date>Fri Jun 26 16:55:28 EEST 2015</date>
+        <title>3-D heart printed using multiple imaging techniques</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/03qL4okA19Y/150626095528.htm</Link>
+        <Description>Congenital heart experts have successfully integrated two common imaging techniques to produce a three-dimensional anatomic model of a patient's heart. This is the first time the integration of computed tomography (CT) and three-dimensional transesophageal echocardiography (3DTEE) has been used in this way. A proof-of-concept study also opens the way for these techniques to be used in combination with a third tool -- magnetic resonance imaging (MRI).</Description>
+        <MainBody/>
+    </Article>
+    <Article id="26">
+        <date>Fri Jun 26 16:55:26 EEST 2015</date>
+        <title>High blood pressure linked to reduced Alzheimer's risk, meds may be reason</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/6uU8dplOVGE/150626095526.htm</Link>
+        <Description>People with a genetic predisposition to high blood pressure have a lower risk for Alzheimer's disease, new research suggests. However, authors conclude the connection may have more to do with anti-hypertension medication than high blood pressure itself.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="27">
+        <date>Fri Jun 26 16:55:23 EEST 2015</date>
+        <title>Action spectrum of sun skin damage documented</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/t0OY2SIYYRQ/150626095523.htm</Link>
+        <Description>Scientists have documented for the first time the DNA damage that can occur to skin across the full range of ultraviolet radiation from the sun providing an invaluable tool for sun-protection and the manufacturers of sunscreen.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="28">
+        <date>Fri Jun 26 16:55:20 EEST 2015</date>
+        <title>Inactivity reduces people's muscle strength</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/eEG1WISgSdY/150626095520.htm</Link>
+        <Description>It only takes two weeks of not using their legs for young people to lose a third of their muscular strength, leaving them on par with a person who is 40-50 years their senior, new research shows.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="29">
+        <date>Fri Jun 26 16:55:18 EEST 2015</date>
+        <title>Daily bathing of pediatric patients with antiseptic cuts bloodstream infections by 59 percent</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/MGOq689zsmI/150626095518.htm</Link>
+        <Description>Daily bathing of pediatric patients with disposable cloths containing 2 percent chlorhexidine gluconate reduced central line-associated bloodstream infections by 59 percent and saved approximately $300,000 in one hospital over a six-month period, according to a new study.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="30">
+        <date>Fri Jun 26 16:55:16 EEST 2015</date>
+        <title>Attractive female flies harmed by male sexual attention</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/cRMqVAm3yvI/150626095516.htm</Link>
+        <Description>Too much male sexual attention harms attractive females, according to a new study on fruit flies. The study showed that male harassment of females hampered the species' ability to adapt to new environmental conditions.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="31">
+        <date>Fri Jun 26 16:55:13 EEST 2015</date>
+        <title>Braking mechanism identified for cell growth pathway linked to several cancers</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/hI5AKBVZT8I/150626095513.htm</Link>
+        <Description>A self-regulating loop in the Hippo pathway, a signaling channel garnering increased attention from cancer researchers due to its role in controlling organ size, cell proliferation and cell death, has been identified by researchers.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="32">
+        <date>Fri Jun 26 15:42:59 EEST 2015</date>
+        <title>RNASEH1 mutations impair mtDNA replication, cause adult-onset mitochondrial encephalomyopathy</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/YWUWcfl_FE8/150626084259.htm</Link>
+        <Description>Next Generation Sequencing (NGS) technology offers an incredible opportunity for the rapid and relatively low-cost characterization of individual genomes, giving us a chance to make a substantial leap ahead in the molecular dissection of all mitochondrial disorders in humans.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="33">
+        <date>Fri Jun 26 15:42:57 EEST 2015</date>
+        <title>Darwinian fisheries: Shrinking fish sizes in exploited stocks</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/63JnKJkoCxg/150626084257.htm</Link>
+        <Description>An experimental study with size-selectively harvested zebrafish that began in 2006 reveals that size-selective harvesting causes changes in key life-history traits, leading to low maximum body size and poor reproductive output.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="34">
+        <date>Fri Jun 26 15:41:35 EEST 2015</date>
+        <title>Bronze Age humans' diet and arrival of new crops in Iberian Peninsula</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/3pPGm0VV8CI/150626084135.htm</Link>
+        <Description>Researchers have studied human skeletal remains from the Cova do Santo collective burial cave in northwestern Spain. Remains found in the Sil river valley -- in the province of Ourense -- reveal a vegetable-based diet with little meat or fish.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="35">
+        <date>Fri Jun 26 15:41:31 EEST 2015</date>
+        <title>Key protein may affect risk of stroke</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/5_YK8e6lVmc/150626084131.htm</Link>
+        <Description>Studies on mice reveal that a special protein in the brain's tiniest blood vessels may affect the risk of stroke. Scientists are learning how the blood-brain barrier develops and what makes the capillaries in the brain different from small blood vessels in other organs.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="36">
+        <date>Fri Jun 26 15:41:29 EEST 2015</date>
+        <title>Graphene: Magnetic sensor 100 times more sensitive than silicon equivalent</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/Ve9B5DpWMbY/150626084129.htm</Link>
+        <Description>Scientists have created a graphene-based magnetic sensor 100 times more sensitive than an equivalent device based on silicon.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="37">
+        <date>Fri Jun 26 15:41:27 EEST 2015</date>
+        <title>Endogenous proteins as anti-inflammatory agents</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/7F7p2v3axY0/150626084127.htm</Link>
+        <Description>In autoimmune diseases and immune pathologies such as rheumatoid arthritis, psoriasis or organ rejection, inflammatory processes take place in the body, triggered by its own immune system. New research is concentrating on a special protein that is thought to play an important role in controlling excessive immune reactions.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="38">
+        <date>Fri Jun 26 15:41:24 EEST 2015</date>
+        <title>Unexpectedly little black-hole monsters rapidly suck up surrounding matter</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/xl_ZMuTrFtk/150626084124.htm</Link>
+        <Description>Researchers have found evidence that enigmatic objects in nearby galaxies -- called ultra-luminous X-ray sources (ULXs) -- exhibit strong outflows that are created as matter falls onto their black holes at unexpectedly high rates. The strong outflows suggest that the black holes in these ULXs must be much smaller than expected. Curiously, these objects appear to be "cousins" of SS 433, one of the most exotic objects in our own Milky Way Galaxy. The team's observations help shed light on the nature of ULXs, and impact our understanding of how supermassive black holes in galactic centers are formed and how matter rapidly falls onto those black holes.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="39">
+        <date>Fri Jun 26 15:39:21 EEST 2015</date>
+        <title>More endangered pygmy sloths in Panama than previously estimated</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/HdF4cPJo0ZY/150626083921.htm</Link>
+        <Description>Pygmy sloths wander inland in addition to inhabiting the mangrove fringes of their island refuge. A researchers now suggests that the population size of the pygmy sloth has been underestimated; a new, higher estimate for the number of sloths on Panama's Escudo de Veraguas Island points to how little is known about the species, and it underscores the need to conserve the sloths' isolated home.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="40">
+        <date>Fri Jun 26 15:39:19 EEST 2015</date>
+        <title>Iron: A biological element?</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/51pdl6d9MDU/150626083919.htm</Link>
+        <Description>Think of an object made of iron: An I-beam, a car frame, a nail. Now imagine that half of the iron in that object owes its existence to bacteria living two and a half billion years ago. That's the upshot of a new study. Its findings have meaning for fields as diverse as mining and the search for life in space.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="41">
+        <date>Fri Jun 26 15:39:17 EEST 2015</date>
+        <title>Want to be seen as more loving and a better cook?</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/UoroZXZ3WTg/150626083917.htm</Link>
+        <Description>Do you want to be seen as a better cook and a more loving parent? It's as easy as serving a vegetable at dinner, according to recent research. Families are most likely to consume vegetables at dinner time, yet only about 23% of dinners contain a full serving of vegetables, the study discovered.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="42">
+        <date>Fri Jun 26 15:39:15 EEST 2015</date>
+        <title>Exercising early in life yields rewards in adult years</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/IvWFRx6FX90/150626083915.htm</Link>
+        <Description>What impact can exercise done early in life have on the propensity for exercising during the adult years? Researchers did experiments on mice in the lab to find out. They found that early-age exercise in mice has positive effects on adult levels of voluntary exercise in addition to reducing body mass -- results that may have relevance for the public policy debates concerning the importance of physical education for children.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="43">
+        <date>Fri Jun 26 15:38:12 EEST 2015</date>
+        <title>Spiral arms cradle baby terrestrial planets</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/jo1Z_-U9Dog/150626083812.htm</Link>
+        <Description>New work offers a potential solution to a longstanding problem in the prevailing theory of how rocky planets formed in our own Solar System, as well as in others. The snag he's untangling: how dust grains in the matter orbiting a young protostar avoid getting dragged into the star before they accumulate into bodies large enough that their own gravity allows them to rapidly attract enough material to grow into planets.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="44">
+        <date>Fri Jun 26 15:38:10 EEST 2015</date>
+        <title>Long-acting antipsychotic medication may improve treatment for schizophrenia</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/sw_Hc1-fIQU/150626083810.htm</Link>
+        <Description>An injectable drug given every two weeks works better than a daily pill for those who have been recently diagnosed with schizophrenia, a study shows.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="45">
+        <date>Fri Jun 26 15:38:08 EEST 2015</date>
+        <title>Pet care can help improve adolescents' Type 1 diabetes management, pediatricians find</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/vx6A_swqskk/150626083808.htm</Link>
+        <Description>Pediatric diabetes researchers found that incorporating routine pet care into a child's diabetes self-care plan can significantly improve monitoring of the disease, resulting in lower blood glucose levels.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="46">
+        <date>Fri Jun 26 15:38:06 EEST 2015</date>
+        <title>Researchers uncover epigenetic switches that turn stem cells into blood vessel cells</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/X2wmCBZvCrk/150626083806.htm</Link>
+        <Description>A molecular mechanism that directs embryonic stem cells to mature into endothelial cells -- the specialized cells that form blood vessels -- has been discovered by researchers. Understanding the processes initiated by this mechanism could help scientists more efficiently convert stem cells into endothelial cells for use in tissue repair, or for engineering blood vessels to bypass blockages in the heart.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="47">
+        <date>Fri Jun 26 15:38:02 EEST 2015</date>
+        <title>Head Start program played anti-segregation role in the Deep South</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/G7MCVWewc5c/150626083802.htm</Link>
+        <Description>A federal preschool program did more than improve educational opportunities for poor children in Mississippi during the 1960s. The program also gave a political and economic boost to the state's civil rights activists, according to a historian.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="48">
+        <date>Fri Jun 26 15:38:00 EEST 2015</date>
+        <title>Waging war on Australia's nastiest parasite: Scientists map blowfly genome</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/-AsKgtI6cvY/150626083800.htm</Link>
+        <Description>Researchers have decoded the Australian sheep blowfly genome, adding ammunition to the battle against one of the nation's most insidious pests. This blowfly is responsible for about $280 million in losses to Australia's sheep industry each year from flystrike.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="49">
+        <date>Fri Jun 26 15:37:56 EEST 2015</date>
+        <title>Medically complex patients with Type 2 diabetes could benefit from seeing a specialist soon</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/f571rZ7daMc/150626083756.htm</Link>
+        <Description>People recently diagnosed with Type 2 diabetes and who have other serious chronic health issues have less heart disease and lower death rates if they see an endocrinologist within one year of diagnosis, new research suggests.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="50">
+        <date>Fri Jun 26 15:34:45 EEST 2015</date>
+        <title>European rule changes on cross border pet transport may heighten rabies risk</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/QjlVF7mV9Zw/150626083445.htm</Link>
+        <Description>Recent changes to regulations on the transport of pets across Europe may have increased the threat of introducing rabies from rescue dogs into countries considered free of the disease, suggests research.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="51">
+        <date>Fri Jun 26 15:34:41 EEST 2015</date>
+        <title>SSRI antidepressants taken for menopausal symptoms may boost bone fracture risk</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/oTZexd1Dp_A/150626083441.htm</Link>
+        <Description>The class of antidepressants known as SSRIs (selective serotonin reuptake inhibitors), taken to curb menopausal symptoms, may boost bone fracture risk, suggests new research.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="52">
+        <date>Fri Jun 26 15:34:39 EEST 2015</date>
+        <title>Online computer game can help shed weight, reduce food intake</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/UqKHPvMVFVw/150626083439.htm</Link>
+        <Description>A simple new computerized game could help people control their snacking impulses and lose weight. Psychologists report that participants lost an average of 0.7kg and consumed around 220 fewer calories a day whilst undergoing the week of training.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="53">
+        <date>Fri Jun 26 15:34:37 EEST 2015</date>
+        <title>Rapid Ebola diagnostic successful in field trial</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/fteLWrapH2Y/150626083437.htm</Link>
+        <Description>A new test can accurately diagnose Ebola virus disease within minutes, providing clinicians with crucial information for treating patients and containing outbreaks.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="54">
+        <date>Fri Jun 26 15:34:33 EEST 2015</date>
+        <title>Rats 'dream' paths to a brighter future</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/pL2X6iws3j8/150626083433.htm</Link>
+        <Description>When rats rest, their brains simulate journeys to a desired future such as a tasty treat. Researchers monitored brain activity in rats, first as the animals viewed food in a location they could not reach, then as they rested in a separate chamber, and finally as they were allowed to walk to the food. The activity of specialized brain cells involved in navigation suggested that during the rest the rats simulated walking to and from food that they had been unable to reach.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="55">
+        <date>Fri Jun 26 15:34:31 EEST 2015</date>
+        <title>'Hydrothermal siphon' drives water circulation through seafloor</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/vcnSxIf5SEc/150626083431.htm</Link>
+        <Description>Vast quantities of ocean water circulate through the seafloor, flowing through the volcanic rock of the upper oceanic crust. A new study explains what drives this global process and how the flow is sustained. About 25 percent of the heat that flows out of Earth's interior is transferred to the oceans through this process.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="56">
+        <date>Fri Jun 26 15:34:29 EEST 2015</date>
+        <title>Emergency visits for childhood food allergy on rise in Illinois</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/7NJhctkkWlM/150626083429.htm</Link>
+        <Description>Emergency room visits and hospitalizations of children with severe, potentially life-threatening food allergy reactions increased nearly 30 percent in Illinois over five years, reports a new study. Hispanic children, who previously had the lowest cases of food allergies, had the biggest increase with a 44 percent rise. This study shows severe food allergies are beginning to impact children of all races and income. It is no longer primarily a disease of children who are white and/or from higher income families.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="57">
+        <date>Fri Jun 26 15:34:26 EEST 2015</date>
+        <title>High-performance microscope displays pores in the cell nucleus with greater precision</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/RLX-TUDYj3s/150626083426.htm</Link>
+        <Description>The transportation of certain molecules into and out of the cell nucleus takes place via nuclear pores. For some time, detailed research has been conducted into how these pores embedded in the nuclear envelope are structured. Now, for the first time, biochemists have succeeded in elucidating the structure of the transportation channel inside the nuclear pores in high resolution using high-performance electron microscopes.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="58">
+        <date>Fri Jun 26 00:07:53 EEST 2015</date>
+        <title>Tests vs. Fests: Students in 'learning celebrations' rather than exams scored higher and enjoyed themselves</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/2wnjZdem5cw/150625170753.htm</Link>
+        <Description>A sociologist who reshaped "test day" in his class -- transforming it with balloons, streamers, treats and music -- found that students in "learning celebrations" scored higher than students who took standard-style exams in previous semesters.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="59">
+        <date>Fri Jun 26 00:07:51 EEST 2015</date>
+        <title>New strategies for combatting chronic kidney disease, other long-term conditions</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/GUFjpWkk8JM/150625170751.htm</Link>
+        <Description>New strategies for using electronic health records (EHRs) to treat patients with chronic kidney disease have been outlined by investigators. Their recommendations may help clinicians and hospitals better manage individual patients with chronic conditions and identify groups of patients most likely to benefit from different treatment strategies.</Description>
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f
         <MainBody/>
     </Article>
 </site>

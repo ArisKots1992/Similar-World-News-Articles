@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <site name="cbsnews">
     <Article id="0">
+<<<<<<< HEAD
         <date>Fri Jun 26 18:29:49 EEST 2015</date>
         <title>Deadly France terror attack</title>
         <Link>http://www.cbsnews.com/pictures/france-terror-attack-saint-quentin-fallavier/</Link>
@@ -46,11 +47,58 @@ Tunisia, a popular destination for European and Tunisian travelers, has been on 
 The gunmen opened fire on tourists getting out of buses and then entered the museum, apparently unimpeded, and fired on more tourists inside. Two gunmen were killed in a shootout with police. Four Italians were among the dead.
 The Islamic State in Iraq and Syria ( ISIS ) claimed responsibility for the Bardo attack.
 This is a developing story, please check back for updates.
+=======
+        <date>Sun Jun 28 20:33:44 EEST 2015</date>
+        <title>Iran nuclear talks to break June 30 deadline</title>
+        <Link>http://www.cbsnews.com/news/iran-nuclear-talks-to-break-june-30-deadline/</Link>
+        <Description>With pressure on Sec. Kerry to deliver a deal for Obama, dispute over nuclear site access appears to be halting progress</Description>
+        <MainBody>CBS/APJune 28, 2015, 9:33 AM
+Iran nuclear talks to break June 30 deadline
+From left, U.S. Secretary of Energy Ernest Moniz, U.S. Secretary of State John Kerry and U.S. Under Secretary for Political Affairs Wendy Sherman meet with Iranian Foreign Minister Mohammad Javad Zarif, second from right, at a hotel in Vienna, Austria, Saturday, June 27, 2015.
+Carlos Barria/AP
+More +
+VIENNA - A senior U.S. official acknowledged Sunday that Iran nuclear talks will go past their June 30 target date, as Iran's foreign minister prepared to head home Sunday for consultations before returning to push for a breakthrough.
+Iranian media said Mohammed Javad Zarif's trip was planned in advance. Still, the fact that he was leaving the talks so close to the Tuesday deadline reflected his need to get instructions on how to proceed on issues where the sides remain apart - among them how much access Tehran should give to U.N. experts monitoring his country's compliance to any deal.
+The United States insists on more intrusive access than Iran is ready to give. With these and other disputes still unresolved the likelihood that the Tuesday target deadline for an Iran nuclear deal could slip was increasingly growing even before the U.S. confirmation.
+U.S. Secretary of State John Kerry was in Vienna again for the talks. CBS News correspondent Margaret Brennan reports Kerry is under pressure to deliver President Obama's chief foreign policy goal - a nuclear accord with Iran.
+Several former Obama aides warned in a recent letter that the emerging deal "may fall short of meeting the administration's own standard of a 'good' agreement."
+German Foreign Minister Frank-Walter Steinmeier and French Foreign Minister Laurent Fabius are currently in Vienna, and their Russian and British counterparts are to join later. China was sending a deputy foreign minister in a building diplomatic effort to wrap up the negotiations.
+For weeks, all seven nations at the negotiating table insisted that Tuesday remains the formal deadline for a deal. But with time running out, a senior U.S. official acknowledged that was unrealistic.
+"Given the dates, and that we have some work to do ... the parties are planning to remain in Vienna beyond June 30 to continue working," said the official, who demanded anonymity in line with State Department practice.
+Asked about the chances for a deal, Federica Mogherini, the European Union's top diplomat, told reporters: "It's going to be tough ... but not impossible."
+Steinmeier avoided reporters but told German media earlier: "I am convinced that if there is no agreement, everyone loses."
+"Iran would remain isolated. A new arms race in a region that is already riven by conflict could be the dramatic consequence."
+Both sides recognize that there is leeway to extend to July 9. As part of an agreement with the U.S. Congress, lawmakers then have 30 days to review the deal before suspending congressional sanctions.
+But postponement beyond that would double the congressional review period to 60 days, giving both Iranian and U.S. critics more time to work on undermining an agreement.
+Arguing for more time to allow the U.S. to drive a harder bargain, Israeli Prime Minister Benjamin Netanyahu - a fierce opponent of the talks - weighed in on Sunday against "this bad agreement, which is becoming worse by the day."
+"It is still not too late to go back and insist on demands that will genuinely deny Iran the ability to arm itself with nuclear weapons," he said.
+The goal of the talks involving Iran and the U.S., Britain, China, France, Germany and Russia is a deal that would crimp Tehran's capacity to make nuclear weapons in exchange for sanctions relief.  Iran insists it does not want such arms but is bargaining in exchange for sanctions relief
+On Saturday, diplomats told The Associated Press that Iran was considering a U.S.-backed plan for it to send enriched uranium to another country for sale as reactor fuel, a step that would resolve one of several outstanding issues.
+ 2015 CBS Interactive Inc. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed. The Associated Press contributed to this report.
+Shares
+</MainBody>
+    </Article>
+    <Article id="1">
+        <date>Sun Jun 28 18:33:50 EEST 2015</date>
+        <title>Nervous Greeks crowd ATMs awaiting ECB decision</title>
+        <Link>http://www.cbsnews.com/news/nervous-greeks-crowd-atms-awaiting-european-central-bank-decision/</Link>
+        <Description>Greece's European partners debate whether or not to let the country's banks run out of cash after new prime minister threw bailout negations into turmoil</Description>
+        <MainBody>Greece says it will not be able to make the 1.7 billion dollars in payments it owes this month as it tries to strike a deal with lenders. CBS New...
+Parliament approved Tsipras' referendum call early Sunday, with the national vote set for July 5.
+The ECB has said it can only continue its current assistance if the banks are basically solvent. A failure by Greece's government to get more aid before its bailout ends Tuesday and a big payment to the International Monetary Fund is due could prompt the ECB to decide the Greek banks are not financially solid any more.
+Capping the aid would quickly force Greek banks to limit withdrawals - but such controls could take Greece a step closer to leaving the 19-nation eurozone.
+ECB President Mario Draghi has said it's up to elected officials to decide Greece's fate . Analysts say the central bank wants to give politicians every chance to negotiate a deal.
+Two opinion polls indicate most Greeks want to keep using the shared euro currency and would prefer a deal with Greece's European partners rather than a rupture.
+The polls published Sunday were both conducted before Prime Minister Alexis Tsipras declared early Saturday that he was calling a referendum on financial proposals made by Greece's creditors in return for continuing to fund the country with bailout loans. Still, they provide an indication of public sentiment.
+In the poll by Alco for the Proto Thema Sunday paper, 57 percent said they believed Greece should make a deal with its EU partners while 29 percent wanted a rupture. A separate poll by Kapa Research for the To Vima newspaper found 47.2 percent of respondents would vote in favor of a new, painful agreement with Greece's creditors, compared to 33 percent who would vote no and 18.4 percent undecided.
+Both nationwide polls were conducted from June 24-26. The Alco poll had a margin of error of 3.1 percent while Kapa Research's was 3.09 percent.
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f
  2015 CBS Interactive Inc. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed. The Associated Press contributed to this report.
 Shares
 </MainBody>
     </Article>
     <Article id="2">
+<<<<<<< HEAD
         <date>Fri Jun 26 18:39:43 EEST 2015</date>
         <title>Dozens killed as Kurds answer latest ISIS offensive</title>
         <Link>http://www.cbsnews.com/news/isis-attacks-on-kobani-hasskeh-leave-hundreds-dead-thousands-displaced/</Link>
@@ -62,11 +110,34 @@ Kobani, on Syria's border with Turkey, had become a symbol of Kurdish resistance
 On Thursday, ISIS fighters also attacked the town of Hassakeh in northeast Syria.
 According to a Reuters report, 60,000 people were displaced due to the fighting.
 Reuters reported that 200,000 people in Hassakeh eventually could try and escape north toward the Turkish border.
+=======
+        <date>Sun Jun 28 18:05:22 EEST 2015</date>
+        <title>Sudden inferno at Taiwan water park injures hundreds</title>
+        <Link>http://www.cbsnews.com/news/sudden-inferno-taiwan-water-park-injures-hundreds/</Link>
+        <Description>An accidental explosion of an unknown powder sets hundreds of people on fire at once during concert; cause still a mystery</Description>
+        <MainBody>CBS/APJune 28, 2015, 7:11 AM
+Sudden inferno at Taiwan water park injures hundreds
+Silhouettes of people running from a blaze are seen at the Formosa Fun Coast water park, on the outskirts of the capital, Taipei in this still image taken from video shot on June 27, 2015 and provided by Apple Daily Taiwan.
+REUTERS/Ms. Huang/Apple Daily Taiwan
+More +
+TAIPEI, Taiwan - A fire on a music stage spread into a crowd of spectators at a party Saturday night at a Taiwan water park, injuring about 500 people, including 141 in serious condition, authorities said.
+The fire was sparked by an accidental explosion of an unknown powder that was fired from a stage in front of about 1,000 people, said Wang Wei-sheng, a liaison with the New Taipei City fire department command center.
+Taiwan's Central News Agency on Sunday reported 474 have been injured, including 141 in serious condition. It quoted the New Taipei City health bureau. The injured included four mainland Chinese and two foreigners. Other news sources put the injured count at over 500.
+The fire erupted at the Formosa Water Park in New Taipei City near the island's capital and was quickly brought under control.
+Video showed rescue workers and bystanders carrying burned and injured people on their backs, in inflatable boats and on stretchers to get medical treatment.
+People tend to an injured woman at the Formosa Fun Coast amusement park after an explosion in the Pali district of New Taipei City on June 27, 2015.
+AFP/Getty Images
+CNA reported witnesses as saying the fire spread quickly after the colored powder was blown into the air.
+It wasn't clear if the colored powder was part of a performance. The cause of the fire is being investigated.
+The event manager and several park employees were detained and questioned after the incident, the BBC reports. There are also reports of at least one person arrested for looting among the victims.
+Taiwan News reports the the company owner in charge of the show, Lu Chung-ji, offered a public apology following the incident, and said he takes responsibility.
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f
  2015 CBS Interactive Inc. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed. The Associated Press contributed to this report.
 Shares
 </MainBody>
     </Article>
     <Article id="3">
+<<<<<<< HEAD
         <date>Fri Jun 26 18:24:00 EEST 2015</date>
         <title>Man decapitated in apparent France terror attack</title>
         <Link>http://www.cbsnews.com/videos/man-decapitated-in-apparent-france-terror-attack/</Link>
@@ -279,10 +350,321 @@ Many on social media saw the apology as a surprising capitulation from the famou
 But others judged it as a sly move to pave the way for a presidential pardon or for him to finish his sentence under house arrest, something his lawyers have been seeking on medical grounds for years. Indeed, he prefaced his written statement with a brief protest against what he said were excessively long sentences imposed by Panamanian courts in absentia.
 "The problem with Noriega is you can never distinguish between what's true or not," said R.M. Koster, an American novelist and biographer of Noriega who has lived in Panama for decades.
  2015 The Associated Press. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed.
+=======
+        <date>Sun Jun 28 10:04:30 EEST 2015</date>
+        <title>U.S. same-sex marriage ruling could have global impact</title>
+        <Link>http://www.cbsnews.com/news/supreme-court-same-sex-marriage-ruling-could-have-global-impact/</Link>
+        <Description>Gay rights advocates worldwide hope U.S. Supreme Court's landmark decision in favor of same-sex marriage will help their cause</Description>
+        <MainBody>As the Supreme Court says "I do" to gay marriage, we take a look back at the legal battles, tragedies, and personal bravery that brought the LGBT...
+In other countries where gay sex is treated as a crime, beleaguered activists said they took heart from the U.S. ruling even though same-sex marriage is not on the horizon. In most cases, activists seek to decriminalize homosexuality before pressing for marriage rights and other benefits.
+In the deeply conservative Arab world, where homosexuality is regarded as a crime in many countries, some clerics warned that the U.S. ruling would lead to the collapse of civilizations.
+In Jordan, where homosexuality is not illegal but is considered taboo, one member of the small gay community said the U.S. ruling is "a victory for human rights in general and gives everyone hope."
+He is hopeful same-sex marriage will one day be legal in Jordan.
+"In this region, we are going through the dark ages, and when we come out, we will move toward full rights," he said, speaking on condition of anonymity because he feared the consequences of being identified as gay.
+Marriage equality is also not part of the conversation in many parts of Africa, where more than two-thirds of the countries treat homosexuality as a crime.
+That is true of Cameroon, which has pursued dozens of prosecutions in recent years under an anti-gay law imposing up to five years in prison for same-sex acts.
+Lambert Lamba, a leading Cameroonian activist who has been imprisoned on accusations of violating anti-gay laws, said he was "exulting" in the U.S. ruling.
+"It's a giant step for the fight in the United States," he said. "And it confirms for me that we can take giant steps in Cameroon as well."
+ 2015 The Associated Press. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed.
+Shares
+</MainBody>
+    </Article>
+    <Article id="4">
+        <date>Sat Jun 27 04:14:52 EEST 2015</date>
+        <title>Photos of the week</title>
+        <Link>http://www.cbsnews.com/pictures/photos-of-the-week-june-20-26-2015/</Link>
+        <Description>The most compelling photos from the week's news, June 20-26, 2015, including landmark rulings by the Supreme Court, a heatwave in Pakistan and a Colombian tattoo festival</Description>
+        <MainBody>Next
+Shroud of Turin
+Week in review: The most compelling photos from the week's news, June 20-26, 2015, including landmark rulings by the Supreme Court, a heatwave in Pakistan and a Colombian tattoo festival.
+Here, nuns take pictures of the Pope arriving at Turin's cathedral to pray in front of the holy Shroud, believed by many Christians to be the burial shroud of Jesus of Nazareth, on June 21, 2015.
+By CBSNews.com senior photo editor Radhika Chalasani
+Credit: Alberto Pizzoli/AFP/Getty Images
+Obama reacts to Supreme Court ruling
+President Barack Obama reacts to news of the Supreme Court ruling on the Affordable Care Act subsidies, Thursday, June 25, 2015.
+The President was in the middle of his daily briefing when Brian Mosteller, the director of Oval Office operations, abruptly opened the door at 10:10 AM. For one split second, the President's face was blank as if he was trying to comprehend the news. He then reacted in jubilation.
+Credit: Pete Souza/The White House
+Lai Chi Kok Amusement Park
+A worker (C) secures ropes to a large sculpture that will be part of the new Lai Chi Kok amusement part in Hong Kong on June 23, 2015.  The Lai Chi Kok Amusement Park, once the largest family venue in Hong Kong, will be rebuilt on the promenade, 18 years after its closure.
+Credit: Isaac Lawrence/AFP/Getty Images
+A summer lightening storm on the Jersey City, New Jersey waterfront, June 25, 2015.
+Credit: Gary Hershorn
+Tunisia - tourists killed
+Bodies of tourists shot dead by a gunman lie near the beachside Imperial Marhaba Hotel in Sousse, Tunisia, June 26, 2015.
+At least 39 people, mainly Western tourists, were killed when a gunman opened fir. The gunman was killed at the scene by security forces.
+Credit: Amine Ben Aziza/Reuters
+Chilean education protest
+Students perform next to riot policemen during a demonstration to demand changes in the Chilean education system in Santiago, Chile June 25, 2015.
+Credit: Ricardo Moraes/Reuters
+Spain - fireworks
+Revelers hold fireworks as they take part in 'Correfoc' (Run with fire) party during the Night of San Juan in Barcelona, June 23, 2015.
+The event coincides with the Summer solstice. This celebration takes place during the longest night of the year in almost all cities and towns of Spain.
+Credit: Manu Fernandez/AP
+Same-sex marriage ruling
+Gay rights supporters celebrate after the U.S. Supreme Court ruled that the U.S. Constitution provides same-sex couples the right to marry, outside the Supreme Court building in Washington, D.C., June 26, 2015.
+The high court ruled 5-4 that the Constitution's guarantees of due process and equal protection under the law mean that states cannot ban same-sex marriages. With the ruling, gay marriage became legal in all 50 states.
+Credit: Jim Bourg/Reuters
+Al-Jazeera reporter released
+Al-Jazeera reporter Ahmed Mansour waves to jubilant supporters moments after walking free from the JVA Moabit prison where he spent two days in Berlin, Germany,June 22, 2015.
+German police, acting on an Egyptian arrest warrant, arrested Mansour at Tegel airport on June 20, 2015 as he was preparing to board a flight for Qatar. German authorities ordered Mansour's release. Critics claim the Egyptian charges against Mansour are a fabrication and that the case is politically motivated.
+Credit: Sean Gallup/Getty Images
+Republican presidential candidate Scott Walker
+Wisconsin Governor and Republican presidential candidate Scott Walker addresses supporters during a dinner at the "Road to Majority" conference in Washington, June 20, 2015.
+Credit: Carlos Barria/Reuters
+Argentinian Victor Peralta  attends  the Sixth Expotattoo Colombia 2015, in Medellin, on June 20, 2015.
+Credit: Raul Arboleda/AFP/Getty Images
+Rainbow colored White House
+The White House is illuminated in rainbow colors after the historic Supreme Court ruling legalizing gay marriage across the country in Washington, D.C., June 26, 2015.
+Credit: Gary Cameron/Reuters
+Triton migrants rescue operatons
+A migrants stretches his arm from the deck of the Belgian Navy Vessel Godetia after being being picked up during a search and rescue mission in the Mediterranean Sea off the Libyan coast on Tuesday, June 23, 2015.
+Hundreds of migrants were rescued by the Godetia, which is one of EU Navy vessels taking part in the Triton migrants rescue operations.
+Credit: Gregorio Borgia/AP
+Charleston - funeral for Ethel Lance
+Brandon Risher, left, is pulled away by a friend as he cries over the casket of his grandmother, Ethel Lance, following her burial service in Charleston, June 25, 2015.
+Ethel Lance was one of nine people killed in the shooting at Emanuel AME Church the previous week in Charleston.
+Credit: David Goldman/AP
+Iran - funeral
+A child looks on June 25, 2015 as Iranian mourners in Tehran attend the funeral of Mohammad Hamidi, Hasan Ghafari and Ali Amrai, all three members of the Islamic Republic's Revolutionary Guards reportedly killed in Syria.
+Credit: Atta Kenare/AFP/Getty Images
+France - migrant chase
+A police officer sprays tear gas to migrants trying to access the Channel Tunnel on the A16 highway on June 23, 2015 in Calais, northern France.
+Credit: Philippe Huguen/AFP/Getty Images
+Spain - La Saca de yeguas
+Wild mares trot past the shrine of El Rocio during La Saca de yeguas at El Rocio, in Almonte, southern Spain June 26, 2015.
+Every year on June 26, hundreds of wild mares are grouped together by riders at Donana National Park and taken to a livestock fair in Almonte village.
+Credit: Marcelo del Pozo/Reuters, REUTERS
+Obergefell at Supreme Court
+Plaintiff Jim Obergefell holds a photo of his late husband John Arthur as he speaks to members of the media after the U.S. Supreme Court handed down a ruling regarding same-sex marriage June 26, 2015 in Washington, D.C.
+Obergefell and Arthur sued to force their home state of Ohio, where same-sex marriage wasn't legal, to recognize their out-of-state union. Arthur died three months after the couple married in July 2013. After the landmark ruling, Obergefell said, "I felt more like and equal American than I had in a very long time."
+Credit: Alex Wong/Getty Images
+Texas - Harris and Evans wed
+Judge Dennise Garcia, left front, watches as George Harris, center left, 82, and Jack Evans, center right, 85, kiss after being married by Judge Garcia in Dallas on Friday, June 26, 2015.
+Gay and lesbian Americans have the same right to marry as any other couples, the Supreme Court declared Friday in a historic ruling deciding one of the nation's most contentious and emotional legal questions. Prior to the Supreme Court ruling gay marriage was not legal in Texas.
+Credit: Tony Gutierrez/AP
+Festival-goers attend the Hellfest music Festival in Clisson, France, June 20, 2015.
+Credit: Stephane Mahe/Reuters
+Obamacare ruling
+Interns with media organizations run with the long-awaited decision upholding the Affordable Care Act at the Supreme Court in Washington, D.C. June 25, 2015.
+The high court upheld the nationwide availability of tax subsidies that are crucial to the implementation of President Barack Obama's signature healthcare law, handing a major victory to the president.
+Credit: Joshua Roberts/Reuters
+Queen Elizabeth smiles at robot
+German Chancellor Angela Merkel and Britain's Queen Elizabeth smile as a robot waves during their visit at the Technical University of Berlin (TU Berlin) in Berlin, Germany June 24, 2015. Queen Elizabeth and the Duke of Edinburgh are on a three day state visit to Germany.
+Credit: Michael Sohn/Pool /Reuters
+Clementa Pinckney's funeral
+A mourner bows his head in prayer June 26, 2015 during the funeral service for Reverend Clementa Pinckney, who was killed along with eight others in a mass shooting  in Charleston, South Carolina on June 17, 2015.
+Suspected shooter Dylann Roof, 21, is accused of killing nine people during a Bible study at Emanuel AME Church, one of the nation's oldest black churches in Charleston.
+Credit: Win McNamee/Getty Images
+Azerbaijan - steeplechase
+Athletes clear the water jump during the Women's 3000 metres steeplechase during day nine of the Baku 2015 European Games at the Olympic Stadium on June 21, 2015 in Baku, Azerbaijan.
+Credit: Matthias Hangst/Getty Images for BEGOC
+Gaza City - destroyed car
+Palestinian children look at the remains of a car on June 22, 2015 in Gaza City that was destroyed during 50-day war between Israel and Hamas-militants in the summer of 2014.
+A widely anticipated United Nations report said both Israel and Palestinian militants may have committed war crimes during last year's Gaza war, decrying "unprecedented" devastation and human suffering.
+Credit: Mahmud Hams/AFP/Getty Images
+Austrian brass band
+A brass band leaves the course ahead of the start of the Austrian Formula One Grand Prix on the Red Bull Ring racing circuit in Spielberg, Austria on June 21, 2015.
+Germany's Nico Rosberg won the Austrian Grand Prix ahead of British teammate and overall drivers standings leader Lewis Hamilton, with Brazilian Felipe Massa, in a Williams, in third 17sec off the pace.
+Credit: Joe Klamar/AFP/Getty Images
+France - Grand Siecle day
+People dressed in a character era costumes have a picnic in the grounds of the 17th century Chateau of Vaux-le-Vicomte, in Maincy near Paris, on June 21, 2015 during the annual Grand Siecle day experience, a rendez-vous for costume passionates.
+The day also marks the 400th anniversary of the birth of Nicolas Fouquet, a French parliamentarian who bought the chateau and transformed the grounds and the building into what it is now.
+Credit: Francois Guillot/AFP/Getty Images
+Pakistan heat wave
+A Pakistani volunteer puts an identification tag onto a body of a heatwave victim as other dead bodies are seen in the the cold storage of the Edhi morgue in Karachi, June 22, 2015.
+A heatwave in Pakistan's largest city Karachi and other districts of southern Sindh province has killed at least more than 1,200 people.
+The southern port city of Karachi saw temperatures reach as high as 45 degrees Celsius (111 degrees Fahrenheit) on June 20, just short of an all-time high in the city of 47 C in June 1979.
+Credit: Rizwan Tabassum/AFP/Getty Images
+England - anti-fracking protest
+An anti-fracking demonstrator writes messages on a wall outside Lancashire County Hall in Preston, northwest England June 23, 2015, during a demonstration against the applications from energy firm Cuadrilla to start two fracking operations on nearby sites.
+Credit: Paul Ellis/AFP/Getty Images
+China - newborn panda twins
+Newborn twin female panda cubs are seen inside an incubator at the Giant Panda Research Base in Chengdu, China, June 22, 2015. Giant panda Ke Lin at the base gave birth to the female twins.
+Credit: China Daily/Reuters
+French anti-Uber protest
+French riot police stand next to an overturned car as striking French taxi drivers demonstrate at the Porte Maillot to block traffic on the Paris ring road during a national protest against car-sharing service Uber, in Paris, June 25, 2015.
+French taxi drivers stepped up protests against U.S. online cab service UberPOP, blocking road access to airports and train stations in Paris and other cities.
+Credit: Charles Platiau/Reuters
+Israeli Air Force pilots graduate
+Israeli Air Force pilots throw their hats in the air as they celebrate during their graduation ceremony at the Hatzerim base in the Negev desert, near the southern city of Beersheva, on June 25, 2015.
+Credit: Thomas Coex/AFP/Getty Images
+India - floods
+An aerial view shows flood victims standing atop their submerged houses in Amreli district of Gujarat, India, in this June 24, 2015 handout provided by the Indian Air Force.
+At least 24 people have died due to heavy rains and flood related incidents in the western state of Gujarat, local media reported.
+Credit: Indian Air Force/Handout/Reuters
+New Delhi - soap bubble
+People are reflected on a soap bubble lying on a road during the evening in New Delhi, India, June 23, 2015.
+Credit: Anindito Mukherjee/Reuters
+Reverend Clementa Pinckney's funeral
+A South Carolina Highway Patrol honor guard stands next to the casket of Reverend Clementa Pinckney, who was also a state senator, before his funeral service, in Charleston, South Carolina, Friday, June 26, 2015.
+President Barack Obama delivered the eulogy at Pinckney's funeral.
+Credit: David Goldman/AP
+Stonehenge - Summer Solstice
+Revellers watch the sunrise as they celebrate the pagan festival of Summer Solstice at Stonehenge in Wiltshire, southern England on June 21, 2015.
+The festival, which dates back thousands of years, celebrates the longest day of the year when the sun is at its maximum elevation. Modern druids and people gather at the landmark Stonehenge every year to see the sun rise on the first morning of summer.
+Credit: Niklas Halle'n/AFP/Getty Images
+Burundi - traditional dance
+A man does a traditional dance before a member of the ruling party, the National Council for the Defense of Democracy-Forces for the Defense of Democracy (CNDD-FDD), speaks in Mpanda, Burundi, June 23, 2015.
+Credit: Spencer Platt/Getty Images
+Sister Nirmala Joshi's funeral
+Nuns pray as they surround the body of Sister Nirmala Joshi, who succeeded Mother Theresa as the head of the Missionaries of Charity, in Kolkata, India, Tuesday, June 23, 2015. The 81-year-old nun, whose health had been declining in recent days, died early Tuesday.
+Credit: Bikas Das/AP
+California - El Carrizo Hot Shots
+Members of El Carrizo Hot Shots crew work through the night to try to contain the Lake Fire in the San Bernardino National Forest, California, June 19, 2015.
+Credit: David McNew/Reuters
+</MainBody>
+    </Article>
+    <Article id="5">
+        <date>Sun Jun 28 06:52:29 EEST 2015</date>
+        <title>Kerry returns to Iranian nuclear accord talks</title>
+        <Link>http://www.cbsnews.com/videos/kerry-returns-to-iranian-nuclear-accord-talks/</Link>
+        <Description>After breaking his leg in a cycling accident, Secretary of State John Kerry is back in Vienna to negotiate with Iran. Kerry is under pressure to deliver President Obama's chief foreign policy goal - a nuclear accord. Margaret Brennan reports.</Description>
+        <MainBody>Kerry returns to Iranian nuclear accord talks
+June 27, 2015, 6:42 PM
+|After breaking his leg in a cycling accident, Secretary of State John Kerry is back in Vienna to negotiate with Iran. Kerry is under pressure to deliver President Obama's chief foreign policy goal - a nuclear accord. Margaret Brennan reports.
+Related Videos
+</MainBody>
+    </Article>
+    <Article id="6">
+        <date>Sun Jun 28 05:44:22 EEST 2015</date>
+        <title>Kerry under pressure to deliver nuclear deal with Iran</title>
+        <Link>http://www.cbsnews.com/news/iran-nuclear-deadline-just-days-away/</Link>
+        <Description>Pressure mounting at home and abroad on secretary of state to finalize a deal before time runs out</Description>
+        <MainBody>Secretary of State John Kerry is heading back to Vienna, Austria, to finalize a nuclear deal with Iran. The deadline is four days away. The agree...
+He also wants all financial sanctions on Iran to be lifted immediately, not gradually as the U.S. has proposed.
+There's pressure at home, too. Several former Obama aides warned in a recent letter that the emerging deal "may fall short of meeting the administration's own standard of a 'good' agreement."
+James Jeffrey, the president's former ambassador to Iraq, signed that letter.
+"We are worried that the administration is going to do a rush to signature and essentially cave to the supreme leader's most recent and absurd red lines," Jeffrey told CBS News.
+From left, U.S. Secretary of Energy Ernest Moniz, U.S. Secretary of State John Kerry and U.S. Under Secretary for Political Affairs Wendy Sherman meet with Iranian Foreign Minister Mohammad Javad Zarif, second from right, at a hotel in Vienna, Austria, June 27, 2015.
+Carlos Barria/AP
+Ali Rezaian's stake in a diplomatic breakthrough is personal. His brother, Washington Post Reporter Jason Rezaian, is in a Tehran prison on charges of espionage.
+</MainBody>
+    </Article>
+    <Article id="7">
+        <date>Sun Jun 28 04:16:14 EEST 2015</date>
+        <title>French terror suspect took selfie with beheaded victim</title>
+        <Link>http://www.cbsnews.com/news/france-terror-suspect-selfie-beheaded-victim/</Link>
+        <Description>Investigators looking into what truck driver with history of radical Islamic ties did with the photo</Description>
+        <MainBody>Yassine Salhi was arrested in France Friday, accused of beheading his boss and trying to cause an explosion at a plant. CBS News correspondent Ma...
+One of the officials said the selfie was forwarded via WhatsApp, the globally popular instant messaging system owned by Facebook, to a phone number in Canada. The officials spoke to The Associated Press on condition of anonymity because the investigation was ongoing.
+No group immediately claimed responsibility. The severed head appeared to mimic ISIS' practice of beheading prisoners and displaying their heads for all to see, and came days after the militants urged attacks during the Muslim holy month of Ramadan. French authorities say Salhi had links to radical Salafists in the past.
+Paris prosecutor's office spokeswoman Agnes Thibault-Lecuivre said the leading suspect began speaking with investigators after first refusing to do so. She declined to provide details, but said investigators haven't found any foreign connection.
+The site of the beheading wasn't yet known to investigators, and the victim had been strangled beforehand, she said.
+A fourth person arrested Friday was released without being charged. Under French anti-terrorism laws, Salhi and the women can be held up to four days before either being released or handed preliminary charges and locked up.
+View Gallery
+A French special police forces officer gestures as police escort a woman from a residential building during a raid in Saint-Priest, near Lyon, France, June 26, 2015.
+Reuters/Emmanuel Foudrot
+President Francois Hollande's office said he will convene a meeting with top parliamentary leaders about the matter on Tuesday.
+Separately on Saturday, hundreds of people turned out in the region to honor slain businessman Herve Cornara and denounce the violence. Dozens turned out for a minute of silence in Saint-Quentin-Fallavier, the town southeast of Lyon where Friday's attack took place at an Air Products chemicals warehouse.
+Several hundred people also gathered outside a housing project in the town of Fontaines-sur-Saone to honor Cornara, 54, the manager of a transportation company that had employed Salhi since March. They recalled a kind, humble man who was active in the community of the Lyon suburb.
+"He lived on the fifth floor, me on the fourth. He spoke with all the young people in the neighborhood. He didn't differentiate between (non-Muslim) French and Muslims," said Leila Bouri, a 24-year-old cafeteria cashier. "If you ever had a problem, you would go see him."
+"When I heard this, I was shocked. It's shameful," she said. "I am a Muslim, but you can't kill like this. It's not who we are. In Islam, we're not told to slit throats. We only slit the throats of sheep. You don't slit the throats of people."
+The suspected killer, she added, "isn't a Muslim in my opinion."
+ 2015 The Associated Press. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed.
+Shares
+</MainBody>
+    </Article>
+    <Article id="8">
+        <date>Sun Jun 28 00:50:06 EEST 2015</date>
+        <title>Is Tunisia the next hotbed of terror activity?</title>
+        <Link>http://www.cbsnews.com/news/tunisia-the-next-hotbed-of-terror-activity/</Link>
+        <Description>Once a bright spot of democratic success, Tunisia is now "facing a growing sense of terrorist threat and dread," an expert says</Description>
+        <MainBody>ByReena FloresCBS NewsJune 27, 2015, 4:15 PM
+Is Tunisia the next hotbed of terror activity?
+Shares
+After an attack at a Tunisian beach resort left at least 39 people dead -- many of them western tourists -- the world is once again focusing on the country as a hotbed of terrorist activity.
+"In Tunisia, you have the problem that you have terrorist groups and operatives operating in a country that has been relatively stable compared to its neighbors," CBS News senior national security analyst Juan Zarate said, contrasting Tunisia from Libya and Egypt as a "bright spot" in the wake of the Arab Spring.
+Tunisia is the only country in the region to have built a democratic system after the revolutions that rocked the Middle East and North Africa.
+There have been a string of terror attacks overseas that have left over 60 dead and hundreds injured. In France, a man with a history of radical ...
+"But the reality is they've been facing a growing sense of terrorist threat and dread," Zarate added. "You've seen these episodes of attacks, and certainly what you're seeing here is, I think, another episode where terrorists are trying to impose themselves either from the outside of Tunisia or taking advantage of terrorist operatives that are operating there in Tunisia."
+An ISIS Twitter account claimed responsibility for the attack in Sousse , posting a photograph of the gunman, Seifeddine Rezgui, a Tunisian student who was later shot dead by security forces.
+The country is no stranger to terror attacks. In March, gunmen at the national museum killed 22 people near the parliament building in Tunis. In 2013, the city of Sousse was also the site of a failed suicide bomber attack.
+Tunisia Prime Minister Habib Essid announced Saturday that his administration would toughen security measures, including closing mosques known for embracing extremist ideologies and calling up army reservists.
+Eyewitnesses describe deadly attack at Tunisia resort
+"The fight against terrorism is a national responsibility," Essid, who came under fire in March after the national museum massacre exposed governmental security weaknesses , said at a press conference early Saturday. "We are at war against terrorism which represents a serious danger to national unity during this delicate period that the nation is going through."
+Zarate, who served as the deputy national security adviser for combating terrorism under President George W. Bush, isn't surprised that the terror attack struck a western target in the Tunisian city. He notes that the mass assault was specifically "trying to hit western tourists."
+</MainBody>
+    </Article>
+    <Article id="9">
+        <date>Sat Jun 27 20:26:35 EEST 2015</date>
+        <title>Eyewitnesses describe deadly attack at Tunisia resort</title>
+        <Link>http://www.cbsnews.com/news/isis-claims-credit-tunisia-attack-eyewitnesses-deadly-assault/</Link>
+        <Description>ISIS claims credit for gunman's assault on beach resort as thousands of tourists plan to leave North African country</Description>
+        <MainBody>A gunman attacked a popular beach resort in Tunisia Friday, killing dozens of people, mostly foreign tourists. CBS News correspondent Charlie D'A...
+"The fight against terrorism is a national responsibility," said a visibly exhausted Habib Essid at a press conference in Tunis early Saturday. "We are at war against terrorism which represents a serious danger to national unity during this delicate period that the nation is going through."
+He announced a string of tough measures to fight extremism, including examining the funding of organizations suspected of promoting radicalism, closing some 80 mosques outside government control and declaring certain mountainous zones military areas.
+At the Imperial Marhaba Hotel where the attack took place, vans and buses were carrying away tourists on Saturday. While the hotel was not actually closing down, the tour operators had urged everyone to leave, the director said.
+"We may have zero clients today but we will keep our staff," said Mohammed Becheur, adding the 370-room hotel had been at 75 percent occupancy before the attack.
+View Gallery
+Tourists console each other following a shooting attack in the resort town of Sousse, a popular tourist destination 90 miles south of the Tunisian capital, June 26, 2015.
+Fethi Belaid/AFP/Getty Images
+Tourism is a key part of Tunisia's economy and had already fallen some 25 percent after a terrorist attack on the national museum in the capital Tunis that killed 22 people in March.
+"It's really sad but what can you do, for everyone, for the tourists, for the people who died, for their families," said Belgian tourist Clause Besser, as he recovered in the hospital from a gunshot wound he received fleeing from the attacker. "For me, somehow, with a bullet in the leg, it's not a catastrophe. For those who died or were injured for life, it's something else."
+British travel companies Thomson and First Choice said they are flying back thousands of tourists from Tunisia Saturday and are canceling all flights to the country in the coming week. Tourist flights from Ireland to Tunisia have continued in the wake of the attack, but travel agents are offering full refunds for those canceling. Slovakia has sent a plane to evacuate some 150 of its citizens who are currently in Tunisia, according to the Foreign Ministry, and Scandinavian tour operators have stopped all flights to the North African country for the rest of the season.
+"We felt a bit scared because Sousse isn't that far away, it's only 40-50 kilometers (25-30 miles) from where we stayed," said Kathrin Scheider as she waited in line to check in to her flight out of the country at the Hammamet airport near Sousse. "We felt quite safe during the whole holiday, but as soon as we heard, we were quite happy to leave because you don't feel that safe anymore if something happens like that."
+The Tunisian Ministry of Health has confirmed the nationalities of 10 of the 39 victims of the attack , including eight Britons, a Belgian and a German. The government of Ireland said an Irish nurse was also among those who were killed.
+Relatives and family friends say Lorna Carty was fatally shot as she sunbathed. She and her husband, Declan, had received the holiday as a present to help Declan Carty relax following his recent heart surgery. Family friends speaking to the couple's two children said Lorna Carty went ahead of her husband to the beach, where she suffered fatal gunshot wounds and was pronounced dead in hospital.
+ 2015 CBS Interactive Inc. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed. The Associated Press contributed to this report.
+Shares
+</MainBody>
+    </Article>
+    <Article id="10">
+        <date>Sat Jun 27 21:11:37 EEST 2015</date>
+        <title>France factory attack suspect in custody</title>
+        <Link>http://www.cbsnews.com/videos/france-factory-attack-suspect-in-custody/</Link>
+        <Description>The suspected Islamic terrorist killed one man at a gas factory owned by an American company near the city of Lyon. Mark Phillips reports with the latest near the factory site.</Description>
+        <MainBody>France factory attack suspect in custody
+June 27, 2015, 7:49 AM
+|The suspected Islamic terrorist killed one man at a gas factory owned by an American company near the city of Lyon. Mark Phillips reports with the latest near the factory site.
+Related Videos
+</MainBody>
+    </Article>
+    <Article id="11">
+        <date>Sat Jun 27 18:48:31 EEST 2015</date>
+        <title>At least 39 dead in attack on Tunisian resort</title>
+        <Link>http://www.cbsnews.com/videos/at-least-39-dead-in-attack-on-tunisian-resort/</Link>
+        <Description>There have been a string of terror attacks overseas that have left over 60 dead and hundreds injured. In France, a man with a history of radical Islamic ties tried to blow up an American-owned chemical plant. A decapitated body was found. In Kuwait, several people were arrested in the bombing attack on a mosque that killed at least 27 and injured more than 200. And in Tunisia, a gunman at a beach-resort killed at least 39 people, most of them western tourists. Charlie D'Agata reports from Sousse, Tunisia.</Description>
+        <MainBody>At least 39 dead in attack on Tunisian resort
+June 27, 2015, 7:40 AM
+|There have been a string of terror attacks overseas that have left over 60 dead and hundreds injured. In France, a man with a history of radical Islamic ties tried to blow up an American-owned chemical plant. A decapitated body was found. In Kuwait, several people were arrested in the bombing attack on a mosque that killed at least 27 and injured more than 200. And in Tunisia, a gunman at a beach-resort killed at least 39 people, most of them western tourists. Charlie D'Agata reports from Sousse, Tunisia.
+Related Videos
+</MainBody>
+    </Article>
+    <Article id="12">
+        <date>Sat Jun 27 18:20:29 EEST 2015</date>
+        <title>Eye Opener: Manhunt intensifies for lone escapee</title>
+        <Link>http://www.cbsnews.com/videos/eye-opener-manhunt-intensifies-for-lone-escapee/</Link>
+        <Description>The hunt for two prison escapees is now down to one. And, several states scramble to issue marriage licenses after the U.S. Supreme Court's ruling on same-sex marriage. All that and all that matters in today's Eye Opener. Your world in 90 seconds.</Description>
+        <MainBody>Eye Opener: Manhunt intensifies for lone escapee
+June 27, 2015, 7:10 AM
+|The hunt for two prison escapees is now down to one. And, several states scramble to issue marriage licenses after the U.S. Supreme Court's ruling on same-sex marriage. All that and all that matters in today's Eye Opener. Your world in 90 seconds.
+Related Videos
+</MainBody>
+    </Article>
+    <Article id="13">
+        <date>Sat Jun 27 09:51:45 EEST 2015</date>
+        <title>​U.S. beats China, heads to Women's World Cup semifinal</title>
+        <Link>http://www.cbsnews.com/news/u-s-defeats-china-1-0-at-womens-world-cup/</Link>
+        <Description>Victory means U.S. will face top -ranked Germany in tournament semifinal</Description>
+        <MainBody>The U.S. women's soccer team pursuing World Cup glory...
+Despite missing midfielders Megan Rapinoe and Lauren Holiday, who were suspended for yellow card accumulation, the U.S. managed a more attacking attitude and extended its unbeaten streak against China to 25 matches dating to 2003.
+"I think it was a highly energized performance," U.S. coach Jill Ellis said. "I thought we took care of the ball well, still created a lot of opportunities. So, yeah, we're really pleased."
+Morgan Brian replaced Holiday in the middle of field, with Tobin Heath and Kelley O'Hara -- making her first start since March -- the flanks. Amy Rodriguez started up top with Alex Morgan, injecting more pace, while Abby Wambach did not enter until the 86th minute.
+Wearing the captain's armband, Lloyd got the breakthrough with her 65th goal in 200 international appearances. Julie Johnston lofted a long ball into the penalty area and Lloyd met it with her head 10 yards from the goal line and bounced the ball off the artificial turf and past goalkeeper Fei Wang. That brought cheers from the overwhelmingly pro-American crowd of 24,141 at Lansdowne Stadium.
+"These are the moments I live for," Lloyd said after the game, CBSSports.com's Sean Wagner-McGough reported .
+Before that, the best American chance was by Johnston in the 26th minute that was cleared in front of an open net by defender Li Dongna. Johnston also had a header off a corner kick in the 31st minute that popped over the crossbar.
+Brian had a chance to double the lead in the 73rd, but her long strike hit a post, and Lloyd missed high on the rebound.
+The U.S. had a 17-6 advantage in shots and its offense was less stagnant than in the round-of-16 win over Colombia. The American face a considerable challenge in Germany, which lost to Japan in overtime in the 2011 quarterfinals.
+"The U.S. only netted one goal, but it finally played a game that resembled a top team in top form," Wagner-McGough wrote after the game. "The passing was crisper, the runs were more dangerous, and multiple goals were just inches away from materializing. For a U.S. team that has struggled so much on offense, the way in which it played has to give it confidence moving forward."
+Germany advanced earlier by beating France 5-4 on penalty kicks after a 1-1 tie. The United States has an 18-4-7 overall record against the Germans, including a 3-2 advantage in World Cup matches.
+In Saturday's quarterfinals, host Canada faces England and Australia plays defending champion Japan.
+ 2015 CBS Interactive Inc. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed. The Associated Press contributed to this report.
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f
 Shares
 </MainBody>
     </Article>
     <Article id="14">
+<<<<<<< HEAD
         <date>Thu Jun 25 23:57:46 EEST 2015</date>
         <title>French taxi drivers smash cars in strike against Uber</title>
         <Link>http://www.cbsnews.com/news/french-taxi-drivers-smash-cars-in-strike-against-uber/</Link>
@@ -374,10 +756,88 @@ Shares
 The U.S. already regularly conducts maneuvers with allied countries. In Romania on Thursday, U.S Navy Adm. Mark E. Ferguson III, a top NATO commander, said recent exercises have shown that the alliance is capable of training and operating across northern and eastern Europe.
 He also noted that NATO successfully relocated the Allied Joint Force Command temporarily from Italy to Romania for exercises this month involving 1,000 troops from 21 nations, as the alliance continues to hone its ability to react to Russia's moves in Ukraine or other security challenges.
  2015 CBS Interactive Inc. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed. The Associated Press contributed to this report.
+=======
+        <date>Sat Jun 27 05:13:40 EEST 2015</date>
+        <title>Portraits of Tunisian terror attack victims begin to emerge</title>
+        <Link>http://www.cbsnews.com/news/victims-of-deadly-tunisian-terror-attack-begin-to-emerge/</Link>
+        <Description>Dozens of sunbathers were killed in a horrific attack at a Tunisian resort</Description>
+        <MainBody>CBS News/APJune 26, 2015, 8:04 PM
+Portraits of Tunisian terror attack victims begin to emerge
+Shares
+More +
+SOUSSE, Tunisia -- A young man pulled a Kalashnikov from a beach umbrella and sprayed gunfire at European sunbathers at a Tunisian resort, killing at least 37 people - one of three deadly attacks Friday from Europe to North Africa to the Middle East that followed a call to violence by Islamic State extremists.
+The Health Ministry said among  the 37 dead included Tunisians, British, Germans and Belgians, without giving a breakdown.
+Dozens killed after gunman opens fire on tourists in a Tunisian tourist resort town
+The Irish Times reports one of the victims was an Irish national, Lorna Carty, a nurse on vacation with her husband. The Times reports she had traveled to Tunisia with her husband after he gave her the trip as a present. He had recently underwent heart surgery. She has two children, Hazel, 18, and Simon, 21.
+In a statement Irish Minister of Foreign Affairs and Trade, Charles Flanagan, confirmed the death of an Irish citizen.
+"I condemn unreservedly the terrorist attacks in Tunisia, Kuwait and France today. Sadly, I can confirm that an Irish citizen has been killed in the attack in Sousse , Tunisia," he said.
+Others began Tweeting about missing family members who they said had been in Tunisia at the time of the attack, but hadn't been heard from.
+My nan, Eileen Swannack &amp;her partner John.Pls get in contact if any1 has news.They're stayin at riu imperial #Tunisia pic.twitter.com/HScE8VtDBZ
+ Lucie Marie (@MissLucieMarie) June 26, 2015
+Haven't spoke to my Dad since the attack, please, please, please RT as he is missing along with his partner #Tunisia pic.twitter.com/s1Mp2loO1W
+ A$AP ROSSI (@rossinaylor) June 26, 2015
+#FindSueDavey #Tunisia haven't spoke to my mom since attack an phone has been handed in please RT !! pic.twitter.com/RfwQQv49le
+ Conor Fulford (@ConorFulford) June 26, 2015
+British Foreign Secretary Philip Hammond says at least five Britons were killed but expected to toll to rise because a high proportion of the dead were believed to be British.
+Heroes also began to emerge in the midst of such devastation. The BBC reports , a Welsh tourist used his body as a shield to protect his Fianc when the shooting on the beach began. Saera Wilson, 26, the Fianc of gas engineer Matthew James, 30, said he is alive, but his pelvis is shattered after being shot three times.
+The shootings in the Tunisian resort of Sousse happened at about the same time as a bombing at a Shiite mosque in Kuwait and an attack on a U.S.-owned factory in France that included a beheading. It was unclear if the violence was linked but it came days after the IS militants urged their followers "to make Ramadan a month of calamities for the nonbelievers." In all, the assailants killed at least 65 people.
+Photo on Saera Wilson's Facebook page with her Fianc, Matthew James. She told the BBC he shielded her when the bullets began flying.
+Facebook
+The attack in Tunisia, the country's worst ever, comes just months after the March 18 massacre at the national Bardo museum in Tunis that killed 22 people, again mostly tourists, and has called into question the newly elected government's ability to protect the country.
+"Once again, cowardly and traitorous hands have struck Tunisia, targeting its security and that of its children and visitors," President Beji Caid Essebsi told reporters at the RIU Imperial Marhaba hotel, near the beach rampage site.
+Essebsi promised "painful but necessary" measures, adding: "No country is safe from terrorism, and we need a global strategy of all democratic countries."
+British tourist Gary Pine told AP he was on the beach with his wife around noon when heard the shooting. They shouted for their son to get out of the water, grabbed their bag and ran for the hotel. Their son told them he saw someone shot on the beach.
+Tourists console each other following a shooting attack in the resort town of Sousse, a popular tourist destination 140 kilometres (90 miles) south of the Tunisian capital, on June 26, 2015.
+FETHI BELAID/AFP/Getty Images
+There was "sheer panic" at the hotel, Pine said. "There were a lot of concerned people, a few people in tears with panic and a few people - older guests - they'd turned their ankles or there was a few little minor injuries and nicks and scrapes."
+Elizabeth O'Brien, an Irish tourist who was with her two sons, told Irish Radio she was on the beach when the shooting began.
+"I thought, 'Oh my God. It sounds like gunfire,' so I just ran to the sea to my children and grabbed our things" before fleeing to their hotel room, she said.
+The FBI and U.S. Department of Homeland Security issued a bulletin Friday warning of attacks against law enforcement officers and the military during the July 4th holiday.
+CBS News/AP
+</MainBody>
+    </Article>
+    <Article id="15">
+        <date>Sat Jun 27 06:34:37 EEST 2015</date>
+        <title>Man beheaded in France terror attack</title>
+        <Link>http://www.cbsnews.com/videos/man-beheaded-in-france-terror-attack/</Link>
+        <Description>Yassine Salhi was arrested in France Friday, accused of beheading his boss and trying to cause an explosion at a plant. CBS News correspondent Mark Phillips reports.</Description>
+        <MainBody>Man beheaded in France terror attack
+June 26, 2015, 7:18 PM
+|Yassine Salhi was arrested in France Friday, accused of beheading his boss and trying to cause an explosion at a plant. CBS News correspondent Mark Phillips reports.
+Related Videos
+</MainBody>
+    </Article>
+    <Article id="16">
+        <date>Sat Jun 27 06:32:31 EEST 2015</date>
+        <title>Gunman storms Tunis resort in deadly attack</title>
+        <Link>http://www.cbsnews.com/videos/gunman-storms-tunis-resort-in-deadly-attack/</Link>
+        <Description>A gunman attacked a popular beach resort in Tunisia Friday, killing dozens of people, mostly foreign tourists. CBS News correspondent Charlie D'Agata reports.</Description>
+        <MainBody>Gunman storms Tunis resort in deadly attack
+June 26, 2015, 6:44 PM
+|A gunman attacked a popular beach resort in Tunisia Friday, killing dozens of people, mostly foreign tourists. CBS News correspondent Charlie D'Agata reports.
+Related Videos
+</MainBody>
+    </Article>
+    <Article id="17">
+        <date>Sat Jun 27 03:50:05 EEST 2015</date>
+        <title>Martin O'Malley outlines his plan to fight ISIS</title>
+        <Link>http://www.cbsnews.com/news/omalley-boots-on-the-ground-vs-isis-could-be-counterproductive/</Link>
+        <Description>The Democratic presidential candidate criticized 2003 Iraq invasion as a "mindless rush to war"</Description>
+        <MainBody>The State Department acknowledged that the emails from presidential candidate Hillary Clinton's private email account are missing in some form. E...
+"We must recognize that there are real lessons to be learned from the tragedy in Benghazi," he said. "Namely, we need to know in advance who is likely to take power or vie for it once a dictator is toppled."
+Doug Wilson, who serves as O'Malley's senior foreign policy adviser and chair of the board of advisers at Truman, told reporters following O'Malley's remarks that the speech was not meant as a criticism of Hillary Clinton. Clinton, the frontrunner for the Democratic nomination in the presidential race, voted for the Iraq invasion as a senator and has been accused of mishandling the Benghazi attack during her tenure as Secretary of State.
+"You see no mention of any candidates names in what he had to say," Wilson said. "You see only a mention of what he thinks this country needs to do in order to have a better shot at succeeding around the world."
+He also defended the former Baltimore mayor and governor of Maryland's foreign policy experience.
+"This governor has traveled. He has met with foreign leaders," he said, mentioning that O'Malley has met with Indian Prime Minister Narendra Modi and Israeli Prime Minister Benjamin Netanyahu. "He has also met with leaders on regional and local levels and in civil society on his travels he believes these are people who are going to have influence on policies in their countries for a long time to come."
+O'Malley's emphasis on partnerships runs through his entire vision of American foreign policy. He has called for more engagement around the world, in terms of national defense but also to combat what he calls "21st century challenges" like climate change and cyberterrorism.
+"After 12 years on the battlefields of Iraq and Afghanistan," he said, "it is understandable that many Americans would like to disengage from the world. Understandable, but not responsible."
+ 2015 CBS Interactive Inc. All Rights Reserved.
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f
 Shares
 </MainBody>
     </Article>
     <Article id="18">
+<<<<<<< HEAD
         <date>Thu Jun 25 22:55:19 EEST 2015</date>
         <title>Woman on trial for deaths of 8 of her babies</title>
         <Link>http://www.cbsnews.com/news/frenchwoman-on-trial-for-deaths-of-8-of-her-babies/</Link>
@@ -425,6 +885,130 @@ They were aboard a twin-engine Cessna that crashed Saturday into the thick jungl
 The pilot was killed, but rescuers said a load of fish on board absorbed much of the impact in the plane's cabin, allowing Murillo and her son to survive against the odds.
 Colombia's air force posted images of the woman and her son on Twitter, calling the rescue a "miracle."
 Un milagro en las selvas de Choc http://t.co/IjIkS6lEEQ va @RevistaSemana pic.twitter.com/8oPIRIg37v
+=======
+        <date>Fri Jun 26 21:08:55 EEST 2015</date>
+        <title>Tunisia beach terror attack</title>
+        <Link>http://www.cbsnews.com/pictures/deadly-tunisia-beach-terror-attack/</Link>
+        <Description>Dozens killed after gunman opens fire on tourists in a Tunisian tourist resort town</Description>
+        <MainBody>Next
+Tunisia terror attack
+At least 39 people, most of them Western tourists, were killed when a gunman opened fire on a Tunisian beachside hotel in the popular resort of Sousse on Friday, June 26, 2015.
+Here, bodies of dead tourists lie near Imperial Marhaba Hotel in Sousse, Tunisia, June 26, 2015. The majority of the tourists killed were from Britain, Germany and Beligum.
+Credit: Amine Ben Aziza/Reuters
+Tunisia terror attack
+Flowers at the scene of a beach terror attack in Sousse, Tunisia, Saturday, June 27, 2015, the morning after a lone gunman killed at least 39 people at a beach resort.
+Credit: Darko Vojinovic/AP
+Tunisia terror attack
+A young woman  lays flowers at the scene of a shooting  in Sousse, Tunisia, Saturday, June 27, 2015, the morning after a lone gunman killed at least 39 people at the Imperial Marhaba Hotel.
+Credit: Darko Vojinovic/AP
+Tunisia terror attack
+Tunisian security forces man a checkpoint at the entrance of the resort area where Imperial Marhaba Hotel is located on the outskirts of Sousse south of the capital Tunis, on June 27, 2015, in the aftermath of a shooting attack on the beach resort.
+Credit: Fethi Belaid/AFP/Getty Images
+Tunisia terror attack
+People react at the site of a shooting attack on the beach in front of the Imperial Marhaba Hotel in Port el Kantaoui, on the outskirts of Sousse, Tunisia, June 27, 2015.
+Credit: Kenzo Tribouillard/AFP/Getty Images
+Tunisia terror attack
+Tunisian security forces stand in front of the Imperial Marhaba Hotel in the resort town of Sousse, a popular tourist destination 140 kilometres (90 miles) south of the Tunisian capital, on June 26, 2015, following a shooting attack.
+Credit: Fethi Belaid/AFP/Getty Images
+Tunisia terror attack
+Criss Callaghan, 62, a British tourist who was injured during an attack on the beachside Imperial Marhaba Hotel, is hugged by her husband as she lies in bed at a hospital in Sousse, Tunisia, June 26, 2015.
+Credit: Zoubeir Souissi/Reuters
+Tunisia terror attack
+Police officers patrol Atocha train station in Madrid, Spain, June 27, 2015.
+Spain said it was beefing up security around key infrastructure after attacks in France, Kuwait and Tunisia killed dozens on June 26, 2015.
+Credit: Susana Vera/Reuters
+Seifeddine Rezgui
+This image taken from a militant website associated with ISIS extremists, posted June 27, 2015, purports to show Tunisian gunman Seifeddine Rezgui who killed tens at least 39 people in the Tunisian beach resort of Sousse on June 26, 2015.
+Police have identified Seifeddine Rezgui, a young Tunisian student who was not previously known to authorities, as the gunman. Rezgui was shot dead by security forces.
+Credit: Militant photo via AP
+Tunisia terror attack
+Tourists queue to leave Tunisia at the Enfidha international airport June 27, 2015, after the terrorist attack at the Imperial Marhaba Hotel on June 26, 2015.
+British tourist companies were evacuating thousands of foreign holidaymakers from Tunisia on Saturday, June 27, 2015, a day after a gunman killed at least 39 people as they lounged at the beach.
+Credit: Zoubeir Souissi/Reuters
+Tunisia terror attack
+Police officers control the crowd while surrounding a man (front C) after a gunman opened fire on a beachside hotel in Sousse, Tunisia, as a woman reacts (R), June 26, 2015.
+Credit: Amine Ben Aziza/Reuters
+Tunisia terror attack
+Tourists leave the Imperial hotel in the resort town of Sousse, a popular tourist destination 140 kilometers (90 miles) south of the Tunisian capital, on June 26, 2015, following a terrorist attack in the beach resort packed with foreign tourists, in the North African country's worst attack in recent history.
+Credit: Kenzo Tribouillard/AFP/Getty Images
+Tunisia terror attack
+Tourists comfort each other after the mass shooting in the resort town of Sousse, Tunisia on June 26, 2015.
+Credit: Fethi Belaid/AFP/Getty Images
+Tunisia terror attack
+Tunisian medics stand next to the bodies of tourists in the resort town of Sousse, a popular tourist destination 90 miles south of the Tunisian capital, June 26, 2015.
+Credit: Fethi Belaid/AFP/Getty Images
+Tunisia terror attack
+Tunisia's President Beji Caid Essebsi (R) arrives in the resort town of Sousse, a popular tourist destination 140 kilometres (90 miles) south of the Tunisian capital, following the mass shooting on June 26, 2015.
+Credit: Fethi Belaid/AFP/Getty Images
+Tunisia terror attack
+Tunisian medics carry an injured woman on a stretcher in the resort town of Sousse, Tunisia on June 26, 2015, following a shooting attack.
+Credit: Mohamed Fliss/AFP/Getty Images
+Tunisia terror attack
+Tunisian men help an injured woman in the resort town of Sousse, Tunisia on June 26, 2015, following a shooting attack.
+Credit: Fethi Belaid/AFP/Getty Images
+European leaders
+Spain's Interior minister Jorge Fernandez Diaz (2nd L) speaks with Socialist party representatives Patxi Lopez (3rd R) and Antonio Hernando (2nd R) and Jose Enrique Serrano (R) during an urgency meeting at the interior ministry, in Madrid on June 26, 2015.
+European leaders condemned Friday's "heinous" suspected Islamist attack on a gas factory in France and massacres in Tunisia and Kuwait, vowing to stay united against "barbarism."
+Credit: Dani Pozo/AFP/Getty Images
+Tunisia terror attack
+The body of a tourist shot dead by a gunman lies near a beachside hotel in Sousse, Tunisia, June 26, 2015.
+Credit: Amine Ben Aziza/Reuters
+Tunisia terror attack
+A Tunisian security member stands next to a swimming pool at the resort town of Sousse, a popular tourist destination 140 kilometres (90 miles) south of the Tunisian capital, on June 26, 2015, following a shooting attack.
+Credit: Fethi Belaid/AFP/Getty Images
+Tunisia terror attack
+Tourists are seen leaving the Imperial Marhaba hotel after a gunman opened fire on a beachside hotel in Sousse, Tunisia, June 26, 2015.
+A gunman disguised as a tourist opened fire at a Tunisian hotel on Friday with a weapon he had hidden in an umbrella. The victims were tourists, including those from Britain, Germany and Belgium, as they lounged at the beach and pool in the popular resort town.
+The death toll from the shooting attack rose to 37, the health ministry said in a statement carried by state news agency TAP.
+Credit: Stringer/Reuters
+Tunisia terror attack
+Tunisian army soldiers arrive after a gunman opened fire on a beachside hotel in Sousse, Tunisia June 26, 2015.
+Credit: Stringer/Reuters
+Tunisia terror attack
+The body of a tourist shot dead by a gunman lies near a beachside hotel in Sousse, Tunisia, June 26, 2015.
+Credit: Amine Ben Aziza/Reuters
+Tunisia terror attack
+Tourists react in the Imperial hotel at the resort town of Sousse, a popular tourist destination 140 kilometres (90 miles) south of the Tunisian capital, on June 26, 2015.
+Credit: Fethi Belaid/AFP/Getty Images
+Tunisia terror attack
+A broken glass window at the Imperiale Marhaba hotel is seen after a gunman opened fire at the beachside hotel in Sousse, Tunisia June 26, 2015.
+Credit: Reuters
+Tunisia terror attack
+A security person escorts a tourist in the resort town of Sousse, a popular tourist destination 140 kilometres (90 miles) south of the Tunisian capital, on June 26, 2015, following a terrorist attack.
+Credit: Fethi Belaid/AFP/Getty Images
+Tunisia terror attack
+Tourists are evacuated after a gunman opened fire on a beachside hotel in Sousse, Tunisia, June 26, 2015.
+Credit: Reuters
+Tunisia terror attack
+The body of a tourist is seen poolside at the Imperial hotel in the resort town of Sousse, a popular tourist destination 140 kilometres (90 miles) south of the Tunisian capital, on June 26, 2015.
+Credit: Fethi Belaid/AFP/Getty Images
+Tunisia terror attack
+A general view shows ambulances parked in front of the Imperial Marhaba Hotel in the resort town of Sousse, a popular tourist destination 140 kilometres (90 miles) south of the Tunisian capital, on June 26, 2015, following a shooting attack.
+Credit: Bechir Taieb/AFP/Getty Images
+Tunisia terror attack
+Tourists react at the Imperial hotel in the resort town of Sousse, a popular tourist destination 140 kilometres (90 miles) south of the Tunisian capital, on June 26, 2015, following a shooting attack.
+Credit: Fethi Belaid/AFP/Getty Images
+</MainBody>
+    </Article>
+    <Article id="19">
+        <date>Fri Jun 26 19:01:05 EEST 2015</date>
+        <title>Gunman kills dozens in rampage at Tunisia beach resort</title>
+        <Link>http://www.cbsnews.com/news/tunisia-hotel-attack-in-tourist-resort-town-of-sousse/</Link>
+        <Description>Young man unfurls an umbrella and pulls out Kalashnikov, opening fire on European sunbathers; ISIS claims credit</Description>
+        <MainBody>Dozens killed after gunman opens fire on tourists in a Tunisian tourist resort town
+The killings in the Tunisian resort of Sousse happened at about the same time as a bombing at a Shiite mosque in Kuwait and an attack on a U.S.-owned factory in France that included a beheadin g. It was unclear if the violence was linked but it came days after ISIS militants urged their followers "to make Ramadan a month of calamities for the nonbelievers." In all, at least 67 people were killed.
+The SITE Intelligence Group reported later that the IS claimed credit for the Tunisia attack on its Twitter account and identified the gunman as Abu Yahya al-Qayrawani.
+The attack in Tunisia, the country's worst ever, comes just months after the March 18 assault on the national Bardo museum in Tunis that killed 22 people, again mostly tourists, and has called into question the newly elected government's ability to protect the country.
+"Once again, cowardly and traitorous hands have struck Tunisia, targeting its security and that of its children and visitors," President Beji Caid Essebsi told reporters at the RIU Imperial Marhaba hotel, near the beach rampage site.
+Essebsi promised "painful but necessary" measures, adding: "No country is safe from terrorism, and we need a global strategy of all democratic countries."
+Rafik Chelli, the secretary of state of the Interior Ministry, told The Associated Press that the attack was carried out by a young student not previously known to authorities. The shooting spree ended when he was shot to death by police.
+The body of an unidentified tourist shot dead by a gunman lies near a beachside hotel in Sousse, Tunisia, June 26, 2015.
+REUTERS
+ISIS claimed responsibility for the suicide bombing at the Shiite mosque in Kuwait City that killed at least 27 people and wounded scores of other worshippers at midday prayers - the first such attack in the mostly quiet and relatively secure Gulf Arab nation in more than two decades.
+In southeastern France, a man with ties to Islamic radicals rammed a car into a gas factory, touching off an explosion that injured two people. Authorities arriving at the site made a grisly discovery: the severed head of the driver's employer was found hanging at the plant entrance.
+The suspect, Yassine Salhi, was seized by an alert firefighter, authorities said, and French President Francois Hollande said the attacker's intention had been to cause an explosion. A security alert for the southeast region was raised to its highest level for the next three days, and the U.S. Embassy in Paris warned American citizens to be vigilant.
+In an audio recording released Tuesday, ISIS called on its supporters to increase attacks during Ramadan and "be keen on waging invasion in this eminent month and commit martyrdom."
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f
 </MainBody>
     </Article>
 </site>
