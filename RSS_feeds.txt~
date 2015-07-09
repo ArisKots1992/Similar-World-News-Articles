@@ -24,7 +24,6 @@ express,http://feeds.feedburner.com/daily-express-world-news
 news24,http://feeds.news24.com/articles/News24/World/rss
 Breaking News,http://api.breakingnews.com/api/v1/item/?format=rss
 thestar,http://www.thestar.com.my/RSS/News/World/
-caribbeannewsnow,http://www.caribbeannewsnow.com/news/_files/rss/news/Caribbean-News-Now!-Daily-Headlines.xml
 dailynews,http://www.dailynews.com/section?template=RSS&profile=4000032&mime=xml
 chathamdailynews,http://www.chathamdailynews.ca/news/world/rss.xml
 sciencedaily,http://feeds.sciencedaily.com/sciencedaily

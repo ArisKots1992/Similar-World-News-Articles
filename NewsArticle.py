@@ -18,22 +18,13 @@ class NewsArticle:
         self.metadata["title"] = title
         self.url = url
         self.countries = countries
-<<<<<<< HEAD
         self.heuristics()
-=======
-        
-        heuristics()
->>>>>>> b0d9700a571c203eac335d065afaefc885316d4c
     
     def heuristics(self):
         if self.url.find("abcnews.") != -1:
             if self.url.find("videos/") != -1 or self.url.find("video/") != -1:
                 self.metadata["plaintext"] = self.metadata["title"]
-<<<<<<< HEAD
-                
-=======
 
->>>>>>> b0d9700a571c203eac335d065afaefc885316d4c
     def extract_metadata(self):
         self.extract_noun_phrases()
         self.create_title_hashtags()
@@ -61,8 +52,10 @@ class NewsArticle:
         self.metadata["hashtags"] = l_tags
 
     def named_entity_extraction(self):
-        ner = NERTagger('/home/aris/Desktop/Similar-World-News-Articles/stanford-lib/english.all.3class.distsim.crf.ser.gz',
-        '/home/aris/Desktop/Similar-World-News-Articles/stanford-lib/stanford-ner.jar')
+ #       ner = NERTagger('/home/aris/Desktop/Similar-World-News-Articles/stanford-lib/english.all.3class.distsim.crf.ser.gz',
+ #       '/home/aris/Desktop/Similar-World-News-Articles/stanford-lib/stanford-ner.jar')
+        ner = NERTagger('stanford-lib/english.all.3class.distsim.crf.ser.gz',
+        'stanford-lib/stanford-ner.jar')
         extracted_ne2 = ner.tag(self.metadata["plaintext"].replace(".", " ").replace(",", " , ").replace("!", " ").replace("?", " ").replace("\n"," ").split())
         extracted_ne = extracted_ne2[0]
         

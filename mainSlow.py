@@ -57,7 +57,7 @@ similarity_threshold = config.getfloat('similarity_threshold', 'percentage')
 aggr = NewsAggregator(similarity_threshold,weights)
 
 #Read all files from folder
-xmlfiles = [ f for f in listdir("filesXml (copy)") if isfile(join("filesXml (copy)",f)) ]
+xmlfiles = [ f for f in listdir("filesXml") if isfile(join("filesXml",f)) ]
 progressBar = ProgressBar(int(len(xmlfiles)))
 supportBar = SupportBar()
 
@@ -67,7 +67,7 @@ debug = open('debug.txt', 'w+')
 
 id = -1
 for filename in xmlfiles:
-    larct = parse("filesXml (copy)/" + filename)
+    larct = parse("filesXml/" + filename)
     sys.stdout.write("(" + str(len(larct)) + "/" )
     sys.stdout.flush()
     for arcticle in larct:

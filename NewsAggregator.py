@@ -72,11 +72,6 @@ class NewsAggregator:
         topic_id = -1
         for topic in topics_score:
 
-            print "score of topic: "    #debug
-            print topic                 #debug
-            print "is "                 #debug
-            print topics_score[topic]   #debug
-
             #print "score of topic: "    #debug
             #print topic                 #debug
             #print "is "                 #debug
