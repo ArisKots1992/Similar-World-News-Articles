@@ -2,7 +2,10 @@ __author__ = 'jason'
 from textblob import TextBlob
 from textblob.np_extractors import FastNPExtractor
 from hashtagify import Hashtagify
-from nltk.tag.stanford import NERTagger
+try:
+    from nltk.tag.stanford import StanfordNERTagger
+except:
+    from nltk.tag.stanford import NERTagger
 from geonames import *
 from nltk.corpus import stopwords
 
@@ -54,10 +57,16 @@ class NewsArticle:
     def named_entity_extraction(self):
  #       ner = NERTagger('/home/aris/Desktop/Similar-World-News-Articles/stanford-lib/english.all.3class.distsim.crf.ser.gz',
  #       '/home/aris/Desktop/Similar-World-News-Articles/stanford-lib/stanford-ner.jar')
-        ner = NERTagger('stanford-lib/english.all.3class.distsim.crf.ser.gz',
-        'stanford-lib/stanford-ner.jar')
-        extracted_ne2 = ner.tag(self.metadata["plaintext"].replace(".", " ").replace(",", " , ").replace("!", " ").replace("?", " ").replace("\n"," ").split())
-        extracted_ne = extracted_ne2[0]
+        try:
+            ner = StanfordNERTagger('stanford-lib/english.all.3class.distsim.crf.ser.gz',
+            'stanford-lib/stanford-ner.jar')
+            extracted_ne2 = ner.tag(self.metadata["plaintext"].replace(".", " ").replace(",", " , ").replace("!", " ").replace("?", " ").replace("\n"," ").split())
+            extracted_ne = extracted_ne2            
+        except:
+            ner = NERTagger('stanford-lib/english.all.3class.distsim.crf.ser.gz',
+            'stanford-lib/stanford-ner.jar')            
+            extracted_ne2 = ner.tag(self.metadata["plaintext"].replace(".", " ").replace(",", " , ").replace("!", " ").replace("?", " ").replace("\n"," ").split())
+            extracted_ne = extracted_ne2[0]
         
         # print extracted_ne
         
