@@ -18,6 +18,13 @@ class NewsArticle:
         self.metadata["title"] = title
         self.url = url
         self.countries = countries
+        
+        heuristics()
+    
+    def heuristics(self):
+        if self.url.find("abcnews.") != -1:
+            if self.url.find("videos/") != -1 or self.url.find("video/") != -1:
+                self.metadata["plaintext"] = self.metadata["title"]
 
     def extract_metadata(self):
         self.extract_noun_phrases()

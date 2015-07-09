@@ -20,7 +20,7 @@ countries = ["Greece"]
 aggr = NewsAggregator(0.35)
 
 #Read all files from folder
-xmlfiles = [ f for f in listdir("filesXml") if isfile(join("filesXml",f)) ]
+xmlfiles = [ f for f in listdir("filesXml (copy)") if isfile(join("filesXml (copy)",f)) ]
 progressBar = ProgressBar(int(len(xmlfiles)))
 supportBar = SupportBar()
 
@@ -30,7 +30,7 @@ debug = open('debug.txt', 'w+')
 
 id = -1
 for filename in xmlfiles:
-    larct = parse("filesXml/" + filename)
+    larct = parse("filesXml (copy)/" + filename)
     sys.stdout.write("(" + str(len(larct)) + "/" )
     sys.stdout.flush()
     for arcticle in larct:
