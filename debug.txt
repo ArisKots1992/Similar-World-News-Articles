@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 metro.xml
 Done.
 ---------------------------------------------------------
@@ -17173,3 +17174,24 @@ http://www.vancouversun.com/news/world/taboo+breaking+presidential+candidates/11
 http://www.upi.com/Top_News/World-News/2015/07/06/More-than-80-percent-of-North-Korean-defectors-are-women-says-report/1801436203526/
 http://www.upi.com/Top_News/World-News/2015/07/06/North-Korea-requests-medical-aid-from-UN-agencies/4171436193400/
 ---------------------------------------------------------
+=======
+<<<<<<< HEAD
+chathamdailynews.xml
+######################## Done.
+irishtimes.xml
+######################## Done.
+abcnews.xml
+######################## Done.
+---------------------------------------------------------
+http://www.chathamdailynews.ca/2015/06/26/france-factory-attack-severed-head-left-near-arabic-banners
+http://abcnews.go.com/International/wireStory/beheaded-attack-explosion-french-gas-factory-32044065
+---------------------------------------------------------
+BBC.xml
+######################## Done.
+---------------------------------------------------------
+http://www.chathamdailynews.ca/2015/06/26/france-factory-attack-severed-head-left-near-arabic-banners
+http://abcnews.go.com/International/wireStory/beheaded-attack-explosion-french-gas-factory-32044065
+---------------------------------------------------------
+=======
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f
+>>>>>>> b0d9700a571c203eac335d065afaefc885316d4c

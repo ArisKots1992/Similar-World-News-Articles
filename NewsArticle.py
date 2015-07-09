@@ -18,13 +18,22 @@ class NewsArticle:
         self.metadata["title"] = title
         self.url = url
         self.countries = countries
+<<<<<<< HEAD
         self.heuristics()
+=======
+        
+        heuristics()
+>>>>>>> b0d9700a571c203eac335d065afaefc885316d4c
     
     def heuristics(self):
         if self.url.find("abcnews.") != -1:
             if self.url.find("videos/") != -1 or self.url.find("video/") != -1:
                 self.metadata["plaintext"] = self.metadata["title"]
+<<<<<<< HEAD
                 
+=======
+
+>>>>>>> b0d9700a571c203eac335d065afaefc885316d4c
     def extract_metadata(self):
         self.extract_noun_phrases()
         self.create_title_hashtags()

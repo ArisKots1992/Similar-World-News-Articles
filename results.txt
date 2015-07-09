@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---------------------------------------------------------
 MATCH FOUND
 
@@ -807,3 +808,13 @@ MATCH FOUND
 http://metro.co.uk/2015/07/06/man-dies-instantly-after-launching-firework-off-his-head-5281879/
 http://www.dailynews.com/general-news/20150705/police-man-dies-after-launching-firework-from-the-top-of-his-head
 ---------------------------------------------------------
+=======
+<<<<<<< HEAD
+---------------------------------------------------------
+MATCH FOUND
+http://www.chathamdailynews.ca/2015/06/26/france-factory-attack-severed-head-left-near-arabic-banners
+http://abcnews.go.com/International/wireStory/beheaded-attack-explosion-french-gas-factory-32044065
+---------------------------------------------------------
+=======
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f
+>>>>>>> b0d9700a571c203eac335d065afaefc885316d4c

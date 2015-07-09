@@ -1,10 +1,436 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <site name="sciencedaily">
     <Article id="0">
+<<<<<<< HEAD
         <date>Tue Jul 07 01:32:47 EEST 2015</date>
         <title>Typically disregarded brain lesions may warn of heightened stroke risk</title>
         <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/MD5_5e22Dfw/150706183247.htm</Link>
         <Description>Scientists have found that very small brain lesions noted on brain imaging that would typically be disregarded by clinicians are associated with a heightened risk of stroke and death. The discovery about these tiny lesions -- areas of the brain where tissue may have been damaged by injury or disease -- may help physicians identify people at risk of stroke and death as early as middle age.</Description>
+=======
+<<<<<<< HEAD
+        <date>Thu Jun 25 23:18:45 EEST 2015</date>
+        <title>Multiple pathways progressing to Alzheimer's disease</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/hqrouZfQmVQ/150625161845.htm</Link>
+        <Description>The amyloid cascade hypothesis of Alzheimer's disease (AD) posits that sticky aggregations or plaques of amyloid-beta peptides accumulate over time in the brain, triggering a series of events that ultimately result in the full-blown neurodegenerative disorder. The hypothesis has been a major driver of AD research for more than 20 years. However, in a new study, researchers suggest the picture is not so clear-cut, reporting that early indicators or biomarkers of AD development are not fixed in a specific sequence.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="1">
+        <date>Thu Jun 25 23:16:23 EEST 2015</date>
+        <title>A person's diet, acidity of urine may affect susceptibility to UTIs</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/4jwN4zo0b00/150625161623.htm</Link>
+        <Description>The acidity of urine — as well as the presence of small molecules related to diet — may influence how well bacteria can grow in the urinary tract, a new study shows. The research may have implications for treating urinary tract infections, which are among the most common bacterial infections worldwide.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="2">
+        <date>Thu Jun 25 23:15:14 EEST 2015</date>
+        <title>As siblings learn how to resolve conflict, parents pick up a few tips of their own</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/7WKePZoZdZc/150625161514.htm</Link>
+        <Description>When children participated in a program designed to reduce sibling conflict, both parents benefited from a lessening of hostilities on the home front. But mothers experienced a more direct reward. As they viewed the children's sessions in real time on a video monitor and coached the kids at home to respond as they'd been taught, moms found that, like their kids, they were better able to manage their own emotions during stressful moments.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="3">
+        <date>Thu Jun 25 23:15:12 EEST 2015</date>
+        <title>Brain scan can predict who responds best to certain treatment for OCD</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/noTX3685hLg/150625161512.htm</Link>
+        <Description>A certain detail from patients' brain scans could help clinicians identify which people are more likely to relapse after cognitive-behavioral therapy -- and why. Tens of millions of Americans -- an estimated 1 to 2 percent of the population -- will suffer at some point in their lifetimes from obsessive-compulsive disorder, a disorder characterized by recurrent, intrusive, and disturbing thoughts (obsessions), and/or stereotyped recurrent behaviors (compulsions).</Description>
+        <MainBody/>
+    </Article>
+    <Article id="4">
+        <date>Thu Jun 25 23:15:10 EEST 2015</date>
+        <title>Tracking genetic arms race between humans, mosquitoes</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/eDfTlFwi6Zc/150625161510.htm</Link>
+        <Description>Individual populations of mosquitoes are under strong evolutionary pressure from humans and their environment, a new study shows.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="5">
+        <date>Thu Jun 25 23:14:45 EEST 2015</date>
+        <title>Supercomputer model shows planet making waves in nearby debris disk</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/GG77IvNbC8U/150625161445.htm</Link>
+        <Description>A new supercomputer simulation of the planet and debris disk around the nearby star Beta Pictoris reveals that the planet's motion drives spiral waves throughout the disk, a phenomenon that causes collisions among the orbiting debris. Patterns in the collisions and the resulting dust appear to account for many observed features that previous research has been unable to fully explain.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="6">
+        <date>Thu Jun 25 23:14:38 EEST 2015</date>
+        <title>Blue and fin whale distribution in waters off Southern California</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/W_1C8IfSKsY/150625161438.htm</Link>
+        <Description>A new study indicates a steady population trend for blue whales and an upward population trend for fin whales in Southern California.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="7">
+        <date>Thu Jun 25 23:14:35 EEST 2015</date>
+        <title>Most of America's poor have jobs, study finds</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/0Jktnx_4UJE/150625161435.htm</Link>
+        <Description>Sociologists evaluated 129 existing methods for defining the 'working poor' and propose one method as a unified definition. Their estimate is that 10 percent of all working households are poor. That's lower than some federal estimates, but it also means that a majority of poor Americans have jobs.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="8">
+        <date>Thu Jun 25 21:54:32 EEST 2015</date>
+        <title>Giant axonal neuropathy: Researchers develop innovative gene transfer-based treatment approach</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/wrX1CfVhQXo/150625145432.htm</Link>
+        <Description>Researchers have developed an innovative, experimental gene transfer-based treatment for children with giant axonal neuropathy (GAN). This extremely rare genetic disorder causes children to gradually lose the ability to balance themselves, move their muscles and to feel certain sensations. Most children born with GAN do not survive beyond their early 20s because of progressive impairment of their ability to breath.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="9">
+        <date>Thu Jun 25 21:53:22 EEST 2015</date>
+        <title>Lax rules put Congo's forests, key carbon reserve, at risk</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/EJ_p56pR3Jo/150625145322.htm</Link>
+        <Description>Without new conservation efforts, the Democratic Republic of Congo could lose up to 20 percent of its forests, unleashing a 60 percent increase in carbon emissions from one of the largest carbon reserves in the world, a new study shows.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="10">
+        <date>Thu Jun 25 21:53:20 EEST 2015</date>
+        <title>Compound in magnolia may combat head and neck cancers</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/FJ7seoeGrgY/150625145320.htm</Link>
+        <Description>As one of the compounds in magnolia extract, honokiol has been used for centuries in traditional Chinese and Japanese medicine to treat anxiety and other conditions. More recently, scientists have been revealing its cancer-fighting properties.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="11">
+        <date>Thu Jun 25 21:53:17 EEST 2015</date>
+        <title>Synthetic biology used to engineer new route to biochemicals</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/WHgp0rpVy6s/150625145317.htm</Link>
+        <Description>Chemists create a new pathway that allows E. coli bacteria to feed on sugar and acetate to make isobutyl coA, a raw material for fuels and chemicals.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="12">
+        <date>Thu Jun 25 21:52:46 EEST 2015</date>
+        <title>Some snowy forestlands cool climate better without trees</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/WcvKt6SgiMU/150625145246.htm</Link>
+        <Description>Forests worldwide are increasingly used to store carbon as a way to slow climate change, but a new study finds that some wooded areas may be more valuable without trees, allowing the cleared landscape to reflect rather than absorb the sun's energy. In other words, it's better to have snow-covered ground act as a natural mirror if you want to use some forest lands to cool the climate.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="13">
+        <date>Thu Jun 25 21:52:44 EEST 2015</date>
+        <title>Chloroplast tubes play a key role in plants' immune defense</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/8WO_leswCfk/150625145244.htm</Link>
+        <Description>When plant cells are infected with pathogens, networks of tiny tubes called stromules grow from the chloroplasts to the cell's nucleus and trigger programmed cell death and innate immune responses.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="14">
+        <date>Thu Jun 25 21:52:42 EEST 2015</date>
+        <title>New approach holds promise for earlier, easier detection of colorectal cancer</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/-8xCjlJnhBI/150625145242.htm</Link>
+        <Description>A new, sensitive electrochemical technique capable of detecting colorectal cancer in tissue samples has been developed by chemists -- a method that could one day be used in clinical settings for the early diagnosis of colorectal cancer.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="15">
+        <date>Thu Jun 25 21:52:38 EEST 2015</date>
+        <title>Top scientists call for improved incentives to ensure research integrity</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/uKrYU_nePME/150625145238.htm</Link>
+        <Description>Scientific controversies, from problems replicating results - such as with the now debunked association between autism and MMR vaccines -- to researcher misconduct and sensationalism, have led to speculation of 'trouble at the lab,' as the Economist put it. Top scientists have now examine ways to return to high scientific standards.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="16">
+        <date>Thu Jun 25 21:52:36 EEST 2015</date>
+        <title>Faster internet? Electrical engineers break power and distance barriers for fiber optic communication</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/nJPrIfZL_uc/150625145236.htm</Link>
+        <Description>Photonics researchers have increased the maximum power -- and therefore distance -- at which optical signals can be sent through optical fibers. This advance has the potential to increase the data transmission rates for the fiber optic cables that serve as the backbone of the Internet, cable, wireless and landline networks. The new study presents a solution to a long-standing roadblock to increasing data transmission rates in optical fiber.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="17">
+        <date>Thu Jun 25 21:52:32 EEST 2015</date>
+        <title>Earth's daily rotation period encoded in an atomic-level protein structure</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/M1vt7sfpNQU/150625145232.htm</Link>
+        <Description>Scientists have demonstrated that Earth's daily rotation period (24 hours) is encoded in the KaiC protein at the atomic level, a small, 10 nm-diameter biomolecule expressed in cyanobacterial cells.The results of this joint research will help elucidate a longstanding question in chronobiology: How is the circadian period of biological clocks determined?</Description>
+        <MainBody/>
+    </Article>
+    <Article id="18">
+        <date>Thu Jun 25 21:48:50 EEST 2015</date>
+        <title>Corals are already adapting to global warming, scientists say</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/INxvA_bMZBE/150625144850.htm</Link>
+        <Description>Some coral populations already have genetic variants necessary to tolerate warm ocean waters, and humans can help to spread these genes, scientists have found.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="19">
+        <date>Thu Jun 25 21:39:29 EEST 2015</date>
+        <title>Low scores on memory and thinking tests may signal Alzheimer's 18 years prior to disease</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/23-pBPKQqS0/150625143929.htm</Link>
+        <Description>Errors on memory and thinking tests may signal Alzheimer's up to 18 years before the disease can be diagnosed, a new study suggests.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="20">
+        <date>Thu Jun 25 21:39:26 EEST 2015</date>
+        <title>Backward-moving glacier helps scientists explain glacial earthquakes</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/W2MInT2SlsA/150625143926.htm</Link>
+        <Description>The relentless flow of a glacier may seem unstoppable, but a team of researchers from the United Kingdom and the U.S. has shown that during some calving events -- when an iceberg breaks off into the ocean -- the glacier moves rapidly backward and downward, causing the characteristic glacial earthquakes which until now have been poorly understood.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="21">
+        <date>Thu Jun 25 21:39:22 EEST 2015</date>
+        <title>Stem-like progenitor cell that exclusively forms heart muscle</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/ryryoXhCMGU/150625143922.htm</Link>
+        <Description>Future therapies for failing hearts are likely to include stem-like cells and associated growth factors that regenerate heart muscle. Scientists have just taken an important step towards that future by identifying a stem-like “progenitor” cell that produces only heart muscle cells.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="22">
+        <date>Thu Jun 25 21:37:14 EEST 2015</date>
+        <title>Genetic discovery uncovers key tool for morphine production in poppies</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/TnwXx5zHTmM/150625143714.htm</Link>
+        <Description>Scientists have made a key genetic discovery in poppies, paving the way for more effective painkillers.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="23">
+        <date>Thu Jun 25 21:36:50 EEST 2015</date>
+        <title>Solving the next step in the mystery of prions</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/gS9mv4pmWds/150625143650.htm</Link>
+        <Description>Working towards the ultimate goal to develop therapeutics to treat diseases such as Alzheimer's, Parkinson's, ALS, and BSE (Mad Cow Disease), scientists are investigating the physical principles underlying the formation of misfolded protein aggregates. The aggregates of misfolded proteins -- proteins that clump together in the 'wrong' structure -- feature prominently in these fatal degenerative diseases.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="24">
+        <date>Thu Jun 25 20:11:50 EEST 2015</date>
+        <title>Smartphone app may prevent dangerous freezing of gait in Parkinson's patients</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/u_E0rilEV4g/150625131150.htm</Link>
+        <Description>CuPID is striving to provide personalized rehabilitation for patients with Parkinson's disease who experience gait disturbances. It is a home-based personalized rehabilitation tool in the form of a smartphone app that harnesses wearable sensors, audio biofeedback, and external cuing to provide intense motivational training tailored to each patient.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="25">
+        <date>Thu Jun 25 20:11:48 EEST 2015</date>
+        <title>Study highlights 'important safety issue' with widely used MRI contrast agents</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/jhkBpL_umHw/150625131148.htm</Link>
+        <Description>New results in animals highlight a major safety concern regarding a class of magnetic resonance imaging (MRI) contrast agents used in millions of patients each year. The study adds to concerns that repeated use of specific "linear"-type gadolinium-based contrast agents (GBCAs) lead to deposits of the heavy-metal element gadolinium in the brain.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="26">
+        <date>Thu Jun 25 20:11:46 EEST 2015</date>
+        <title>Artificial blood to assist in mosquito control research</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/40R-74p34S4/150625131146.htm</Link>
+        <Description>Scientists continue to advance research on controlling one of the world's most notorious species of pests, the mosquito.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="27">
+        <date>Thu Jun 25 20:09:09 EEST 2015</date>
+        <title>Cancer drug makes fruit flies live longer</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/YtDLBilxswA/150625130909.htm</Link>
+        <Description>Adult fruit flies given a cancer drug live 12 percent longer than average, according to a study researching healthy aging. The drug targets a specific cellular process that occurs in animals, including humans, delaying the onset of age-related deaths by slowing the aging process.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="28">
+        <date>Thu Jun 25 20:09:07 EEST 2015</date>
+        <title>What controls blood flow in the brain?</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/C4VTcxjiTgg/150625130907.htm</Link>
+        <Description>Scientists present the strongest evidence yet that smooth muscle cells surrounding blood vessels in the brain are the only cells capable of contracting to control blood vessel diameter and thus regulate blood flow. This basic anatomical understanding may also have important implications for phenomena observed in stroke and migraines.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="29">
+        <date>Thu Jun 25 20:09:03 EEST 2015</date>
+        <title>Calcium uptake by mitochondria makes heart beat harder in fight-or-flight response</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/JGAFOvtD_L4/150625130903.htm</Link>
+        <Description>In a life-threatening situation, the heart beats faster and harder, invigorated by the fight-or-flight response, which instantaneously prepares a person to react or run. Now, a new study shows that the uptick in heart muscle contractility that occurs under acute stress is driven by a flood of calcium into mitochondria -- the cells' energy-producing powerhouses.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="30">
+        <date>Thu Jun 25 20:09:00 EEST 2015</date>
+        <title>Songbirds have a thing for patterns</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/uY_ug2RDJRY/150625130900.htm</Link>
+        <Description>You might think that young children would first learn to recognize sounds and then learn how those categories of sounds fit together into words. But that isn't how it works. Rather, kids learn sounds and words at the same time. Now, researchers present evidence from European starlings showing that songbirds learn their songs in much the same way.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="31">
+        <date>Thu Jun 25 20:03:16 EEST 2015</date>
+        <title>Potential drug lessens neurodegeneration in Parkinson's disease model</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/35mJl48Kh1s/150625130316.htm</Link>
+        <Description>The first test in a mammalian model of a potential new class of drugs to treat Parkinson’s disease shows abatement of neurodegeneration in the brains of test rats and no significant toxicities.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="32">
+        <date>Thu Jun 25 20:02:59 EEST 2015</date>
+        <title>Functional class helps predict mortality risk after surgery</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/dDG-XX7FzAM/150625130259.htm</Link>
+        <Description>Information on functional status—whether or not a person can carry out routine daily tasks independently—improves the ability to predict risk of death in patients undergoing surgery, according to a study.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="33">
+        <date>Thu Jun 25 20:02:57 EEST 2015</date>
+        <title>New drug squashes cancer's last-ditch efforts to survive</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/W5y3VLI5K98/150625130257.htm</Link>
+        <Description>As a tumor grows, its cancerous cells ramp up an energy-harvesting process to support its hasty development. This process, called autophagy, is normally used by a cell to recycle damaged organelles and proteins, but is also co-opted by cancer cells to meet their increased energy and metabolic demands. A compound that stops this cellular recycling process has now been developed by scientists.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="34">
+        <date>Thu Jun 25 20:02:55 EEST 2015</date>
+        <title>New close-up view of key part of ebola virus life cycle</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/YywzpxstHpM/150625130255.htm</Link>
+        <Description>A key part of the Ebola virus life cycle has been revealed at a higher resolution than ever before. The research sheds light on how Ebola virus assembles--and how researchers might stop the often-fatal infection.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="35">
+        <date>Thu Jun 25 20:02:53 EEST 2015</date>
+        <title>Three simple rules govern complex brain circuit in fly</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/ljIxcchc_Hc/150625130253.htm</Link>
+        <Description>Think the nest of cables under your desk is bad? Try keeping the trillions of connections crisscrossing your brain organized and free of tangles. A new study reveals this seemingly intractable job may be simpler than it appears.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="36">
+        <date>Thu Jun 25 20:02:51 EEST 2015</date>
+        <title>Scientists pinpoint mutations responsible for ineffectiveness of 2014-2015 flu vaccine</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/OmJpaHiWHmw/150625130251.htm</Link>
+        <Description>Viruses like influenza have the ability to mutate over time, and given that the flu vaccines administered during the 2014-2015 season were largely ineffective at preventing the spread of the flu, it appears the virus that recently circulated had taken on mutations not accounted for when last year's vaccine was developed. Now, researchers have identified specific mutations that influenza recently acquired to escape the current vaccine design.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="37">
+        <date>Thu Jun 25 20:01:21 EEST 2015</date>
+        <title>Analyzing genes according to evolutionary profile</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/222NIIti4-o/150625130121.htm</Link>
+        <Description>Scientists have developed a new Internet tool that will allow any investigator, physician or patient to analyze genes according to their evolutionary profile and find associated genes. The tool combines genomics and informatics to enables the rapid, cost-free identification of genes responsible for diseases, by inputting results from genetic mapping studies concerning suspected genes, and identifying connections to known genes with association to diseases.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="38">
+        <date>Thu Jun 25 20:00:00 EEST 2015</date>
+        <title>Investigating parent-child visitation in prison</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/wHfZ5wg3uTY/150625130000.htm</Link>
+        <Description>It's not 'cupcakes and lollipops' for most children who visit a parent in prison, with two-thirds reported to have negative experiences including fear, anger, anxiety, and related reactions, according to a study.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="39">
+        <date>Thu Jun 25 19:59:58 EEST 2015</date>
+        <title>New class of compounds shrinks pancreatic cancer tumors, prevents regrowth</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/Q0RSHHH1tPM/150625125958.htm</Link>
+        <Description>A chemical compound that has reduced the growth of pancreatic cancer tumors by 80 percent in treated mice has been developed by researchers. The compound, called MM41, was designed to block faulty genes. It appears to do this by targeting little knots in their DNA, called quadruplexes, which are very different from normal DNA and which are especially found in faulty genes.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="40">
+        <date>Thu Jun 25 19:59:56 EEST 2015</date>
+        <title>Researchers stretch a thin crystal to get better solar cells</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/WLWOUY7ONuE/150625125956.htm</Link>
+        <Description>An interdisciplinary team has made a semiconductor crystal with a variable band gap. Among other potential uses, this variable semiconductor could lead to solar cells that absorb more energy from the sun by being sensitive to a broader spectrum of light.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="41">
+        <date>Thu Jun 25 19:59:53 EEST 2015</date>
+        <title>A good appetizer could make your main course less enjoyable</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/Ot3PKxeGLL4/150625125953.htm</Link>
+        <Description>A new study outlines how a good appetizer can make people enjoy the main course less, and a mediocre appetizer can make them enjoy the main course more.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="42">
+        <date>Thu Jun 25 18:31:02 EEST 2015</date>
+        <title>microRNA may provide therapy against pancreatic cancer</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/V5mXPg4mNrM/150625113102.htm</Link>
+        <Description>Cancer researchers have found that a particular microRNA may be a potent therapeutic agent against pancreatic cancer. The need for new therapies for pancreatic cancer patients is great as only 7 percent of people with the disease survive more than 5 years after diagnosis. According to the National Cancer Institute, there will be an estimated 48,960 new cases of pancreatic cancer and 40,560 deaths from the disease in 2015.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="43">
+        <date>Thu Jun 25 18:31:00 EEST 2015</date>
+        <title>Women on the U.S. $10? These eight women could fill the bill</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/Tb1-oB4CUGw/150625113100.htm</Link>
+        <Description>Some notable but lesser-known women in American history might be overlooked as possibilities for the soon-to-be redesigned 10 dollar bill.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="44">
+        <date>Thu Jun 25 18:30:56 EEST 2015</date>
+        <title>Children with severe head injuries are casualties of wars in Iraq, Afghanistan</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/g1UqvhDHlRQ/150625113056.htm</Link>
+        <Description>During the wars in Iraq and Afghanistan, U.S. combat support hospitals treated at least 650 children with severe, combat-related head injuries, according to a new report.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="45">
+        <date>Thu Jun 25 18:29:08 EEST 2015</date>
+        <title>E2F4 signature can predict progression of bladder cancer</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/nuQbJSoDSdM/150625112908.htm</Link>
+        <Description>Investigators harnessed genomic data to discover that the previously identified E2F4 signature in breast cancer can be utilized to predict prognosis and response to therapy in bladder cancer.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="46">
+        <date>Thu Jun 25 18:20:14 EEST 2015</date>
+        <title>Bad news and good news for birds nesting at reservoirs</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/1xUWtTXnEgk/150625112014.htm</Link>
+        <Description>In a six-year study at Arrow Lakes Reservoir in British Columbia, researchers found that while some nests failed due to flooding as the reservoir filled up in the spring, the higher water levels actually provided benefits for the nests that survived. Their results show that overall, nesting in the reservoir's riparian areas did not reduce nest success.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="47">
+        <date>Thu Jun 25 18:20:12 EEST 2015</date>
+        <title>Eating in the absence of hunger: A recipe for expanding waistline</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/X4H6jomnYBI/150625112012.htm</Link>
+        <Description>Snacking when you're not hungry can cause weight gain as much as overly large portion sizes and energy-rich foods, a researcher reports.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="48">
+        <date>Thu Jun 25 18:20:10 EEST 2015</date>
+        <title>Chimps are sensitive to what is right and wrong</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/qeu_1wHyqVA/150625112010.htm</Link>
+        <Description>How a chimpanzee views a video of an infant chimp from another group being killed gives a sense of how human morality and social norms might have evolved. A new study provides the first evidence that chimpanzees, like humans, are sensitive to the appropriateness of behaviors, especially those directed toward infants.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="49">
+        <date>Thu Jun 25 18:20:08 EEST 2015</date>
+        <title>Breakthrough graphene production could trigger revolution in artificial skin development</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/1uOwmtN5B1k/150625112008.htm</Link>
+        <Description>A pioneering new technique to produce high-quality, low cost graphene could pave the way for the development of the first truly flexible 'electronic skin,' that could be used in robots.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="50">
+        <date>Thu Jun 25 18:13:20 EEST 2015</date>
+        <title>Past water patterns drive present wading bird numbers</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/5PFrMHVMEUw/150625111320.htm</Link>
+        <Description>Wading bird numbers in the Florida Everglades are driven by water patterns that play out over multiple years according to a new study. Previously, existing water conditions were seen as the primary driving factor affecting numbers of birds, but this research shows that the preceding years' water conditions and availability are equally important.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="51">
+        <date>Thu Jun 25 18:13:18 EEST 2015</date>
+        <title>Experimental treatment sends deadly leukemia into remission</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/BzN22L67W_E/150625111318.htm</Link>
+        <Description>An experimental new treatment approach for a rare, deadly leukemia can send the disease into remission even in patients for whom the standard therapy has failed, a pilot study has found. The study is 'proof of principle' the cutting-edge approach could be used to treat many other cancers as well.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="52">
+        <date>Thu Jun 25 18:13:15 EEST 2015</date>
+        <title>Starfish that clone themselves live longer</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/8w0lizFEh1I/150625111315.htm</Link>
+        <Description>Starfish that reproduce through cloning avoid aging to a greater extent than those that propagate through sexual reproduction.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="53">
+        <date>Thu Jun 25 18:13:12 EEST 2015</date>
+        <title>Pilot program in pediatric long-term care facility halves topical antibiotic use</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/gEXWmPgLuUw/150625111312.htm</Link>
+        <Description>A pilot antibiotic stewardship program at a pediatric long-term care facility brought about a 59 percent decrease in use of a topical antibiotic and an 83 percent decrease in orders for antibiotics without proper documentation during a six-month period, according to a new study.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="54">
+        <date>Thu Jun 25 18:13:09 EEST 2015</date>
+        <title>Infection preventionists may spend more time collecting data than protecting patients</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/8qyxPOKBZT4/150625111309.htm</Link>
+        <Description>Collecting and reporting hospital infection data to federal health agencies takes more than five hours each day, at the expense of time needed to ensure that frontline healthcare personnel are adhering to basic infection prevention practices such as hand hygiene, according to a recent case study.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="55">
+        <date>Thu Jun 25 16:13:06 EEST 2015</date>
+        <title>How companies can reduce sovereign risk</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/2JVavWN7hts/150625091306.htm</Link>
+        <Description>In a new study of five-year spreads on credit default swap contracts for more than 2,000 U.S. and international firms, a finance researcher found that strong property rights and transparency are key in securing a stable financial future for companies amid a widespread rise in sovereign risk around the globe.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="56">
+        <date>Thu Jun 25 16:12:29 EEST 2015</date>
+        <title>New way of understanding police authority, power</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/IdE-wMT9EMw/150625091229.htm</Link>
+        <Description>The police aim at maintaining law and order and social peace, and to achieve it they can make use of authority and power in a coercive way, through repression, prohibition or control, but they can also make use of this authority and power to manage conflicts and seek amicable settlements between the parties. A study claims the opportunities offered by police mediation, which operation is still attached to a great dose of "lawlessness”. In this sense, the research shows legal arguments, which clearly support the legal framework of police mediation and compliance with the reporting principles of voluntariness, freely availability and confidentiality governing any field of mediation.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="57">
+        <date>Thu Jun 25 16:11:59 EEST 2015</date>
+        <title>Recycled water, salt-tolerant grass a water-saving pair</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/kHKZ-kRbIPU/150625091159.htm</Link>
+        <Description>Plants need water. People need water. Unfortunately, there's only so much clean water to go around -- and so the effort begins to find a solution. One strategy is to use treated wastewater, containing salt leftover from the cleaning process, to water large areas of turf grass. Researchers have found ways to breed salt-tolerant turf that can withstand this irrigation.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="58">
+        <date>Thu Jun 25 16:11:57 EEST 2015</date>
+        <title>Antarctic life: Highly diverse, unusually structured</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/mQGlMN3U_zI/150625091157.htm</Link>
+        <Description>In a comprehensive assessment of Antarctic biodiversity scientists have revealed the region is more diverse and biologically interesting than previously thought. The team noted several unusual ways in which patterns of biodiversity are produced in the region. Geothermal, heated areas, such as volcanoes, have played an important role as refuges from icy, glacial conditions on land. At sea, wind has an especially significant effect on diversity. Windier areas have more seabird species.</Description>
+        <MainBody/>
+    </Article>
+    <Article id="59">
+        <date>Thu Jun 25 16:11:53 EEST 2015</date>
+        <title>Writing program with student interaction creates sense of purpose for seniors</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/BvwLzPLniaM/150625091153.htm</Link>
+        <Description>A unique program combining a life review writing workshop with conversations between seniors and college students enhances the sense of meaning in life for older adults living independently, finds a new study.</Description>
+=======
+        <date>Sat Jun 27 15:12:38 EEST 2015</date>
+        <title>Orange is the new red</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/YxaL9vQqFsY/150627081238.htm</Link>
+        <Description>A photoprotective mechanism in cyanobacteria is triggered by an unprecedented, large-scale movement from one location to another of the carotenoid pigment within the Orange Carotenoid Protein, researchers have discovered.</Description>
+>>>>>>> b0d9700a571c203eac335d065afaefc885316d4c
         <MainBody/>
     </Article>
     <Article id="1">
@@ -414,10 +840,18 @@
         <MainBody/>
     </Article>
     <Article id="59">
+<<<<<<< HEAD
         <date>Mon Jul 06 16:00:51 EEST 2015</date>
         <title>How cancer cells avoid shutdown</title>
         <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/z-yWL5kDLJA/150706090051.htm</Link>
         <Description>Researchers unravel mechanisms by which a protein that promotes tumor growth is produced during stress. The specific protein concerned in the team's study is the protease cathepsin L, a certain enzyme. It is long known that high levels of this protease in breast cancers are associated with high metastasis rates and poor survival of the patients.</Description>
+=======
+        <date>Fri Jun 26 00:07:51 EEST 2015</date>
+        <title>New strategies for combatting chronic kidney disease, other long-term conditions</title>
+        <Link>http://feeds.sciencedaily.com/~r/sciencedaily/~3/GUFjpWkk8JM/150625170751.htm</Link>
+        <Description>New strategies for using electronic health records (EHRs) to treat patients with chronic kidney disease have been outlined by investigators. Their recommendations may help clinicians and hospitals better manage individual patients with chronic conditions and identify groups of patients most likely to benefit from different treatment strategies.</Description>
+>>>>>>> cae8ddae84433650e63f1b14a36950d69141457f
+>>>>>>> b0d9700a571c203eac335d065afaefc885316d4c
         <MainBody/>
     </Article>
 </site>
